@@ -1,0 +1,272 @@
+http://amazoniaemdados.info/home/home.php
+http://amazoniaemdados.info/explore/explore.php
+http://amazoniaemdados.info/sobre/sobre.php
+http://amazoniaemdados.info/atlas/atlas.php
+http://amazoniaemdados.info/desafios/desafios.php?regiao=Amazônia Legal&area=todas
+http://amazoniaemdados.info/home/home.php?regiao=Amazônia Legal
+http://amazoniaemdados.info/desafios/desafios.php?regiao=&area=todas
+http://amazoniaemdados.info/compare/compare.php?regiao=Amazonas&regiao1=Roraima&area=Educação__485&indicador=TX_INEP_IDEB_AI_UF__485
+http://amazoniaemdados.info/explore/explore.php?regiao=Amazônia
+http://amazoniaemdados.info/dashboard/pre-perfil.php
+http://amazoniaemdados.info/atlas/atlas.php?regiao=Amazônia Legal
+http://amazoniaemdados.info/dashboard/pre-perfil.php?regiao=Amazônia Legal
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Desenvolvimento Social__89&indicador=TX_PNAD_GINI_UF__89
+http://amazoniaemdados.info/compare/compare.php?regiao=Maranhão&regiao1=Amazonas&area=Educação__1090&indicador=TX_INEP_IDEB_AI_UF__1090
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Economia__78&indicador=TX_IBGE_PIB_PC_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Economia__78&indicador=TX_PNAD_DESEMPREGO_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Infraestrutura__122&indicador=TX_CNT_ROD_PAVIMENTADA_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Institucional__45&indicador=TX_CNJ_CONGESTIONAMENTO_UF__45
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Saneamento__23&indicador=TX_PNAD_DOM_SANEAMENTO_UF__23
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Saúde__67&indicador=TX_DATASUS_DCNT_30_69_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Educação__100&indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Infraestrutura__122&indicador=TX_PNAD_TIC_POP_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Ciência e Tecnologia__56&indicador=TX_MCTIC_DISPENDIOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Infraestrutura__122&indicador=TX_PNAD_DOM_CELULAR_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Educação__100&indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Ciência e Tecnologia__56&indicador=TX_CAPES_TITULADOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Educação__100&indicador=TX_INEP_IDEB_AF_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Desenvolvimento Social__89&indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Segurança__155&indicador=TX_DATASUS_TRANSITO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Desenvolvimento Social__89&indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Saúde__67&indicador=TX_DATASUS_MORT_INFANTIL_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Desenvolvimento Social__89&indicador=TX_PNAD_NEM_NEM_NEM_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Economia__78&indicador=TX_PNAD_INFORMAL_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Infraestrutura__122&indicador=TX_PNAD_DOM_CELULAR_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Infraestrutura__122&indicador=TX_CNT_ROD_PAVIMENTADA_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Infraestrutura__122&indicador=TX_PNAD_DOM_CELULAR_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Segurança__155&indicador=TX_DATASUS_TRANSITO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Desenvolvimento Social__89&indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Desenvolvimento Social__89&indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Desenvolvimento Social__89&indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Desenvolvimento Social__89&indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Desenvolvimento Social__89&indicador=TX_PNAD_NEM_NEM_NEM_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Desenvolvimento Social__89&indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Desenvolvimento Social__89&indicador=TX_PNAD_NEM_NEM_NEM_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Desenvolvimento Social__89&indicador=TX_PNAD_NEM_NEM_NEM_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Desenvolvimento Social__89&indicador=TX_PNAD_NEM_NEM_NEM_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Desenvolvimento Social__89&indicador=TX_PNAD_NEM_NEM_NEM_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Economia__78&indicador=TX_PNAD_DESEMPREGO_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Desenvolvimento Social__89&indicador=TX_PNAD_NEM_NEM_NEM_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Economia__78&indicador=TX_PNAD_DESEMPREGO_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Economia__78&indicador=TX_PNAD_DESEMPREGO_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Desenvolvimento Social__89&indicador=TX_PNAD_GINI_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Economia__78&indicador=TX_PNAD_DESEMPREGO_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Economia__78&indicador=TX_PNAD_INFORMAL_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Economia__78&indicador=TX_PNAD_DESEMPREGO_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Economia__78&indicador=TX_PNAD_INFORMAL_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Economia__78&indicador=TX_PNAD_INFORMAL_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Economia__78&indicador=TX_PNAD_DESEMPREGO_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Economia__78&indicador=TX_PNAD_INFORMAL_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Ciência e Tecnologia__56&indicador=TX_MCTIC_DISPENDIOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Economia__78&indicador=TX_PNAD_INFORMAL_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Economia__78&indicador=TX_IBGE_PIB_PC_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Ciência e Tecnologia__56&indicador=TX_CAPES_TITULADOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Economia__78&indicador=TX_IBGE_PIB_PC_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Ciência e Tecnologia__56&indicador=TX_CAPES_TITULADOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Ciência e Tecnologia__56&indicador=TX_MCTIC_DISPENDIOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Saneamento__23&indicador=TX_PNAD_DOM_SANEAMENTO_UF__23
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Saneamento__23&indicador=TX_PNAD_DOM_SANEAMENTO_UF__23
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Institucional__45&indicador=TX_CNJ_CONGESTIONAMENTO_UF__45
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Institucional__45&indicador=TX_CNJ_CONGESTIONAMENTO_UF__45
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Educação__100&indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Educação__100&indicador=TX_INEP_IDEB_AF_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Educação__100&indicador=TX_INEP_IDEB_AF_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Educação__100&indicador=TX_INEP_IDEB_AF_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Educação__100&indicador=TX_INEP_IDEB_AF_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Educação__100&indicador=TX_INEP_IDEB_AF_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Educação__100&indicador=TX_INEP_IDEB_AF_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Saúde__67&indicador=TX_DATASUS_MORT_INFANTIL_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Saúde__67&indicador=TX_DATASUS_MORT_INFANTIL_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Saúde__67&indicador=TX_DATASUS_MORT_INFANTIL_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Saúde__67&indicador=TX_DATASUS_MORT_INFANTIL_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Saúde__67&indicador=TX_DATASUS_MORT_INFANTIL_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Infraestrutura__122&indicador=TX_PNAD_TIC_POP_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Infraestrutura__122&indicador=TX_PNAD_TIC_POP_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Infraestrutura__122&indicador=TX_PNAD_TIC_POP_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Infraestrutura__122&indicador=TX_PNAD_TIC_POP_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Infraestrutura__122&indicador=TX_PNAD_TIC_POP_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Segurança__155&indicador=TX_DATASUS_TRANSITO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Segurança__155&indicador=TX_DATASUS_TRANSITO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Desenvolvimento Social__89&indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Segurança__155&indicador=TX_DATASUS_TRANSITO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Desenvolvimento Social__89&indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Desenvolvimento Social__89&indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Ciência e Tecnologia__56&indicador=TX_MCTIC_DISPENDIOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Desenvolvimento Social__89&indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Economia__78&indicador=TX_IBGE_PIB_PC_UF__78
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Ciência e Tecnologia__56&indicador=TX_CAPES_TITULADOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Desenvolvimento Social__89&indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Ciência e Tecnologia__56&indicador=TX_MCTIC_DISPENDIOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Ciência e Tecnologia__56&indicador=TX_CAPES_TITULADOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Ciência e Tecnologia__56&indicador=TX_MCTIC_DISPENDIOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Ciência e Tecnologia__56&indicador=TX_CAPES_TITULADOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Ciência e Tecnologia__56&indicador=TX_CAPES_TITULADOS_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Ciência e Tecnologia__56&indicador=TX_RAIS_OCUPADOS_TEC_UF__56
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Educação__100&indicador=TX_PNAD_CRECHE_0_3_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Educação__100&indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Meio Ambiente__34&indicador=TX_SEEG_CO2_PER_CAPITA_UF__34
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Educação__100&indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Educação__100&indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Educação__100&indicador=TX_PNAD_PREESCOLA_4_5_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Educação__100&indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Educação__100&indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Educação__100&indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Educação__100&indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Educação__100&indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Educação__100&indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Educação__100&indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Educação__100&indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Educação__100&indicador=TX_INEP_IDEB_AF_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Saúde__67&indicador=TX_DATASUS_MORT_INFANTIL_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Educação__100&indicador=TX_INEP_IDEB_AI_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Educação__100&indicador=TX_INEP_IDEB_EM_UF__100
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Infraestrutura__122&indicador=TX_PNAD_TIC_POP_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Saúde__67&indicador=TX_DATASUS_MORT_INFANTIL_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Saúde__67&indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Infraestrutura__122&indicador=TX_PNAD_DOM_CELULAR_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Infraestrutura__122&indicador=TX_PNAD_TIC_POP_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Infraestrutura__122&indicador=TX_CNT_ROD_PAVIMENTADA_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Infraestrutura__122&indicador=TX_PNAD_DOM_CELULAR_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Infraestrutura__122&indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Infraestrutura__122&indicador=TX_PNAD_DOM_CELULAR_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Infraestrutura__122&indicador=TX_PNAD_DOM_CELULAR_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Infraestrutura__122&indicador=TX_CNT_ROD_PAVIMENTADA_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&area=Infraestrutura__122&indicador=TX_CNT_ROD_PAVIMENTADA_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Infraestrutura__122&indicador=TX_CNT_ROD_QUALIDADE_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato Grosso&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Infraestrutura__122&indicador=TX_ABRADEE_FEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Segurança__155&indicador=TX_DATASUS_HOMICIDIO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&area=Infraestrutura__122&indicador=TX_ABRADEE_DEC_UF__122
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&area=Segurança__155&indicador=TX_DATASUS_TRANSITO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Segurança__155&indicador=TX_DATASUS_TRANSITO_UF__155
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&area=Desenvolvimento Social__89&indicador=TX_PNAD_POP_POBRES_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89
+http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&area=Desenvolvimento Social__89&indicador=TX_PNAD_RENDA_DOM_PC_UF__89

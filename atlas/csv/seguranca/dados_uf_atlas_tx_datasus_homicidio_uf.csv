@@ -1,0 +1,28 @@
+"AREA","INDICADOR","REGIAO","COD_IBGE","MICROREGIAO","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019"
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",11,"Rondônia",35.8,35.5,28.5,33.1,27.9,33.1,33.9,39.3,30.7,27.1,25.2
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",12,"Acre",22.1,23,22,27.4,30.1,29.4,27,44.4,62.2,47.1,36.9
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",13,"Amazonas",27,31.2,36.5,37.4,31.3,32,37.4,36.3,41.2,37.8,38.4
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",14,"Roraima",28,27.4,20.6,30.7,43.8,31.8,40.1,39.7,47.5,71.8,38.6
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",15,"Pará",40.2,46.6,40,41.6,42.7,42.7,45,51,54.7,53.2,39.6
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",16,"Amapá",30.3,39.7,30.5,36.2,30.6,34.1,38.2,48.7,48,51.4,42.7
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",17,"Tocantins",22.4,24.3,25.8,26.7,23.6,25.5,33.2,37.6,35.9,36.7,29
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",21,"Maranhão",22,23.3,23.9,26.5,31.8,35.9,35.3,34.6,31.1,28.2,24.1
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",22,"Piauí",12.2,13.1,14,16.6,18.8,22.4,20.3,21.8,19.4,19,17.4
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",23,"Ceará",25.3,31.5,32.7,44.6,51,52.3,46.8,40.6,60.2,54,26.5
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",24,"Rio Grande do Norte",25.5,25.6,33,34.8,42.9,47,44.9,53.4,62.8,52.5,38.4
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",25,"Paraíba",33.5,38.5,42.6,40,39.6,39.3,38.3,33.9,33.3,31.1,23.7
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",26,"Pernambuco",45,39.3,39.2,37.3,33.9,36.2,41.2,47.3,57.2,44.1,36.4
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",27,"Alagoas",59.3,66.3,71.4,64.6,65.1,62.8,52.3,54.2,53.7,43.4,33.4
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",28,"Sergipe",32.3,32.9,35,41.6,44,49.4,58.1,64.7,57.4,49.7,42.3
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",29,"Bahia",37.1,40.7,39.4,43.4,37.8,40,39.5,46.9,48.8,45.8,41.1
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",31,"Minas Gerais",18.7,18.3,21.6,23,22.9,22.8,21.7,22,20.4,16,13.7
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",32,"Espírito Santo",56.9,51,47.1,46.6,42.2,41.4,36.9,32,37.9,29.3,26
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",33,"Rio de Janeiro",33.5,35.3,29.7,29.4,31.2,34.7,30.6,36.4,38.4,37.6,20.6
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",35,"São Paulo",15.8,14.6,14,15.7,13.8,14,12.2,10.9,10.3,8.2,7.3
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",41,"Paraná",34.6,33.8,32.1,33,26.7,26.9,26.3,27.4,24.4,21.5,18.3
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",42,"Santa Catarina",13.4,13.2,12.8,12.9,11.9,13.5,14,14.2,15.2,11.9,10.7
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",43,"Rio Grande do Sul",20.5,19.3,19.4,22.1,20.8,24.3,26.2,28.6,29.3,23.8,19.2
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",50,"Mato Grosso do Sul",30.7,27.1,27.2,27.3,24.3,26.7,23.9,25,24.3,20.8,17.7
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",51,"Mato Grosso",33.3,32,32.8,34.5,36.4,42.1,36.8,35.7,32.9,28.7,25.7
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",52,"Goiás",32.1,33,37.4,45.4,46.2,44.3,45.3,45.3,42.8,38.6,32.1
+"Segurança","TX_DATASUS_HOMICIDIO_UF","Amazônia Legal",53,"Distrito Federal",33.8,30.1,34.6,36,30,29.6,25.5,25.5,20.1,17.8,15.9

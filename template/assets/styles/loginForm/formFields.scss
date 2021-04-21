@@ -1,0 +1,27 @@
+.fieldsGroup
+{
+    margin-bottom: $margemGruposDeCampos;
+
+    .loginFormField
+    {
+        &:not(:last-child)
+        {
+            margin-bottom: $margemCampos;
+        }        
+
+        width: 100%;
+        @include formText('bold', 24px);
+
+        &.invalidInput
+        {
+            border:1px solid red;
+        }        
+
+        transition: border 0.6s linear;
+    }
+
+    .loginFormFieldTitle
+    {
+        @include formText('bold', 24px);
+    }
+}

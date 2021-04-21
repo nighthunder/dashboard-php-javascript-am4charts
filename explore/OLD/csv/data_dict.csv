@@ -1,0 +1,358 @@
+Nome,Tipo,Decimal,Formato,Unidade,Variacao,Inicio,Fim,Sinal,Fonte,Descricao,Area,Localidade
+ABS_CAPES_TITULADOS_MUN,inteiro,0,absoluto,,%,2009,2019,-,CAPES,Número total de pessoas com mestrado, mestrado profissional ou doutorado,Ciência e Tecnologia,Municipal
+ABS_CAPES_TITULADOS_UF,inteiro,0,absoluto,,%,2009,2019,-,CAPES,Número total de pessoas com mestrado, mestrado profissional ou doutorado,Ciência e Tecnologia,Estadual
+ABS_MCTIC_DISPENDIOS_UF,decimal,2,absoluto,,%,2007,2017,-,MCTIC,Valor total de dispêndios em Ciência e Tecnologia,Ciência e Tecnologia,Estadual
+ABS_MCTIC_PATENTES_CONCEDIDAS_UF,inteiro,0,absoluto,,%,2008,2018,-,MCTIC,Número de patentes condedias pelo INPI,Ciência e Tecnologia,Estadual
+ABS_MCTIC_PATENTES_PEDIDAS_UF,inteiro,0,absoluto,,%,2008,2018,-,MCTIC,Número de patentes pedidas para o INPI,Ciência e Tecnologia,Estadual
+ABS_MCTIC_RECEITA_UF,decimal,2,absoluto,,%,2007,2017,-,MCTIC,Valor total da receita,Ciência e Tecnologia,Estadual
+ABS_RAIS_OCUPADOS_CeT_MUN,inteiro,0,absoluto,,%,2008,2018,-,RAIS,Número de profissionais de vínculo ativo em ocupações de ciêncie e tecnologia,Ciência e Tecnologia,Municipal
+ABS_RAIS_OCUPADOS_CeT_UF,inteiro,0,absoluto,,%,2008,2018,-,RAIS,Número de profissionais de vínculo ativo em ocupações de ciêncie e tecnologia,Ciência e Tecnologia,Estadual
+ABS_RAIS_OCUPADOS_MUN,inteiro,0,absoluto,,%,2008,2018,-,RAIS,Número de profissionais com vínculo ativo,Ciência e Tecnologia,Municipal
+ABS_RAIS_OCUPADOS_UF,inteiro,0,absoluto,,%,2008,2018,-,RAIS,Número de profissionais com vínculo ativo,Ciência e Tecnologia,Estadual
+ABS_RAIS_TITULADOS_MUN,inteiro,0,absoluto,,%,2008,2018,-,RAIS,Número de profissionais de vínculo ativo com mestrado ou doutorado,Ciência e Tecnologia,Municipal
+ABS_RAIS_TITULADOS_UF,inteiro,0,absoluto,,%,2008,2018,-,RAIS,Número de profissionais de vínculo ativo com mestrado ou doutorado,Ciência e Tecnologia,Estadual
+TX_CAPES_TITULADOS_MUN,decimal,1,absoluto,por 100 mil hab,%,2009,2019,1,CAPES/IBGE,Taxa de mestres e doutores por 100 mil habitantes,Ciência e Tecnologia,Municipal
+TX_CAPES_TITULADOS_UF,decimal,1,absoluto,por 100 mil hab,%,2009,2019,1,CAPES/IBGE,Taxa de mestres e doutores por 100 mil habitantes,Ciência e Tecnologia,Estadual
+TX_MCTIC_DISPENDIOS_UF,decimal,1,percentual,%,p.p.,2007,2017,1,MCTIC,Percentual de dispêndios em C&T com relação à receita total,Ciência e Tecnologia,Estadual
+TX_MCTIC_PATENTES_CONCEDIDAS_UF,inteiro,0,absoluto,,%,2008,2018,-,MCTIC,Número de patentes condedias pelo INPI,Ciência e Tecnologia,Estadual
+TX_MCTIC_PATENTES_PEDIDAS_UF,inteiro,0,absoluto,,%,2008,2018,-,MCTIC,Número de patentes pedidas para o INPI,Ciência e Tecnologia,Estadual
+TX_RAIS_OCUPADOS_TEC_MUN,decimal,1,percentual,%,p.p.,2008,2018,1,RAIS,Percentual de vínculos em ocupações técnico-científicas,Ciência e Tecnologia,Municipal
+TX_RAIS_OCUPADOS_TEC_UF,decimal,1,percentual,%,p.p.,2008,2018,1,RAIS,Percentual de vínculos em ocupações técnico-científicas,Ciência e Tecnologia,Estadual
+ABS_DATASUS_POP_30_69_MUN,inteiro,0,absoluto,,%,2009,2019,-,DataSUS,População total de 30 a 69 anos,Demografia,Municipal
+ABS_IBGE_AREA_MUN,decimal,1,absoluto,,%,2010,2010,-,IBGE,Área total em Km²,Demografia,Municipal
+ABS_IBGE_AREA_UF,decimal,1,absoluto,,%,2010,2010,-,IBGE,Área total em Km²,Demografia,Estadual
+ABS_IBGE_POP_0_3_MUN,inteiro,0,absoluto,,%,2009,2019,-,IBGE,População total de 0 a 3 anos,Demografia,Municipal
+ABS_IBGE_POP_4_5_MUN,inteiro,0,absoluto,,%,2009,2019,-,IBGE,População total de 4 a 5 anos,Demografia,Municipal
+ABS_IBGE_POP_CENSO_CONTAGEM_MUN,decimal,0,absoluto,,%,2009,2020,-,IBGE,Estimativas populacionais segundo o IBGE, Contagem Populacinal de 2007 e Censo de 2010,Demografia,Municipal
+ABS_IBGE_POP_CENSO_CONTAGEM_UF,decimal,0,absoluto,,%,2009,2020,-,IBGE,Estimativas populacionais segundo o IBGE, Contagem Populacinal de 2007 e Censo de 2010,Demografia,Estadual
+ABS_IBGE_POP_COM_MEDIAS_MUN,decimal,0,absoluto,,%,2009,2020,-,IBGE,Estimativas populacionais segundo o IBGE com média para 2007 e 2010,Demografia,Municipal
+ABS_IBGE_POP_COM_MEDIAS_UF,decimal,0,absoluto,,%,2009,2020,-,IBGE,Estimativas populacionais segundo o IBGE com média para 2007 e 2010,Demografia,Estadual
+ABS_PNAD_30_69_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total de 30 a 69 anos,Demografia,Estadual
+ABS_PNAD_DEPENDENTES_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas com menos de 15 anos ou mais de 64 anos,Demografia,Capital
+ABS_PNAD_DEPENDENTES_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas com menos de 15 anos ou mais de 64 anos,Demografia,Estadual
+ABS_PNAD_DOMICILIOS_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Número total de domicílios,Demografia,Capital
+ABS_PNAD_DOMICILIOS_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Número total de domicílios,Demografia,Estadual
+ABS_PNAD_IDADE_CRECHE_CAPITAL,decimal,0,absoluto,,%,2016,2019,-,PNAD,População total de 0 a 3 anos,Demografia,Capital
+ABS_PNAD_IDADE_CRECHE_UF,decimal,0,absoluto,,%,2016,2019,-,PNAD,População total de 0 a 3 anos,Demografia,Estadual
+ABS_PNAD_IDADE_PREESCOLA_CAPITAL,decimal,0,absoluto,,%,2016,2019,-,PNAD,População total de 4 a 5 anos,Demografia,Capital
+ABS_PNAD_IDADE_PREESCOLA_UF,decimal,0,absoluto,,%,2016,2019,-,PNAD,População total de 4 a 5 anos,Demografia,Estadual
+ABS_PNAD_PIRAMIDE_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas em cada faixa etária,Demografia,Capital
+ABS_PNAD_PIRAMIDE_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas em cada faixa etária,Demografia,Estadual
+ABS_PNAD_POP_15_29_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total de 15 a 29 anos,Demografia,Capital
+ABS_PNAD_POP_15_29_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total de 15 a 29 anos,Demografia,Estadual
+ABS_PNAD_POP_15_MAIS_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População Total de 15 anos ou mais,Demografia,Capital
+ABS_PNAD_POP_15_MAIS_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População Total de 15 anos ou mais,Demografia,Estadual
+ABS_PNAD_POP_25_29_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total de 25 a 29 anos,Demografia,Capital
+ABS_PNAD_POP_25_29_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total de 25 a 29 anos,Demografia,Estadual
+ABS_PNAD_POP_25_MAIS_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total com 25 anos ou mais,Demografia,Capital
+ABS_PNAD_POP_25_MAIS_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total com 25 anos ou mais,Demografia,Estadual
+ABS_PNAD_POP_30_69_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total de 30 a 69 anos,Demografia,Capital
+ABS_PNAD_POP_PRODUTIVA_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas de 15 a 64 anos,Demografia,Capital
+ABS_PNAD_POP_PRODUTIVA_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas de 15 a 64 anos,Demografia,Estadual
+ABS_PNAD_POP_RDPC_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População com renda, exceto pensionista, empregado(a) doméstico(a) ou parente do(a) empregado(a) doméstico(a),Demografia,Capital
+ABS_PNAD_POP_RDPC_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População com renda, exceto pensionista, empregado(a) doméstico(a) ou parente do(a) empregado(a) doméstico(a),Demografia,Estadual
+ABS_PNAD_POP_RENDA_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População com rendimento domiciliar per capita,Demografia,Capital
+ABS_PNAD_POP_RENDA_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População com rendimento domiciliar per capita,Demografia,Estadual
+ABS_PNAD_POP_TOTAL_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total segundo a PNAD,Demografia,Capital
+ABS_PNAD_POP_TOTAL_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População total segundo a PNAD,Demografia,Estadual
+TX_IBGE_DENSIDADE_DEMOG_MUN,decimal,1,absoluto,hab/Km²,%,2009,2019,-1,IBGE,Densidade demográfica,Demografia,Municipal
+TX_IBGE_DENSIDADE_DEMOG_UF,decimal,1,absoluto,hab/Km²,%,2012,2019,-1,PNAD/IBGE,Densidade demográfica,Demografia,Estadual
+TX_IBGE_POP_MUN,decimal,0,absoluto,,%,2009,2019,-1,IBGE,Estimativas populacionais segundo o IBGE,Demografia,Municipal
+TX_IBGE_POP_UF,decimal,0,absoluto,,%,2009,2019,-1,IBGE,Estimativas populacionais segundo o IBGE,Demografia,Estadual
+TX_PNAD_PIRAMIDE_CAPITAL,decimal,1,percentual,,p.p.,2012,2019,-,PNAD,Porcentagem de pessoas em cada faixa etária,Demografia,Capital
+TX_PNAD_PIRAMIDE_UF,decimal,1,percentual,,p.p.,2012,2019,-,PNAD,Porcentagem de pessoas em cada faixa etária,Demografia,Estadual
+TX_PNAD_POP_UF,decimal,0,absoluto,,%,2012,2019,-1,PNAD,População total segundo a PNAD,Demografia,Estadual
+TX_PNAD_RAZAO_DEPENDENCIA_CAPITAL,decimal,1,absoluto,%,%,2012,2019,-1,PNAD,Razão de dependência,Demografia,Capital
+TX_PNAD_RAZAO_DEPENDENCIA_UF,decimal,1,absoluto,%,%,2012,2019,-1,PNAD,Razão de dependência,Demografia,Estadual
+ABS_PNAD_POP_TOTAL_COR_UF,decimal,0,absoluto,,%,2012,2019,1,PNAD,População total por raça/cor,Demografia,Estadual
+ABS_PNAD_POP_TOTAL_SEXO_UF,decimal,0,absoluto,,%,2012,2019,1,PNAD,População total por sexo,Demografia,Estadual
+ABS_DATASUS_NASCIDOS_MAE_ADOLESCENTE_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de nascidos vivos de mães adolescentes,Desenvolvimento Social,Municipal
+ABS_DATASUS_NASCIDOS_MAE_ADOLESCENTE_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de nascidos vivos de mães adolescentes,Desenvolvimento Social,Estadual
+ABS_IBGE_LIMITEPOBREZA_UF,decimal,2,absoluto,,%,2012,2019,-,IBGE,Limite da pobreza,Desenvolvimento Social,Estadual
+ABS_PNAD_GINI_CAPITAL,decimal,3,absoluto,,%,2012,2019,-1,PNAD,Índice de Gini,Desenvolvimento Social,Capital
+ABS_PNAD_GINI_UF,decimal,3,absoluto,,%,2012,2019,-1,PNAD,Índice de Gini,Desenvolvimento Social,Estadual
+ABS_PNAD_MORADIA_INADEQUADA_CAPITAL,decimal,0,absoluto,,%,2017,2019,-,PNAD,Total de domicílios com condições inadequadas,Desenvolvimento Social,Capital
+ABS_PNAD_MORADIA_INADEQUADA_UF,decimal,0,absoluto,,%,2017,2019,-,PNAD,Total de domicílios com condições inadequadas,Desenvolvimento Social,Estadual
+ABS_PNAD_POP_NEM_NEM_NEM_15_29_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas de 15 a 29 anos nem-nem-nem,Desenvolvimento Social,Capital
+ABS_PNAD_POP_NEM_NEM_NEM_15_29_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas de 15 a 29 anos nem-nem-nem,Desenvolvimento Social,Estadual
+ABS_PNAD_POP_POBRES_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas abaixo da linha da pobreza,Desenvolvimento Social,Capital
+ABS_PNAD_POP_POBRES_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas abaixo da linha da pobreza,Desenvolvimento Social,Estadual
+ABS_PNAD_RENDA_DOM_NOMINAL_CAPITAL,decimal,2,moeda,,%,2012,2019,-,PNAD,Renda domiciliar nominal,Desenvolvimento Social,Capital
+ABS_PNAD_RENDA_DOM_NOMINAL_DEFLA_CAPITAL,decimal,2,moeda,,%,2012,2019,-,PNAD,Renda domiciliar nominal deflacionada,Desenvolvimento Social,Capital
+ABS_PNAD_RENDA_DOM_NOMINAL_DEFLA_UF,decimal,2,moeda,,%,2012,2019,-,PNAD,Renda domiciliar nominal deflacionada,Desenvolvimento Social,Estadual
+ABS_PNAD_RENDA_DOM_NOMINAL_UF,decimal,2,moeda,,%,2012,2019,-,PNAD,Renda domiciliar nominal,Desenvolvimento Social,Estadual
+TX_DATASUS_GRAVIDEZ_PRECOCE_MUN,decimal,1,percentual,%,p.p.,2008,2018,-1,DataSUS,Gravidez precoce,Desenvolvimento Social,Municipal
+TX_DATASUS_GRAVIDEZ_PRECOCE_UF,decimal,1,percentual,%,p.p.,2008,2018,-1,DataSUS,Gravidez precoce,Desenvolvimento Social,Estadual
+TX_PNAD_GINI_CAPITAL,decimal,3,absoluto,,%,2012,2019,-,PNAD,Índice de Gini,Desenvolvimento Social,Capital
+TX_PNAD_GINI_UF,decimal,3,absoluto,,%,2012,2019,-,PNAD,Índice de Gini,Desenvolvimento Social,Estadual
+TX_PNAD_MORADIA_INADEQUADA_CAPITAL,decimal,1,percentual,%,p.p.,2016,2019,-1,PNAD,Inadequações de moradia,Desenvolvimento Social,Capital
+TX_PNAD_MORADIA_INADEQUADA_UF,decimal,1,percentual,%,p.p.,2016,2019,-1,PNAD,Inadequações de moradia,Desenvolvimento Social,Estadual
+TX_PNAD_NEM_NEM_NEM_CAPITAL,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Percentual de jovens nem-nem-nem,Desenvolvimento Social,Capital
+TX_PNAD_NEM_NEM_NEM_COR_UF,decimal,1,percentual,,p.p.,2012,2019,-1,PNAD,Percentual de jovens nem-nem-nem por raça/cor,Desenvolvimento Social,Estadual
+TX_PNAD_NEM_NEM_NEM_SEXO_UF,decimal,1,percentual,,p.p.,2012,2019,-1,PNAD,Percentual de jovens nem-nem-nem por sexo,Desenvolvimento Social,Estadual
+TX_PNAD_NEM_NEM_NEM_UF,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Percentual de jovens nem-nem-nem,Desenvolvimento Social,Estadual
+TX_PNAD_POP_POBRES_CAPITAL,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Percentual de pobreza,Desenvolvimento Social,Capital
+TX_PNAD_POP_POBRES_UF,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Percentual de pobreza,Desenvolvimento Social,Estadual
+TX_PNAD_RENDA_DOM_PC_CAPITAL,decimal,2,moeda,R$,%,2012,2019,1,PNAD,Renda domiciliar per capita,Desenvolvimento Social,Capital
+TX_PNAD_RENDA_DOM_PC_UF,decimal,2,moeda,R$,%,2012,2019,1,PNAD,Renda domiciliar per capita,Desenvolvimento Social,Estadual
+ABS_DEFLATOR_CO1_UF,decimal,2,absoluto,,%,2011,2019,-,IBGE,Deflator CO1,Economia,Estadual
+ABS_DEFLATOR_CO1e_UF,decimal,2,absoluto,,%,2011,2019,-,IBGE,Deflator CO1e,Economia,Estadual
+ABS_DEFLATOR_CO2_UF,decimal,2,absoluto,,%,2011,2019,-,IBGE,Deflator CO2,Economia,Estadual
+ABS_DEFLATOR_CO2e_UF,decimal,2,absoluto,,%,2011,2019,-,IBGE,Deflator CO2e,Economia,Estadual
+ABS_DEFLATOR_CO3_UF,decimal,2,absoluto,,%,2011,2019,-,IBGE,Deflator CO3,Economia,Estadual
+ABS_IBGE_IPCA,decimal,3,absoluto,,%,2008,2018,-,IBGE,1 + Índice IPCA / 100,Economia,Nacional
+ABS_IBGE_IPCA_DEFLATOR_2017,decimal,3,absoluto,,%,2008,2018,-,IBGE,Deflator IPCA 2017,Economia,Nacional
+ABS_IBGE_IPCA_DEFLATOR_2018,decimal,3,absoluto,,%,2008,2018,-,IBGE,Deflator IPCA 2018,Economia,Nacional
+ABS_IBGE_IPCA_DEFLATOR_2019,decimal,3,absoluto,,%,2008,2018,-,IBGE,Deflator IPCA 2019,Economia,Nacional
+ABS_IBGE_IPCA_VALOR,decimal,3,absoluto,,%,2008,2018,-,IBGE,Índice IPCA,Economia,Nacional
+ABS_IBGE_PIB_CORRENTE_MUN,inteiro,0,moeda,,%,2007,2017,-,IBGE,PIB a preços correntes,Economia,Municipal
+ABS_IBGE_PIB_CORRENTE_UF,inteiro,0,moeda,,%,2007,2017,-,IBGE,PIB a preços correntes,Economia,Estadual
+ABS_IBGE_PIB_SERIE_ENCAD_MUN,decimal,3,absoluto,,%,2007,2017,-,IBGE,Série encadeada do PIB,Economia,Municipal
+ABS_IBGE_PIB_SERIE_ENCAD_UF,decimal,3,absoluto,,%,2007,2017,-,IBGE,Série encadeada do PIB,Economia,Estadual
+ABS_IBGE_VAB_ADM_MUN,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto em Administração,Economia,Municipal
+ABS_IBGE_VAB_ADM_UF,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto em Administração,Economia,Estadual
+ABS_IBGE_VAB_AGRO_MUN,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto em Agropecuária,Economia,Municipal
+ABS_IBGE_VAB_AGRO_UF,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto em Agropecuária,Economia,Estadual
+ABS_IBGE_VAB_INDU_MUN,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto em Indústria,Economia,Municipal
+ABS_IBGE_VAB_INDU_UF,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto em Indústria,Economia,Estadual
+ABS_IBGE_VAB_MUN,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto Total,Economia,Municipal
+ABS_IBGE_VAB_SERV_MUN,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto em Serviços,Economia,Municipal
+ABS_IBGE_VAB_SERV_UF,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto em Serviços,Economia,Estadual
+ABS_IBGE_VAB_UF,inteiro,0,moeda,,%,2007,2017,-,IBGE,Valor Adicionado Bruto Total,Economia,Estadual
+ABS_PNAD_DESOCUPADOS_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas desocupadas,Economia,Capital
+ABS_PNAD_DESOCUPADOS_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas desocupadas,Economia,Estadual
+ABS_PNAD_INFORMAIS_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Toda de pessoas trabalhando na informalidade,Economia,Capital
+ABS_PNAD_INFORMAIS_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Toda de pessoas trabalhando na informalidade,Economia,Estadual
+ABS_PNAD_OCUPADOS_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas ocupadas,Economia,Capital
+ABS_PNAD_OCUPADOS_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas ocupadas,Economia,Estadual
+ABS_PNAD_POP_FORCA_TRAB_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas na força de trabalho,Economia,Capital
+ABS_PNAD_POP_FORCA_TRAB_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas na força de trabalho,Economia,Estadual
+TX_IBGE_PIB_CONSTANTE_MUN,decimal,2,moeda,R$,%,2007,2017,1,IBGE,PIB  a preços constantes,Economia,Municipal
+TX_IBGE_PIB_CONSTANTE_UF,decimal,2,moeda,R$,%,2007,2017,1,IBGE,PIB  a preços constantes,Economia,Estadual
+TX_IBGE_PIB_PC_MUN,decimal,2,moeda,R$,%,2007,2017,1,IBGE,PIB per capita,Economia,Municipal
+TX_IBGE_PIB_PC_UF,decimal,2,moeda,R$,%,2007,2017,1,IBGE,PIB per capita,Economia,Estadual
+TX_IBGE_QL_VAB_MUN,decimal,2,absoluto,,%,2007,2017,1,IBGE,Quociente Locacional do VAB,Economia,Municipal
+TX_IBGE_QL_VAB_UF,decimal,2,absoluto,,%,2007,2017,1,IBGE,Quociente Locacional do VAB,Economia,Estadual
+TX_PNAD_DESEMPREGO_CAPITAL,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Taxa de desemprego,Economia,Capital
+TX_PNAD_DESEMPREGO_COR_UF,decimal,1,percentual,,p.p.,2012,2019,-1,PNAD,Taxa de desemprego por raça/cor,Economia,Estadual
+TX_PNAD_DESEMPREGO_SEXO_UF,decimal,1,percentual,,p.p.,2012,2019,-1,PNAD,Taxa de desemprego por sexo,Economia,Estadual
+TX_PNAD_DESEMPREGO_UF,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Taxa de desemprego,Economia,Estadual
+TX_PNAD_INFORMAL_CAPITAL,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Percentual de ocupados informais,Economia,Capital
+TX_PNAD_INFORMAL_COR_UF,decimal,1,percentual,,p.p.,2012,2019,-1,PNAD,Percentual de ocupados informais por raça/cor,Economia,Estadual
+TX_PNAD_INFORMAL_SEXO_UF,decimal,1,percentual,,p.p.,2012,2019,-1,PNAD,Percentual de ocupados informais por sexo,Economia,Estadual
+TX_PNAD_INFORMAL_UF,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Percentual de ocupados informais,Economia,Estadual
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_AF_MUN,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas no EF II segundo o Censo Escolar,Educação,Municipal
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_AF_UF,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas no EF II segundo o Censo Escolar,Educação,Estadual
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_AI_MUN,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas no EF I segundo o Censo Escolar,Educação,Municipal
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_AI_UF,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas no EF I segundo o Censo Escolar,Educação,Estadual
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_CRECHE_MUN,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas em pré-escola segundo o Censo Escolar,Educação,Municipal
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_CRECHE_UF,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas em pré-escola segundo o Censo Escolar,Educação,Estadual
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_EM_MUN,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas no EM segundo o Censo Escolar,Educação,Municipal
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_EM_UF,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas no EM segundo o Censo Escolar,Educação,Estadual
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_PREESCOLA_MUN,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas em creche segundo o Censo Escolar,Educação,Municipal
+ABS_INEP_CENSO_ESCOLAR_MATRICULAS_PREESCOLA_UF,inteiro,0,absoluto,,%,2007,2019,-,INEP,Número de matrículas em creche segundo o Censo Escolar,Educação,Estadual
+ABS_INEP_IDEB_AF_MUN,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino fundamental II - rede pública,Educação,Municipal
+ABS_INEP_IDEB_AF_UF,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino fundamental II - rede pública,Educação,Estadual
+ABS_INEP_IDEB_AI_MUN,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino fundamental I - rede pública,Educação,Municipal
+ABS_INEP_IDEB_AI_UF,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino fundamental I - rede pública,Educação,Estadual
+ABS_INEP_IDEB_EM_MUN,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino médio - rede pública,Educação,Municipal
+ABS_INEP_IDEB_EM_UF,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino médio - rede pública,Educação,Estadual
+ABS_INEP_IDEB_META_MUN,decimal,1,absoluto,,%,2007,2021,-,INEP,Projeção Ideb,Educação,Municipal
+ABS_INEP_IDEB_META_UF,decimal,1,absoluto,,%,2007,2021,-,INEP,Projeção Ideb,Educação,Estadual
+ABS_INEP_IDEB_MUN,decimal,1,absoluto,,%,2009,2019,-,INEP,Índice de Desenvolvimento da Educação Básica,Educação,Municipal
+ABS_INEP_IDEB_UF,decimal,1,absoluto,,%,2009,2019,-,INEP,Índice de Desenvolvimento da Educação Básica,Educação,Estadual
+ABS_PNAD_ANOS_MEDIOS_ESTUDO_25_MAIS_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Média de anos de estudo das pessoas com 25 anos ou mais,Educação,Capital
+ABS_PNAD_ANOS_MEDIOS_ESTUDO_25_MAIS_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Média de anos de estudo das pessoas com 25 anos ou mais,Educação,Estadual
+ABS_PNAD_POP_0_3_CRECHE_CAPITAL,decimal,0,absoluto,,%,2016,2019,-,PNAD,População total de 0 a 3 anos frequentando creche,Educação,Capital
+ABS_PNAD_POP_0_3_CRECHE_UF,decimal,0,absoluto,,%,2016,2019,-,PNAD,População total de 0 a 3 anos frequentando creche,Educação,Estadual
+ABS_PNAD_POP_15_MAIS_ANALFALBETA_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,População analfabeta de 15 anos ou mais,Educação,Capital
+ABS_PNAD_POP_15_MAIS_ANALFALBETA_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,População analfabeta de 15 anos ou mais,Educação,Estadual
+ABS_PNAD_POP_25_29_SUPERIOR_COMPLETO_CAPITAL,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas de 25 a 29 anos com Ensino Superior completo,Educação,Capital
+ABS_PNAD_POP_25_29_SUPERIOR_COMPLETO_UF,decimal,0,absoluto,,%,2012,2019,-,PNAD,Total de pessoas de 25 a 29 anos com Ensino Superior completo,Educação,Estadual
+ABS_PNAD_POP_4_5_PREESCOLA_CAPITAL,decimal,0,absoluto,,%,2016,2019,-,PNAD,População total de 4 a 5 anos frequentando pré-escola,Educação,Capital
+ABS_PNAD_POP_4_5_PREESCOLA_UF,decimal,0,absoluto,,%,2016,2019,-,PNAD,População total de 4 a 5 anos frequentando pré-escola,Educação,Estadual
+TX_INEP_CRECHE_0_3_MUN,decimal,1,percentual,%,p.p.,2016,2019,1,INEP/IBGE,Percentual de crianças de 0 a 3 anos na escola,Educação,Municipal
+TX_INEP_IDEB_AF_MUN,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino fundamental II - rede pública,Educação,Municipal
+TX_INEP_IDEB_AF_NOTA_UF,decimal,1,absoluto,,%,2009,2019,1,PNAD,Nota média no Brasil do Ideb EF II,Educação,Estadual
+TX_INEP_IDEB_AF_TAXA_UF,decimal,1,percentual,,p.p.,2009,2019,1,PNAD,Taxa de aprovação do EF II,Educação,Estadual
+TX_INEP_IDEB_AF_UF,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino fundamental II - rede pública,Educação,Estadual
+TX_INEP_IDEB_AI_MUN,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino fundamental I - rede pública,Educação,Municipal
+TX_INEP_IDEB_AI_NOTA_UF,decimal,1,absoluto,,%,2009,2019,1,PNAD,Nota média no Brasil do Ideb EF I,Educação,Estadual
+TX_INEP_IDEB_AI_TAXA_UF,decimal,1,percentual,,p.p.,2009,2019,1,PNAD,Taxa de aprovação do EF I,Educação,Estadual
+TX_INEP_IDEB_AI_UF,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino fundamental I - rede pública,Educação,Estadual
+TX_INEP_IDEB_EM_MUN,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino médio - rede pública,Educação,Municipal
+TX_INEP_IDEB_EM_NOTA_UF,decimal,1,absoluto,,%,2009,2019,1,PNAD,Nota média no Brasil do Ideb EM,Educação,Estadual
+TX_INEP_IDEB_EM_TAXA_UF,decimal,1,percentual,,p.p.,2009,2019,1,PNAD,Taxa de aprovação do EM,Educação,Estadual
+TX_INEP_IDEB_EM_UF,decimal,1,absoluto,,%,2009,2019,1,INEP,Ideb ensino médio - rede pública,Educação,Estadual
+TX_INEP_PREESCOLA_4_5_MUN,decimal,1,percentual,%,p.p.,2016,2019,1,INEP/IBGE,Percentual de crianças de 4 a 5 anos na escola,Educação,Municipal
+TX_PNAD_ANALFABETISMO_15_MAIS_CAPITAL,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Taxa de analfabetismo,Educação,Capital
+TX_PNAD_ANALFABETISMO_15_MAIS_COR_UF,decimal,1,percentual,,p.p.,2012,2019,-1,PNAD,Taxa de analfabetismo por raça/cor,Educação,Estadual
+TX_PNAD_ANALFABETISMO_15_MAIS_SEXO_UF,decimal,1,percentual,,p.p.,2012,2019,-1,PNAD,Taxa de analfabetismo por sexo,Educação,Estadual
+TX_PNAD_ANALFABETISMO_15_MAIS_UF,decimal,1,percentual,%,p.p.,2012,2019,-1,PNAD,Taxa de analfabetismo,Educação,Estadual
+TX_PNAD_CRECHE_0_3_UF,decimal,1,percentual,%,p.p.,2016,2019,1,PNAD,Percentual de crianças de 0 a 3 anos na escola,Educação,Estadual
+TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_CAPITAL,decimal,1,absoluto,%,%,2012,2019,1,PNAD,Escolaridade média para população de 25 anos ou mais,Educação,Capital
+TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_COR_UF,decimal,1,percentual,,p.p.,2012,2019,1,PNAD,Escolaridade média para população de 25 anos ou mais por raça/cor,Educação,Estadual
+TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_SEXO_UF,decimal,1,absoluto,,%,2012,2019,1,PNAD,Escolaridade média para população de 25 anos ou mais por sexo,Educação,Estadual
+TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF,decimal,1,absoluto,%,%,2012,2019,1,PNAD,Escolaridade média para população de 25 anos ou mais,Educação,Estadual
+TX_PNAD_JOVENS_SUPERIOR_CAPITAL,decimal,1,percentual,%,p.p.,2012,2019,1,PNAD,Jovens com ensino superior,Educação,Capital
+TX_PNAD_JOVENS_SUPERIOR_UF,decimal,1,percentual,%,p.p.,2012,2019,1,PNAD,Jovens com ensino superior,Educação,Estadual
+TX_PNAD_PREESCOLA_4_5_UF,decimal,1,percentual,%,p.p.,2016,2019,1,PNAD,Percentual de crianças de 4 a 5 anos na escola,Educação,Estadual
+ABS_ABRADEE_DEC_UF,decimal,0,absoluto,,%,2008,2018,-,ANEEL/ABRADEE,Duração Equivalene de Interrupção,Infraestrutura,Estadual
+ABS_ABREADEE_FEC_UF,decimal,0,absoluto,,%,2008,2018,-,ANEEL/ABRADEE,Frequência Equivalente de Interrupção,Infraestrutura,Estadual
+ABS_CNT_ROD_PAVIMENTADA_UF,decimal,0,absoluto,,%,2007,2017,-,CNT,Tota de rodovias pavimentadas,Infraestrutura,Estadual
+ABS_CNT_ROD_QUALIDADE_BOM_UF,inteiro,0,absoluto,,%,2009,2019,-,CNT,Total de rodovias pavimentadas com qualidade boa,Infraestrutura,Estadual
+ABS_CNT_ROD_QUALIDADE_OTIMO_UF,inteiro,0,absoluto,,%,2009,2019,-,CNT,Total de rodovias pavimentadas com qualidade ótima,Infraestrutura,Estadual
+ABS_CNT_ROD_QUALIDADE_PESSIMO_UF,inteiro,0,absoluto,,%,2009,2019,-,CNT,Total de rodovias pavimentadas com qualidade péssima,Infraestrutura,Estadual
+ABS_CNT_ROD_QUALIDADE_REGULAR_UF,inteiro,0,absoluto,,%,2009,2019,-,CNT,Total de rodovias pavimentadas com qualidaderegular,Infraestrutura,Estadual
+ABS_CNT_ROD_QUALIDADE_RUIM_UF,inteiro,0,absoluto,,%,2009,2019,-,CNT,Total de rodovias pavimentadas com qualidade ruim,Infraestrutura,Estadual
+ABS_CNT_ROD_TOTAL_UF,decimal,0,absoluto,,%,2007,2017,-,CNT,Total de rodovias,Infraestrutura,Estadual
+ABS_PNAD_DOM_CELULAR_CAPITAL,decimal,0,absoluto,,%,2016,2019,-,PNAD,Número total de domicílios com telefone fixo ou celular,Infraestrutura,Capital
+ABS_PNAD_DOM_CELULAR_UF,decimal,0,absoluto,,%,2016,2019,-,PNAD,Número total de domicílios com telefone fixo ou celular,Infraestrutura,Estadual
+ABS_PNAD_DOM_INTERNET_CAPITAL,decimal,0,absoluto,,%,2016,2019,-,PNAD,Número total de domicílios com acesso a internet,Infraestrutura,Capital
+ABS_PNAD_DOM_INTERNET_UF,decimal,0,absoluto,,%,2016,2019,-,PNAD,Número total de domicílios com acesso a internet,Infraestrutura,Estadual
+ABS_PNAD_DOMICILIOS_TIC_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios segundo a PNAD TIC,Infraestrutura,Capital
+ABS_PNAD_DOMICILIOS_TIC_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios segundo a PNAD TIC,Infraestrutura,Estadual
+ABS_PNAD_POP_INTERNET_CAPITAL,decimal,0,absoluto,,%,2016,2019,-,PNAD/TIC,Número total de moradores que acessaram internet nos últimos 3 meses,Infraestrutura,Capital
+ABS_PNAD_POP_INTERNET_UF,decimal,0,absoluto,,%,2016,2019,-,PNAD/TIC,Número total de moradores que acessaram internet nos últimos 3 meses,Infraestrutura,Estadual
+ABS_PNAD_TIC_DOM_BANDA_FX_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso somente a internet banda larga fixa,Infraestrutura,Capital
+ABS_PNAD_TIC_DOM_BANDA_FX_MV_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso somente a internet banda larga fixa e móvel,Infraestrutura,Capital
+ABS_PNAD_TIC_DOM_BANDA_FX_MV_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso somente a internet banda larga fixa e móvel,Infraestrutura,Estadual
+ABS_PNAD_TIC_DOM_BANDA_FX_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso somente a internet banda larga fixa,Infraestrutura,Estadual
+ABS_PNAD_TIC_DOM_BANDA_MV_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso somente a internet banda larga fixa,Infraestrutura,Capital
+ABS_PNAD_TIC_DOM_BANDA_MV_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso somente a internet banda larga fixa,Infraestrutura,Estadual
+ABS_PNAD_TIC_DOM_INTERNET_BANDA_LARGA_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso a internet banda larga fixa,Infraestrutura,Capital
+ABS_PNAD_TIC_DOM_INTERNET_BANDA_LARGA_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso a internet banda larga fixa,Infraestrutura,Estadual
+ABS_PNAD_TIC_DOM_INTERNET_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso a internet segundo a PNAD TIC,Infraestrutura,Capital
+ABS_PNAD_TIC_DOM_INTERNET_DISCADA_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso a internet discada,Infraestrutura,Capital
+ABS_PNAD_TIC_DOM_INTERNET_DISCADA_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso a internet discada,Infraestrutura,Estadual
+ABS_PNAD_TIC_DOM_INTERNET_MOVEL_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso a internet banda larga móvel,Infraestrutura,Capital
+ABS_PNAD_TIC_DOM_INTERNET_MOVEL_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso a internet banda larga móvel,Infraestrutura,Estadual
+ABS_PNAD_TIC_DOM_INTERNET_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,Número total de domicílios com acesso a internet segundo a PNAD TIC,Infraestrutura,Estadual
+ABS_PNAD_TIC_POP_10_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,População total de 10 anos ou mais,Infraestrutura,Capital
+ABS_PNAD_TIC_POP_10_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,População total de 10 anos ou mais,Infraestrutura,Estadual
+ABS_PNAD_TIC_POP_INTERNET_CAPITAL,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,População total com acesso a internet,Infraestrutura,Capital
+ABS_PNAD_TIC_POP_INTERNET_UF,decimal,0,absoluto,,%,2016,2018,-,PNAD/TIC,População total com acesso a internet,Infraestrutura,Estadual
+TX_ABRADEE_DEC_UF,decimal,0,absoluto,horas,%,2008,2018,-1,ANEEL/ABRADEE,Duração Equivalene de Interrupção,Infraestrutura,Estadual
+TX_ABRADEE_FEC_UF,decimal,0,absoluto,,%,2008,2018,-1,ANEEL/ABRADEE,Frequência Equivalente de Interrupção,Infraestrutura,Estadual
+TX_CNT_ROD_PAVIMENTADA_UF,decimal,1,percentual,%,p.p.,2007,2017,1,CNT,Percentual de rodovias pavimentadas,Infraestrutura,Estadual
+TX_CNT_ROD_QUALIDADE_UF,decimal,1,percentual,%,p.p.,2009,2019,1,CNT,Percentual de rodovias boas e ótimas,Infraestrutura,Estadual
+TX_PNAD_DOM_CELULAR_CAPITAL,decimal,1,percentual,%,p.p.,2016,2019,1,PNAD,Percentual de domicílios com telefone fixo ou celular,Infraestrutura,Capital
+TX_PNAD_DOM_CELULAR_UF,decimal,1,percentual,%,p.p.,2016,2019,1,PNAD,Percentual de domicílios com telefone fixo ou celular,Infraestrutura,Estadual
+TX_PNAD_DOM_INTERNET_CAPITAL,decimal,1,percentual,%,p.p.,2016,2019,1,PNAD,Percentual de domicílios com internet,Infraestrutura,Capital
+TX_PNAD_DOM_INTERNET_UF,decimal,1,percentual,%,p.p.,2016,2019,1,PNAD,Percentual de domicílios com internet,Infraestrutura,Estadual
+TX_PNAD_TIC_DOM_QUALI_INTERNET_CAPITAL,decimal,1,percentual,%,p.p.,2016,2018,1,PNAD/TIC,Percentual de domicílios com acesso a internet banda larga fixa,Infraestrutura,Capital
+TX_PNAD_TIC_DOM_QUALI_INTERNET_UF,decimal,1,percentual,%,p.p.,2016,2018,1,PNAD/TIC,Percentual de domicílios com acesso a internet banda larga fixa,Infraestrutura,Estadual
+TX_PNAD_TIC_POP_INTERNET_CAPITAL,decimal,1,percentual,%,p.p.,2016,2018,1,PNAD/TIC,Percentual de moradores que utilizaram internet,Infraestrutura,Capital
+TX_PNAD_TIC_POP_INTERNET_UF,decimal,1,percentual,%,p.p.,2016,2018,1,PNAD/TIC,Percentual de moradores que utilizaram internet,Infraestrutura,Estadual
+ABS_CNJ_CASOS_PENDENTES_UF,inteiro,0,absoluto,,%,2009,2018,-,CNJ,Número total de casos pendentes,Institucional,Estadual
+ABS_CNJ_PROCESSOS_BAIXAS_UF,inteiro,0,absoluto,,%,2009,2018,-,CNJ,Número total de baixas de processos,Institucional,Estadual
+TX_CGU_EBT_UF,decimal,1,absoluto,,%,2018,2018,-,CGU,Índice de Transparência,Institucional,Estadual
+TX_CNJ_CONGESTIONAMENTO_UF,decimal,1,percentual,%,p.p.,2009,2018,-1,CNJ,Taxa de congestionamento,Institucional,Estadual
+ABS_INPE_DESMATAMENTO_MUN,decimal,1,absoluto,,%,2009,2019,-,INPE,Área de desmatamento acumulado,Meio Ambiente,Municipal
+ABS_INPE_DESMATAMENTO_UF,decimal,1,absoluto,,%,2009,2019,-,INPE,Área de desmatamento acumulado,Meio Ambiente,Estadual
+ABS_INPE_FOCOS_QUEIMADA_UF,inteiro,0,absoluto,,%,2009,2020,-,INPE,Número de focos de queimada,Meio Ambiente,Estadual
+ABS_MAPBIOMAS_SOLO_AGROPEC_MUN,decimal,1,absoluto,,%,2008,2018,-,MAPBIOMAS,Área total de solo com uso agropecuário,Meio Ambiente,Municipal
+ABS_MAPBIOMAS_SOLO_AGROPEC_UF,decimal,1,absoluto,,%,2008,2018,-,MAPBIOMAS,Área total de solo com uso agropecuário,Meio Ambiente,Estadual
+ABS_MAPBIOMAS_SOLO_NATURAL_MUN,decimal,1,absoluto,,%,2008,2018,-,MAPBIOMAS,Área total de cobertura natural do solo,Meio Ambiente,Municipal
+ABS_MAPBIOMAS_SOLO_NATURAL_UF,decimal,1,absoluto,,%,2008,2018,-,MAPBIOMAS,Área total de cobertura natural do solo,Meio Ambiente,Estadual
+ABS_MMA_UC_MUN,inteiro,0,absoluto,,%,2009,2020,-,MMA,Número de unidades de conservação por ano,Meio Ambiente,Municipal
+ABS_MMA_UC_SUST_MUN,inteiro,0,absoluto,,%,2009,2020,-,MMA,Número de unidades de conservação de uso sustentável por ano,Meio Ambiente,Municipal
+ABS_MMA_UC_SUST_UF,inteiro,0,absoluto,,%,2009,2020,-,MMA,Número de unidades de conservação de uso sustentável por ano,Meio Ambiente,Estadual
+ABS_MMA_UC_UF,inteiro,0,absoluto,,%,2009,2020,-,MMA,Número de unidades de conservação por ano,Meio Ambiente,Estadual
+ABS_SEEG_CO2_UF,decimal,1,absoluto,,%,2008,2018,-,SEEG,Total de tCO2 emitido,Meio Ambiente,Estadual
+ABS_SICAR_CADASTRADAS_UF,decimal,1,absoluto,,%,2014,2020,-,SICAR,Área com cadastramento rural,Meio Ambiente,Estadual
+ABS_SICAR_CADASTRAVEIS_UF,inteiro,0,absoluto,,%,2019,2019,-,SICAR,Área disponível para cadastramento rural total,Meio Ambiente,Estadual
+TX_INPE_DESMATAMENTO_MUN,inteiro,0,absoluto,ha,%,2009,2019,-1,INPE,Desmatamento acumulado,Meio Ambiente,Municipal
+TX_INPE_DESMATAMENTO_UF,inteiro,0,absoluto,ha,%,2009,2019,-1,INPE,Desmatamento acumulado,Meio Ambiente,Estadual
+TX_INPE_FOCOS_QUEIMADA_UF,inteiro,0,absoluto,,%,2009,2019,-1,INPE,Focos de queimadas,Meio Ambiente,Estadual
+TX_MAPBIOMAS_SOLO_AGROPEC_MUN,decimal,1,percentual,%,p.p.,2008,2018,-1,MAPBIOMAS,Uso do solo para agropecuária,Meio Ambiente,Municipal
+TX_MAPBIOMAS_SOLO_AGROPEC_UF,decimal,1,percentual,%,p.p.,2008,2018,-1,MAPBIOMAS,Uso do solo para agropecuária,Meio Ambiente,Estadual
+TX_MAPBIOMAS_SOLO_NATURAL_MUN,decimal,1,percentual,%,p.p.,2008,2018,1,MAPBIOMAS,Cobertura natural do solo,Meio Ambiente,Municipal
+TX_MAPBIOMAS_SOLO_NATURAL_UF,decimal,1,percentual,%,p.p.,2008,2018,1,MAPBIOMAS,Cobertura natural do solo,Meio Ambiente,Estadual
+TX_SEEG_CO2_PER_CAPITA_UF,decimal,1,absoluto,tCO2,%,2008,2018,-1,SEEG/IBGE,Emissão de CO2 per capita,Meio Ambiente,Estadual
+TX_SICAR_CADASTROS_UF,decimal,1,percentual,%,p.p.,2014,2019,1,SICAR,Taxa de cadastramento ambiental rural com relação a áreas cadastráveis,Meio Ambiente,Estadual
+TX_SICAR_PERCENTUAL_UF,decimal,1,percentual,%,p.p.,2014,2019,1,SICAR,Taxa de cadastramento ambiental rural,Meio Ambiente,Estadual
+ABS_PNAD_SANEAMENTO_CAPITAL,decimal,0,absoluto,,%,2016,2019,-,PNAD,Total de domicílios com saneamento adequado,Saneamento,Capital
+ABS_PNAD_SANEAMENTO_UF,decimal,0,absoluto,,%,2016,2019,-,PNAD,Total de domicílios com saneamento adequado,Saneamento,Estadual
+ABS_SNIS_AG001_MUN,inteiro,0,absoluto,,%,2011,2018,-,SNIS,População total atendida com abastecimento de água,Saneamento,Municipal
+ABS_SNIS_AG006_MUN,decimal,1,absoluto,,%,2011,2018,-,SNIS,Volume de água produzido,Saneamento,Municipal
+ABS_SNIS_AG010_MUN,decimal,1,absoluto,,%,2011,2018,-,SNIS,Volume de água consumido,Saneamento,Municipal
+ABS_SNIS_AG018_MUN,decimal,1,absoluto,,%,2011,2018,-,SNIS,Volume de água tratada importado,Saneamento,Municipal
+ABS_SNIS_AG019_MUN,decimal,1,absoluto,,%,2011,2018,-,SNIS,Volume de água tratada exportado,Saneamento,Municipal
+ABS_SNIS_AG024_MUN,decimal,1,absoluto,,%,2011,2018,-,SNIS,Volume de serviço,Saneamento,Municipal
+ABS_SNIS_CO164_MUN,inteiro,0,absoluto,,%,2011,2018,-,SNIS,População total residente com coleta de RDO,Saneamento,Municipal
+ABS_SNIS_ES001_MUN,inteiro,0,absoluto,,%,2011,2018,-,SNIS,População total atendimento com esgotamento sanitário,Saneamento,Municipal
+ABS_SNIS_ES006_MUN,decimal,1,absoluto,,%,2011,2018,-,SNIS,Volume de esgotos tratado,Saneamento,Municipal
+ABS_SNIS_ES015_MUN,decimal,1,absoluto,,%,2011,2018,-,SNIS,Volume de esgoto bruto importado tratado nas instalações do importador,Saneamento,Municipal
+ABS_SNIS_G12A_MUN,inteiro,0,absoluto,,%,2011,2018,-,SNIS,População total residente com abastecimento de água segundo o IBGE,Saneamento,Municipal
+ABS_SNIS_G12B_MUN,inteiro,0,absoluto,,%,2011,2018,-,SNIS,População total residente com esgotamento sanitário segundo o IBGE,Saneamento,Municipal
+ABS_SNIS_POP_TOT_MUN,inteiro,0,absoluto,,%,2011,2018,-,SNIS,População total segundo o IBGE,Saneamento,Municipal
+TX_PNAD_DOM_SANEAMENTO_CAPITAL,decimal,1,percentual,%,p.p.,2016,2019,1,PNAD,Percentual de domicílios com saneamento adequado,Saneamento,Capital
+TX_PNAD_DOM_SANEAMENTO_UF,decimal,1,percentual,%,p.p.,2016,2019,1,PNAD,Percentual de domicílios com saneamento adequado,Saneamento,Estadual
+TX_SNIS_AGUA_MUN,decimal,1,percentual,%,p.p.,2011,2018,1,SNIS,Índice de atendimento de água,Saneamento,Municipal
+TX_SNIS_AGUA_PERDIDA_MUN,decimal,1,percentual,%,p.p.,2011,2018,-1,SNIS,Índice de perdas na distribuição da água,Saneamento,Municipal
+TX_SNIS_ESGOTO_MUN,decimal,1,percentual,%,p.p.,2011,2018,1,SNIS,Índice de atendimento de esgoto,Saneamento,Municipal
+TX_SNIS_ESGOTO_TRATADO_MUN,decimal,1,percentual,%,p.p.,2011,2018,1,SNIS,Índice de esgoto tratado,Saneamento,Municipal
+TX_SNIS_RDO_MUN,decimal,1,percentual,%,p.p.,2011,2018,1,SNIS,Taxa de coleta de RDO,Saneamento,Municipal
+ABS_DATASUS_DCNT_TIPO_UF,inteiro,0,absoluto,,%,2008,2018,-1,DataSus,Número de óbitos prematuros por tipo de doença não transmissível,Saúde,Estadual
+ABS_DATASUS_MORT_INFANTIL_FASE_UF,inteiro,0,absoluto,,%,2008,2018,-1,DataSus,Número de óbitos infantis por fase,Saúde,Estadual
+ABS_DATASUS_NASCIDOS_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de nascidos vivos,Saúde,Municipal
+ABS_DATASUS_NASCIDOS_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de nascidos vivos,Saúde,Estadual
+ABS_DATASUS_OBITOS_30_69_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de pessoas de 30 a 69 anos,Saúde,Municipal
+ABS_DATASUS_OBITOS_30_69_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de pessoas de 30 a 69 anos,Saúde,Estadual
+ABS_DATASUS_OBITOS_AGUA_INSEG_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por insegurança da água,Saúde,Municipal
+ABS_DATASUS_OBITOS_AGUA_INSEG_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por insegurança da água,Saúde,Estadual
+ABS_DATASUS_OBITOS_CARDIO_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por doenças cardio,Saúde,Municipal
+ABS_DATASUS_OBITOS_CARDIO_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por doenças cardio,Saúde,Estadual
+ABS_DATASUS_OBITOS_DCNT_30_69_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de pessoas de 30 a 69 anos por Doenças Crônicas Não Transmissíveis,Saúde,Municipal
+ABS_DATASUS_OBITOS_DCNT_30_69_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de pessoas de 30 a 69 anos por Doenças Crônicas Não Transmissíveis,Saúde,Estadual
+ABS_DATASUS_OBITOS_DENGUE_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por dengue,Saúde,Municipal
+ABS_DATASUS_OBITOS_DENGUE_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por dengue,Saúde,Estadual
+ABS_DATASUS_OBITOS_DIABETES_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por diabetes,Saúde,Municipal
+ABS_DATASUS_OBITOS_DIABETES_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por diabetes,Saúde,Estadual
+ABS_DATASUS_OBITOS_DTRANSMISSIVEIS_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por doenças transmissíveis,Saúde,Municipal
+ABS_DATASUS_OBITOS_DTRANSMISSIVEIS_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por doenças transmissíveis,Saúde,Estadual
+ABS_DATASUS_OBITOS_INFANTIS_0_6_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de crianças de 0 a 6 dias,Saúde,Municipal
+ABS_DATASUS_OBITOS_INFANTIS_0_6_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de crianças de 0 a 6 dias,Saúde,Estadual
+ABS_DATASUS_OBITOS_INFANTIS_28_364_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de crianças de 28 a 364 dias,Saúde,Municipal
+ABS_DATASUS_OBITOS_INFANTIS_28_364_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de crianças de 28 a 364 dias,Saúde,Estadual
+ABS_DATASUS_OBITOS_INFANTIS_7_27_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de crianças de 7 a 27 dias,Saúde,Municipal
+ABS_DATASUS_OBITOS_INFANTIS_7_27_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos de crianças de 7 a 27 dias,Saúde,Estadual
+ABS_DATASUS_OBITOS_INFANTIS_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos infantis,Saúde,Municipal
+ABS_DATASUS_OBITOS_INFANTIS_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos infantis,Saúde,Estadual
+ABS_DATASUS_OBITOS_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos,Saúde,Municipal
+ABS_DATASUS_OBITOS_NEOPLASIA_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por neoplasias,Saúde,Municipal
+ABS_DATASUS_OBITOS_NEOPLASIA_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por neoplasias,Saúde,Estadual
+ABS_DATASUS_OBITOS_RESPIRATORIA_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por doenças respiratórias,Saúde,Municipal
+ABS_DATASUS_OBITOS_RESPIRATORIA_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por doenças respiratórias,Saúde,Estadual
+ABS_DATASUS_OBITOS_TUBERCULOSE_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por tuberculose,Saúde,Municipal
+ABS_DATASUS_OBITOS_TUBERCULOSE_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por tuberculose,Saúde,Estadual
+ABS_DATASUS_OBITOS_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos,Saúde,Estadual
+ABS_DATASUS_PRE_NATAL_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de crianças com mais de 7 consultas pré-natal,Saúde,Municipal
+ABS_DATASUS_PRE_NATAL_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de crianças com mais de 7 consultas pré-natal,Saúde,Estadual
+ABS_IBGE_TABUA_AMBOS_UF,decimal,1,absoluto,,%,2010,2019,-,IBGE,Expectativa de vida de ambos os sexos,Saúde,Estadual
+ABS_IBGE_TABUA_FEMININO_UF,decimal,1,absoluto,,%,2010,2019,-,IBGE,Expectativa de vida do sexo feminino,Saúde,Estadual
+ABS_IBGE_TABUA_MASCULINO_UF,decimal,1,absoluto,,%,2010,2019,-,IBGE,Expectativa de vida do sexo masculino,Saúde,Estadual
+ABS_NASCIDOS_UF,inteiro,0,absoluto,,%,2008,2018,-1,DataSus,Número de nascidos vivos,Saúde,Estadual
+TX_DATASUS_DCNT_30_69_MUN,decimal,1,absoluto,por 100 mil hab,%,2012,2018,-1,DataSUS,Taxa de mortalidade prematura por DCNT,Saúde,Municipal
+TX_DATASUS_DCNT_30_69_UF,decimal,1,absoluto,por 100 mil hab,%,2012,2018,-1,DataSUS/PNAD,Taxa de mortalidade prematura por DCNT,Saúde,Estadual
+TX_DATASUS_MORT_INFANTIL_CAUSAS_EVIT_UF,inteiro,0,absoluto,,%,2008,2018,-1,DataSus,Número de óbitos infantis por fase segundo a causa evitável,Saúde,Estadual
+TX_DATASUS_MORT_INFANTIL_MUN,decimal,1,absoluto,por mil nascidos,%,2008,2018,-1,DataSUS,Taxa de mortalidade infantil,Saúde,Municipal
+TX_DATASUS_MORT_INFANTIL_UF,decimal,1,absoluto,por mil nascidos,%,2008,2018,-1,DataSUS,Taxa de mortalidade infantil,Saúde,Estadual
+TX_DATASUS_PRE_NATAL_MUN,decimal,1,absoluto,,%,2008,2018,-1,DataSUS,Taxa de nascidos com pelo menos 7 consultas pré-natal,Saúde,Municipal
+TX_DATASUS_PRE_NATAL_UF,decimal,1,absoluto,,%,2008,2018,-1,DataSUS,Taxa de nascidos com pelo menos 7 consultas pré-natal,Saúde,Estadual
+TX_DATASUS_PRE_NATAL_UF,inteiro,0,absoluto,,%,2008,2018,-1,DataSus,Número de nascidos com 7 ou mais consultas pré-natal segundo escolaridade da mãe,Saúde,Estadual
+TX_IBGE_EXPECTATIVA_VIDA_UF,decimal,1,absoluto,anos,%,2010,2019,1,IBGE,Expectativa de vida,Saúde,Estadual
+ABS_DATASUS_HOMICIDIO_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por homicídio,Segurança,Municipal
+ABS_DATASUS_HOMICIDIO_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos por homicídio,Segurança,Estadual
+ABS_DATASUS_OBITOS_TRANSITO_MUN,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos no trânsito,Segurança,Municipal
+ABS_DATASUS_OBITOS_TRANSITO_UF,inteiro,0,absoluto,,%,2008,2018,-,DataSUS,Total de óbitos no trânsito,Segurança,Estadual
+ABS_DATASUS_TRANSITO_VEICULO_UF,inteiro,0,absoluto,,%,2008,2018,-1,DataSus,Número de óbitos no trânsito por tipo de veículo,Segurança,Estadual
+TX_DATASUS_HOMICIDIO_ARMAS_UF,decimal,1,percentual,,p.p.,2008,2018,-1,DataSus,Percentual de homicídios por armas de fogo,Segurança,Estadual
+TX_DATASUS_HOMICIDIO_COR_UF,decimal,1,percentual,,p.p.,2008,2018,-1,DataSus,Percentual de homicídios por raça/cor,Segurança,Estadual
+TX_DATASUS_HOMICIDIO_JOVENS_UF,decimal,1,percentual,,p.p.,2008,2018,-1,DataSus,Percentual de homicídios em jovens de de até 29 anos,Segurança,Estadual
+TX_DATASUS_HOMICIDIO_MUN,decimal,1,absoluto,por 100 mil hab,%,2008,2018,-1,DataSUS/IBGE,Taxa de homicídios,Segurança,Municipal
+TX_DATASUS_HOMICIDIO_SEXO_UF,decimal,1,percentual,,p.p.,2008,2018,-1,DataSus,Percentual de homicídios por sexo,Segurança,Estadual
+TX_DATASUS_HOMICIDIO_UF,decimal,1,absoluto,por 100 mil hab,%,2008,2018,-1,DataSUS/IBGE,Taxa de homicídios,Segurança,Estadual
+TX_DATASUS_TRANSITO_MUN,decimal,1,absoluto,por 100 mil hab,%,2008,2018,-1,DataSUS/IBGE,Taxa de óbitos no trânsito,Segurança,Municipal
+TX_DATASUS_TRANSITO_UF,decimal,1,absoluto,por 100 mil hab,%,2008,2018,-1,DataSUS/IBGE,Taxa de óbitos no trânsito,Segurança,Estadual

@@ -1,0 +1,129 @@
+.registerModal {
+  background: #FFFFFF;
+  height: 90%;
+  margin: 1rem auto;
+  padding: 1.2rem;
+  overflow-y: auto;
+  opacity: 1;
+  border-radius: 10px;
+}
+.registerModal .registerModalHeader {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.registerModal .registerModalTitle {
+  font-family: "Open Sans";
+  font-weight: bold;
+  font-size: 24px;
+  color: #495057;
+  margin: 1rem auto;
+  position: absolute;
+  right: 30px;
+  top: -19px;
+  letter-spacing: 0.02em;
+}
+.registerModal .registerModalIconContainer {
+   margin-top: -35px;
+   position: relative;
+}
+.registerModal .registerModalCloseIcon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  position: absolute;
+  right: 0px;
+  top: 5px;
+}
+.registerModal.hiddenRegisterModal {
+  opacity: 0;
+}
+@media only screen and (min-width: 320px) {
+  .registerModal {
+    width: 85%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .registerModal {
+    width: 30%;
+  }
+}
+.registerModal .registerFormBottom {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+}
+.registerModal .registerFormSendButton {
+  padding:7px;
+  color:  #681139;
+  background: #f6f6f6 !important;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weighT: bold;
+  text-align: center;
+  letter-spacing: 0.04em;
+  position: relative;
+  right: -18px;
+}
+.registerModalWrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1001;
+  transition: opacity 2s ease-in-out;
+}
+.registerModalWrapper.hiddenRegisterModal {
+  display: none;
+  opacity: 0;
+}
+
+.fieldsGroup {
+  margin-bottom: 5px;
+}
+.fieldsGroup .registerFormField {
+  width: 100%;
+  font-family: "Open Sans";
+  font-weight: normal;
+  font-size: 16px;
+  color: #495057;
+  transition: border 0.6s linear;
+}
+.fieldsGroup .registerFormField:not(:last-child) {
+  margin-bottom: 5px;
+}
+.fieldsGroup .registerFormField.invalidInput {
+  border: 1px solid red;
+}
+.fieldsGroup .registerFormFieldTitle {
+  font-family: "Open Sans";
+  font-size: 16px;
+  color: #fff;
+}
+.registerFormRequestResponse{
+  font-weight: bold;
+  color: red;
+  padding: 10px;
+  padding-left: 0px;
+  margin-left: -18px;
+}
+input[type='checkbox']{
+  width: 10px !important;
+  display: inline-block;
+  margin-right: 10px;
+}
+.registerFormFieldTitle.checkbox{
+  display: inline-block;
+  font-size: 0.95em;
+}
+.lgpd{
+  margin: -10px 22px auto;
+  text-decoration: underline;
+  letter-spacing: 0.02em;
+}
+.politicaEmail{
+  padding-top: 1%;
+}

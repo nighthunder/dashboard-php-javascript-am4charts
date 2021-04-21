@@ -1,0 +1,101 @@
+.app-footer {
+    margin-left: 80px;
+    background-color: #e5e5e5;
+    padding: 0.5rem 0;
+    height: 120px;
+  }
+  .app-footer .app-footer__inner {
+    background-color: #e5e5e5;
+    height: 120px;
+  }
+  
+  .informacoesContato {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #e5e5e5;
+    height: 100%;
+  }
+  .informacoesContato .containerRodape {
+    width: 31%;
+    padding-top: 1rem;
+  }
+  .informacoesContato .emailContato {
+    font-family: "Open Sans";
+    font-size: 1rem;
+    color: #495057;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .informacoesContato .iconeEmailContato {
+    width: 35px;
+    height: 35px;
+  }
+  .informacoesContato .linkEmailContato {
+    text-decoration: none;
+    height: fit-content;
+  }
+  .informacoesContato .cadastroEmailTitulo {
+    font-family: "Open Sans";
+    font-size: 1rem;
+    color: #495057;
+    font-weight: bold;
+    text-align: center;
+  }
+  .informacoesContato .iconeCadastroEmail {
+    width: 20px;
+    height: 20px;
+  }
+  .informacoesContato .cadastroEmailInput {
+    margin: 0 auto;
+    background-color: white;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .informacoesContato .cadastroEmailInput.invalidEmailInput {
+    border: 1px solid red;
+  }
+  .informacoesContato .textoCadastroEmail {
+    border: none;
+    flex: 2 1;
+    margin: 0 auto;
+  }
+  .informacoesContato .textoCadastroEmail:focus {
+    outline: none;
+  }
+  .informacoesContato .envioCadastroEmail {
+    background-color: #681139;
+    color: white;
+    display: inline;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.1rem;
+    cursor: pointer;
+  }
+  .informacoesContato .retornoCadastro {
+    color: #681139;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+  }
+  .informacoesContato .retornoCadastro.semRetorno {
+    display: none;
+  }
+  .informacoesContato .logoMacroplan {
+    text-align: center;
+  }
+  .informacoesContato .textoLogo {
+    font-family: "Open Sans";
+    font-size: 1rem;
+    color: #495057;
+  }
+  .informacoesContato .imagemLogo {
+    width: 170.9259259259px;
+    height: 65px;
+  }
+  #contactform{
+    width: 95%;
+  }
+  

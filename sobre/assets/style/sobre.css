@@ -1,0 +1,43 @@
+.sectionAbout {
+  background-color: white;
+  width: 60%;
+  height: auto;
+  margin: 1rem auto 5rem auto;
+  font-family: "Open Sans";
+  padding: 2rem;
+}
+.sectionAbout .headerSectionAbout {
+  font-size: 32px;
+  color: #681139;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+.sectionAbout .textSectionAbout {
+  color: #495057;
+  font-size: 16px;
+}
+.sectionAbout .linkSectionAbout {
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.sectionAbout .imageContainerSectionAbout {
+  text-align: center;
+}
+.sectionAbout .spiralImageSectionAbout {
+  width: 75%;
+  margin: 5rem auto 5rem auto;
+}
+.sectionAbout .headerSectionAboutConsortium {
+  font-size: 24px;
+  color: #681139;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+.sectionAbout .linkSectionAboutConsortium {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  background-color: #681139;
+  border-radius: 5px;
+}

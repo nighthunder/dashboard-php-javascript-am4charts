@@ -1,0 +1,114 @@
+.codigoSegurancaModal {
+  background: #FFFFFF;
+  height: 90%;
+  margin: 1rem auto;
+  padding: 1.2rem;
+  overflow-y: auto;
+  opacity: 1;
+  border-radius: 10px;
+}
+.codigoSegurancaModal .codigoSegurancaModalHeader {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.codigoSegurancaModal .codigoSegurancaModalTitle {
+  font-family: "Open Sans";
+  font-weight: "bold";
+  font-size: 33px;
+  color: #fff;
+  margin: 1rem auto;
+}
+.codigoSegurancaModal .codigoSegurancaModalIconContainer {
+  text-align: right;
+}
+.codigoSegurancaModal .codigoSegurancaModalCloseIcon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.codigoSegurancaModal.hiddencodigoSegurancaModal {
+  opacity: 0;
+}
+@media only screen and (min-width: 320px) {
+  .codigoSegurancaModal {
+    width: 85%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .codigoSegurancaModal {
+    width: 30%;
+  }
+}
+.codigoSegurancaModal .codigoSegurancaFormBottom {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+}
+.codigoSegurancaModal .codigoSegurancaFormSendButton, .codigoSegurancaModal .enviarTokenFormSendButton {
+  padding: 0.5rem;
+  color: #681139;
+  background-color:#ffff;
+  border-radius: 5px;
+  cursor: pointer;
+  letter-spacinG: 0.04em;
+  text-align: center;
+  font-weight: 700;
+  margin-right: -18px;
+  margin-top: 15px;
+}
+
+.codigoSegurancaModalWrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1001;
+  transition: opacity 2s ease-in-out;
+}
+.codigoSegurancaModalWrapper.hiddencodigoSegurancaModal {
+  display: none;
+  opacity: 0;
+}
+
+.fieldsGroup {
+  margin-bottom: 68px;
+}
+.fieldsGroup .codigoSegurancaFormField {
+  width: 100%;
+  font-family: "Open Sans";
+  font-weight: "bold";
+  font-size: 24px;
+  color: #495057;
+  transition: border 0.6s linear;
+}
+.fieldsGroup .codigoSegurancaFormField:not(:last-child) {
+  margin-bottom: 34px;
+}
+.fieldsGroup .codigoSegurancaFormField.invalidInput {
+  border: 1px solid red;
+}
+.fieldsGroup .codigoSegurancaFormFieldTitle, .codigoSegurancaFormFieldTitle {
+  font-family: "Open Sans";
+  font-weight: "bold";
+  font-size: 18px;
+  color: #fff;
+}
+
+.codigoSegurancaFormRequestResponse{
+  font-weight: bold;
+  color: red;
+  padding: 10px;
+  padding-left: 0px;
+  margin-left: -18px;
+}
+
+.linkLogin, .linkLogin:hover, .linkLogin:active, .linkLogin:visited,
+.loginCodeEmail, .loginCodeEmail:hover, .loginCodeEmail:active, .loginCodeEmail:visited,
+.voltarLogin, .voltarLogin:hover, .voltarLogin:active, .voltarLogin:visited{
+  color: #fff;
+}
+

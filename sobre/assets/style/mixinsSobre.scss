@@ -1,0 +1,7 @@
+@mixin headerText($fontSize: 32px) 
+{
+    font-size: $fontSize;
+    color: $headerTextColor;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}

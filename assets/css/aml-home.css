@@ -1,0 +1,16 @@
+/*****************************************************************
+
+Folha de estilos da página inicial do projeto Amazônia Legal (AML)
+Versão: 1.0.0
+Author: Mayara Morais dos Santos
+Data: 14/10/2020 15:53:00
+
+
+******************************************************************/
+
+.btn-out{
+	background: none;
+	border: none;
+	color: #dc3545;
+	font-weight: bold;
+}

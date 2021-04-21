@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://amazonialegalemdados.info/home/home.php</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/explore/explore.php</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/sobre/sobre.php</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/atlas/atlas.php</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/desafios/desafios.php?regiao=Amazônia Legal&amp;area=todas</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/home/home.php?regiao=Amazônia Legal</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/desafios/desafios.php?regiao=&amp;area=todas</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/compare/compare.php?regiao=Amazonas&amp;regiao1=Roraima&amp;area=Educação__485&amp;indicador=TX_INEP_IDEB_AI_UF__485</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/explore/explore.php?regiao=Amazônia</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/pre-perfil.php</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/atlas/atlas.php?regiao=Amazônia Legal</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/pre-perfil.php?regiao=Amazônia Legal</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_GINI_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/compare/compare.php?regiao=Maranhão&amp;regiao1=Amazonas&amp;area=Educação__1090&amp;indicador=TX_INEP_IDEB_AI_UF__1090</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Saúde__67&amp;indicador=TX_DATASUS_DCNT_30_69_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Desenvolvimento Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazônia Legal&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_GINI_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Ciência e Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Meio Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Mato Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Desenvolvimento Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</loc>
+  </url>
+</urlset>
+<!--<guid value="51d01ea5-f164-4fbd-9919-02ddc0bafa13" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->

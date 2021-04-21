@@ -1,0 +1,696 @@
+"","COD","NOME","TERRITORIO","AREA","PCT"
+"1556",1700251,"Abreulândia","Arco do Desmatamento",179555.08,94.74
+"1557",1700251,"Abreulândia","Cidades",0,0
+"1558",1700251,"Abreulândia","Outros",0,0
+"1559",1700251,"Abreulândia","Região Antropizada",5309.96,2.8
+"1560",1700251,"Abreulândia","Região Conservada",4651.91,2.45
+"1561",1700301,"Aguiarnópolis","Arco do Desmatamento",20722.77,88.03
+"1562",1700301,"Aguiarnópolis","Cidades",0,0
+"1563",1700301,"Aguiarnópolis","Outros",1755.67,7.46
+"1564",1700301,"Aguiarnópolis","Região Antropizada",1061.37,4.51
+"1565",1700301,"Aguiarnópolis","Região Conservada",0,0
+"1566",1700350,"Aliança do Tocantins","Arco do Desmatamento",91059.45,57.64
+"1567",1700350,"Aliança do Tocantins","Cidades",0,0
+"1568",1700350,"Aliança do Tocantins","Outros",0,0
+"1569",1700350,"Aliança do Tocantins","Região Antropizada",66914.93,42.36
+"1570",1700350,"Aliança do Tocantins","Região Conservada",0,0
+"1571",1700400,"Almas","Arco do Desmatamento",164994.05,41.11
+"1572",1700400,"Almas","Cidades",0,0
+"1573",1700400,"Almas","Outros",0,0
+"1574",1700400,"Almas","Região Antropizada",32150.78,8.01
+"1575",1700400,"Almas","Região Conservada",204174.54,50.88
+"1576",1700707,"Alvorada","Arco do Desmatamento",3797.57,3.13
+"1577",1700707,"Alvorada","Cidades",0,0
+"1578",1700707,"Alvorada","Outros",0,0
+"1579",1700707,"Alvorada","Região Antropizada",117419.93,96.87
+"1580",1700707,"Alvorada","Região Conservada",0,0
+"1581",1701002,"Ananás","Arco do Desmatamento",33667.3,21.35
+"1582",1701002,"Ananás","Cidades",0,0
+"1583",1701002,"Ananás","Outros",0,0
+"1584",1701002,"Ananás","Região Antropizada",117500.17,74.51
+"1585",1701002,"Ananás","Região Conservada",6532.44,4.14
+"1586",1701051,"Angico","Arco do Desmatamento",44759.92,99.09
+"1587",1701051,"Angico","Cidades",0,0
+"1588",1701051,"Angico","Outros",0,0
+"1589",1701051,"Angico","Região Antropizada",0,0
+"1590",1701051,"Angico","Região Conservada",411.73,0.91
+"1591",1701101,"Aparecida do Rio Negro","Arco do Desmatamento",78828.36,67.93
+"1592",1701101,"Aparecida do Rio Negro","Cidades",0,0
+"1593",1701101,"Aparecida do Rio Negro","Outros",0,0
+"1594",1701101,"Aparecida do Rio Negro","Região Antropizada",16312.46,14.06
+"1595",1701101,"Aparecida do Rio Negro","Região Conservada",20899.04,18.01
+"1596",1701309,"Aragominas","Arco do Desmatamento",0,0
+"1597",1701309,"Aragominas","Cidades",0,0
+"1598",1701309,"Aragominas","Outros",0,0
+"1599",1701309,"Aragominas","Região Antropizada",117305.08,100
+"1600",1701309,"Aragominas","Região Conservada",0,0
+"1601",1701903,"Araguacema","Arco do Desmatamento",170953.23,61.53
+"1602",1701903,"Araguacema","Cidades",0,0
+"1603",1701903,"Araguacema","Outros",13741.22,4.95
+"1604",1701903,"Araguacema","Região Antropizada",65451.67,23.56
+"1605",1701903,"Araguacema","Região Conservada",27699.07,9.97
+"1606",1702000,"Araguaçu","Arco do Desmatamento",31461.05,6.09
+"1607",1702000,"Araguaçu","Cidades",0,0
+"1608",1702000,"Araguaçu","Outros",0,0
+"1609",1702000,"Araguaçu","Região Antropizada",472834.61,91.5
+"1610",1702000,"Araguaçu","Região Conservada",12471.94,2.41
+"1611",1702109,"Araguaína","Arco do Desmatamento",89730.14,22.43
+"1612",1702109,"Araguaína","Cidades",0,0
+"1613",1702109,"Araguaína","Outros",0,0
+"1614",1702109,"Araguaína","Região Antropizada",280838.8,70.2
+"1615",1702109,"Araguaína","Região Conservada",29471.23,7.37
+"1616",1702158,"Araguanã","Arco do Desmatamento",3117.43,3.73
+"1617",1702158,"Araguanã","Cidades",0,0
+"1618",1702158,"Araguanã","Outros",0,0
+"1619",1702158,"Araguanã","Região Antropizada",80485.43,96.27
+"1620",1702158,"Araguanã","Região Conservada",0,0
+"1621",1702208,"Araguatins","Arco do Desmatamento",97237.16,37.04
+"1622",1702208,"Araguatins","Cidades",0,0
+"1623",1702208,"Araguatins","Outros",0,0
+"1624",1702208,"Araguatins","Região Antropizada",156998.71,59.8
+"1625",1702208,"Araguatins","Região Conservada",8290.41,3.16
+"1626",1702307,"Arapoema","Arco do Desmatamento",0,0
+"1627",1702307,"Arapoema","Cidades",0,0
+"1628",1702307,"Arapoema","Outros",0,0
+"1629",1702307,"Arapoema","Região Antropizada",155225.26,100
+"1630",1702307,"Arapoema","Região Conservada",0,0
+"1631",1702406,"Arraias","Arco do Desmatamento",168832.21,29.18
+"1632",1702406,"Arraias","Cidades",0,0
+"1633",1702406,"Arraias","Outros",0,0
+"1634",1702406,"Arraias","Região Antropizada",212562.14,36.73
+"1635",1702406,"Arraias","Região Conservada",197292.9,34.09
+"1636",1702554,"Augustinópolis","Arco do Desmatamento",0,0
+"1637",1702554,"Augustinópolis","Cidades",0,0
+"1638",1702554,"Augustinópolis","Outros",0,0
+"1639",1702554,"Augustinópolis","Região Antropizada",39494.95,100
+"1640",1702554,"Augustinópolis","Região Conservada",0,0
+"1641",1702703,"Aurora do Tocantins","Arco do Desmatamento",32268.96,42.86
+"1642",1702703,"Aurora do Tocantins","Cidades",0,0
+"1643",1702703,"Aurora do Tocantins","Outros",0,0
+"1644",1702703,"Aurora do Tocantins","Região Antropizada",38575.87,51.24
+"1645",1702703,"Aurora do Tocantins","Região Conservada",4438.29,5.9
+"1646",1702901,"Axixá do Tocantins","Arco do Desmatamento",27.04,0.18
+"1647",1702901,"Axixá do Tocantins","Cidades",0,0
+"1648",1702901,"Axixá do Tocantins","Outros",0,0
+"1649",1702901,"Axixá do Tocantins","Região Antropizada",14997.25,99.82
+"1650",1702901,"Axixá do Tocantins","Região Conservada",0,0
+"1651",1703008,"Babaçulândia","Arco do Desmatamento",20423.31,11.42
+"1652",1703008,"Babaçulândia","Cidades",0,0
+"1653",1703008,"Babaçulândia","Outros",18379.25,10.28
+"1654",1703008,"Babaçulândia","Região Antropizada",33148.29,18.53
+"1655",1703008,"Babaçulândia","Região Conservada",106902.87,59.77
+"1656",1703057,"Bandeirantes do Tocantins","Arco do Desmatamento",0,0
+"1657",1703057,"Bandeirantes do Tocantins","Cidades",0,0
+"1658",1703057,"Bandeirantes do Tocantins","Outros",0,0
+"1659",1703057,"Bandeirantes do Tocantins","Região Antropizada",154178.65,100
+"1660",1703057,"Bandeirantes do Tocantins","Região Conservada",0,0
+"1661",1703073,"Barra do Ouro","Arco do Desmatamento",73691.81,66.61
+"1662",1703073,"Barra do Ouro","Cidades",0,0
+"1663",1703073,"Barra do Ouro","Outros",0,0
+"1664",1703073,"Barra do Ouro","Região Antropizada",5646.72,5.1
+"1665",1703073,"Barra do Ouro","Região Conservada",31295.35,28.29
+"1666",1703107,"Barrolândia","Arco do Desmatamento",30776.13,43.15
+"1667",1703107,"Barrolândia","Cidades",0,0
+"1668",1703107,"Barrolândia","Outros",0,0
+"1669",1703107,"Barrolândia","Região Antropizada",40553.45,56.85
+"1670",1703107,"Barrolândia","Região Conservada",0,0
+"1671",1703206,"Bernardo Sayão","Arco do Desmatamento",0,0
+"1672",1703206,"Bernardo Sayão","Cidades",0,0
+"1673",1703206,"Bernardo Sayão","Outros",0,0
+"1674",1703206,"Bernardo Sayão","Região Antropizada",92693.92,100
+"1675",1703206,"Bernardo Sayão","Região Conservada",0,0
+"1676",1703305,"Bom Jesus do Tocantins","Arco do Desmatamento",67973.76,51.01
+"1677",1703305,"Bom Jesus do Tocantins","Cidades",0,0
+"1678",1703305,"Bom Jesus do Tocantins","Outros",0,0
+"1679",1703305,"Bom Jesus do Tocantins","Região Antropizada",9884.59,7.42
+"1680",1703305,"Bom Jesus do Tocantins","Região Conservada",55406.75,41.58
+"1681",1703602,"Brasilândia do Tocantins","Arco do Desmatamento",27106.76,42.26
+"1682",1703602,"Brasilândia do Tocantins","Cidades",0,0
+"1683",1703602,"Brasilândia do Tocantins","Outros",0,0
+"1684",1703602,"Brasilândia do Tocantins","Região Antropizada",25436.02,39.65
+"1685",1703602,"Brasilândia do Tocantins","Região Conservada",11607.13,18.09
+"1686",1703701,"Brejinho de Nazaré","Arco do Desmatamento",116063.38,67.31
+"1687",1703701,"Brejinho de Nazaré","Cidades",0,0
+"1688",1703701,"Brejinho de Nazaré","Outros",1539.48,0.89
+"1689",1703701,"Brejinho de Nazaré","Região Antropizada",54836.72,31.8
+"1690",1703701,"Brejinho de Nazaré","Região Conservada",0,0
+"1691",1703800,"Buriti do Tocantins","Arco do Desmatamento",0,0
+"1692",1703800,"Buriti do Tocantins","Cidades",0,0
+"1693",1703800,"Buriti do Tocantins","Outros",0,0
+"1694",1703800,"Buriti do Tocantins","Região Antropizada",25195.11,100
+"1695",1703800,"Buriti do Tocantins","Região Conservada",0,0
+"1696",1703826,"Cachoeirinha","Arco do Desmatamento",8116.95,23.04
+"1697",1703826,"Cachoeirinha","Cidades",0,0
+"1698",1703826,"Cachoeirinha","Outros",0,0
+"1699",1703826,"Cachoeirinha","Região Antropizada",6682.94,18.97
+"1700",1703826,"Cachoeirinha","Região Conservada",20434.11,58
+"1701",1703842,"Campos Lindos","Arco do Desmatamento",95258.24,29.4
+"1702",1703842,"Campos Lindos","Cidades",0,0
+"1703",1703842,"Campos Lindos","Outros",0,0
+"1704",1703842,"Campos Lindos","Região Antropizada",65352.8,20.17
+"1705",1703842,"Campos Lindos","Região Conservada",163409.85,50.43
+"1706",1703867,"Cariri do Tocantins","Arco do Desmatamento",25319.32,22.43
+"1707",1703867,"Cariri do Tocantins","Cidades",0,0
+"1708",1703867,"Cariri do Tocantins","Outros",0,0
+"1709",1703867,"Cariri do Tocantins","Região Antropizada",87544.55,77.57
+"1710",1703867,"Cariri do Tocantins","Região Conservada",0,0
+"1711",1703883,"Carmolândia","Arco do Desmatamento",0,0
+"1712",1703883,"Carmolândia","Cidades",0,0
+"1713",1703883,"Carmolândia","Outros",0,0
+"1714",1703883,"Carmolândia","Região Antropizada",33940.32,100
+"1715",1703883,"Carmolândia","Região Conservada",0,0
+"1716",1703891,"Carrasco Bonito","Arco do Desmatamento",0,0
+"1717",1703891,"Carrasco Bonito","Cidades",0,0
+"1718",1703891,"Carrasco Bonito","Outros",0,0
+"1719",1703891,"Carrasco Bonito","Região Antropizada",19291.6,100
+"1720",1703891,"Carrasco Bonito","Região Conservada",0,0
+"1721",1703909,"Caseara","Arco do Desmatamento",66158.53,39.11
+"1722",1703909,"Caseara","Cidades",0,0
+"1723",1703909,"Caseara","Outros",4304.63,2.54
+"1724",1703909,"Caseara","Região Antropizada",94623.56,55.94
+"1725",1703909,"Caseara","Região Conservada",4076.43,2.41
+"1726",1704105,"Centenário","Arco do Desmatamento",1266.56,0.65
+"1727",1704105,"Centenário","Cidades",0,0
+"1728",1704105,"Centenário","Outros",0,0
+"1729",1704105,"Centenário","Região Antropizada",0,0
+"1730",1704105,"Centenário","Região Conservada",194200.76,99.35
+"1731",1704600,"Chapada de Areia","Arco do Desmatamento",39737.71,60.28
+"1732",1704600,"Chapada de Areia","Cidades",0,0
+"1733",1704600,"Chapada de Areia","Outros",0,0
+"1734",1704600,"Chapada de Areia","Região Antropizada",26187.41,39.72
+"1735",1704600,"Chapada de Areia","Região Conservada",0,0
+"1736",1705102,"Chapada da Natividade","Arco do Desmatamento",121999.65,74.1
+"1737",1705102,"Chapada da Natividade","Cidades",0,0
+"1738",1705102,"Chapada da Natividade","Outros",0,0
+"1739",1705102,"Chapada da Natividade","Região Antropizada",12028.91,7.31
+"1740",1705102,"Chapada da Natividade","Região Conservada",30616.23,18.6
+"1741",1705508,"Colinas do Tocantins","Arco do Desmatamento",436.23,0.52
+"1742",1705508,"Colinas do Tocantins","Cidades",0,0
+"1743",1705508,"Colinas do Tocantins","Outros",0,0
+"1744",1705508,"Colinas do Tocantins","Região Antropizada",83944.94,99.48
+"1745",1705508,"Colinas do Tocantins","Região Conservada",0,0
+"1746",1705557,"Combinado","Arco do Desmatamento",7086.69,33.81
+"1747",1705557,"Combinado","Cidades",0,0
+"1748",1705557,"Combinado","Outros",0,0
+"1749",1705557,"Combinado","Região Antropizada",13874.64,66.19
+"1750",1705557,"Combinado","Região Conservada",0,0
+"1751",1705607,"Conceição do Tocantins","Arco do Desmatamento",216176.45,86.44
+"1752",1705607,"Conceição do Tocantins","Cidades",0,0
+"1753",1705607,"Conceição do Tocantins","Outros",0,0
+"1754",1705607,"Conceição do Tocantins","Região Antropizada",9652.98,3.86
+"1755",1705607,"Conceição do Tocantins","Região Conservada",24245.58,9.7
+"1756",1706001,"Couto Magalhães","Arco do Desmatamento",103442.57,65.23
+"1757",1706001,"Couto Magalhães","Cidades",0,0
+"1758",1706001,"Couto Magalhães","Outros",246.29,0.16
+"1759",1706001,"Couto Magalhães","Região Antropizada",54891.37,34.61
+"1760",1706001,"Couto Magalhães","Região Conservada",0,0
+"1761",1706100,"Cristalândia","Arco do Desmatamento",166716.32,90.2
+"1762",1706100,"Cristalândia","Cidades",0,0
+"1763",1706100,"Cristalândia","Outros",0,0
+"1764",1706100,"Cristalândia","Região Antropizada",15334,8.3
+"1765",1706100,"Cristalândia","Região Conservada",2774.2,1.5
+"1766",1706258,"Crixás do Tocantins","Arco do Desmatamento",75355.05,76.37
+"1767",1706258,"Crixás do Tocantins","Cidades",0,0
+"1768",1706258,"Crixás do Tocantins","Outros",0,0
+"1769",1706258,"Crixás do Tocantins","Região Antropizada",23313.73,23.63
+"1770",1706258,"Crixás do Tocantins","Região Conservada",0,0
+"1771",1706506,"Darcinópolis","Arco do Desmatamento",44361.75,27.06
+"1772",1706506,"Darcinópolis","Cidades",0,0
+"1773",1706506,"Darcinópolis","Outros",14993.92,9.15
+"1774",1706506,"Darcinópolis","Região Antropizada",13.68,0.01
+"1775",1706506,"Darcinópolis","Região Conservada",104550.81,63.78
+"1776",1707009,"Dianópolis","Arco do Desmatamento",113518.14,35.28
+"1777",1707009,"Dianópolis","Cidades",0,0
+"1778",1707009,"Dianópolis","Outros",0,0
+"1779",1707009,"Dianópolis","Região Antropizada",44140.37,13.72
+"1780",1707009,"Dianópolis","Região Conservada",164070.07,51
+"1781",1707108,"Divinópolis do Tocantins","Arco do Desmatamento",151229.76,64.42
+"1782",1707108,"Divinópolis do Tocantins","Cidades",0,0
+"1783",1707108,"Divinópolis do Tocantins","Outros",0,0
+"1784",1707108,"Divinópolis do Tocantins","Região Antropizada",83519.34,35.58
+"1785",1707108,"Divinópolis do Tocantins","Região Conservada",0,0
+"1786",1707207,"Dois Irmãos do Tocantins","Arco do Desmatamento",282843.45,75.28
+"1787",1707207,"Dois Irmãos do Tocantins","Cidades",0,0
+"1788",1707207,"Dois Irmãos do Tocantins","Outros",0,0
+"1789",1707207,"Dois Irmãos do Tocantins","Região Antropizada",32012.97,8.52
+"1790",1707207,"Dois Irmãos do Tocantins","Região Conservada",60847.72,16.2
+"1791",1707306,"Dueré","Arco do Desmatamento",234045.66,68.34
+"1792",1707306,"Dueré","Cidades",0,0
+"1793",1707306,"Dueré","Outros",0,0
+"1794",1707306,"Dueré","Região Antropizada",59089.68,17.25
+"1795",1707306,"Dueré","Região Conservada",49349.11,14.41
+"1796",1707405,"Esperantina","Arco do Desmatamento",0,0
+"1797",1707405,"Esperantina","Cidades",0,0
+"1798",1707405,"Esperantina","Outros",0,0
+"1799",1707405,"Esperantina","Região Antropizada",50401.59,100
+"1800",1707405,"Esperantina","Região Conservada",0,0
+"1801",1707553,"Fátima","Arco do Desmatamento",18287.69,47.76
+"1802",1707553,"Fátima","Cidades",0,0
+"1803",1707553,"Fátima","Outros",0,0
+"1804",1707553,"Fátima","Região Antropizada",20003.21,52.24
+"1805",1707553,"Fátima","Região Conservada",0,0
+"1806",1707652,"Figueirópolis","Arco do Desmatamento",62158.61,32.21
+"1807",1707652,"Figueirópolis","Cidades",0,0
+"1808",1707652,"Figueirópolis","Outros",0,0
+"1809",1707652,"Figueirópolis","Região Antropizada",130845.95,67.79
+"1810",1707652,"Figueirópolis","Região Conservada",0,0
+"1811",1707702,"Filadélfia","Arco do Desmatamento",114117.09,57.4
+"1812",1707702,"Filadélfia","Cidades",0,0
+"1813",1707702,"Filadélfia","Outros",16703.35,8.4
+"1814",1707702,"Filadélfia","Região Antropizada",57191.84,28.77
+"1815",1707702,"Filadélfia","Região Conservada",10794.78,5.43
+"1816",1708205,"Formoso do Araguaia","Arco do Desmatamento",331350.41,24.68
+"1817",1708205,"Formoso do Araguaia","Cidades",0,0
+"1818",1708205,"Formoso do Araguaia","Outros",0,0
+"1819",1708205,"Formoso do Araguaia","Região Antropizada",128448.51,9.57
+"1820",1708205,"Formoso do Araguaia","Região Conservada",882560.25,65.75
+"1821",1708254,"Fortaleza do Tabocão","Arco do Desmatamento",21320.65,34.3
+"1822",1708254,"Fortaleza do Tabocão","Cidades",0,0
+"1823",1708254,"Fortaleza do Tabocão","Outros",0,0
+"1824",1708254,"Fortaleza do Tabocão","Região Antropizada",40839.85,65.7
+"1825",1708254,"Fortaleza do Tabocão","Região Conservada",0,0
+"1826",1708304,"Goianorte","Arco do Desmatamento",93181.39,51.74
+"1827",1708304,"Goianorte","Cidades",0,0
+"1828",1708304,"Goianorte","Outros",0,0
+"1829",1708304,"Goianorte","Região Antropizada",85672.94,47.57
+"1830",1708304,"Goianorte","Região Conservada",1239.51,0.69
+"1831",1709005,"Goiatins","Arco do Desmatamento",85551.74,13.35
+"1832",1709005,"Goiatins","Cidades",0,0
+"1833",1709005,"Goiatins","Outros",0,0
+"1834",1709005,"Goiatins","Região Antropizada",5167.32,0.81
+"1835",1709005,"Goiatins","Região Conservada",550139.33,85.84
+"1836",1709302,"Guaraí","Arco do Desmatamento",93867.47,41.39
+"1837",1709302,"Guaraí","Cidades",0,0
+"1838",1709302,"Guaraí","Outros",0,0
+"1839",1709302,"Guaraí","Região Antropizada",115598.31,50.97
+"1840",1709302,"Guaraí","Região Conservada",17347.12,7.65
+"1841",1709500,"Gurupi","Arco do Desmatamento",68072.47,37.07
+"1842",1709500,"Gurupi","Cidades",0,0
+"1843",1709500,"Gurupi","Outros",0,0
+"1844",1709500,"Gurupi","Região Antropizada",115536.78,62.93
+"1845",1709500,"Gurupi","Região Conservada",0,0
+"1846",1709807,"Ipueiras","Arco do Desmatamento",48170.75,59.09
+"1847",1709807,"Ipueiras","Cidades",0,0
+"1848",1709807,"Ipueiras","Outros",0,0
+"1849",1709807,"Ipueiras","Região Antropizada",12837.58,15.75
+"1850",1709807,"Ipueiras","Região Conservada",20514.96,25.16
+"1851",1710508,"Itacajá","Arco do Desmatamento",123212.84,40.38
+"1852",1710508,"Itacajá","Cidades",0,0
+"1853",1710508,"Itacajá","Outros",0,0
+"1854",1710508,"Itacajá","Região Antropizada",8734.33,2.86
+"1855",1710508,"Itacajá","Região Conservada",173189.2,56.76
+"1856",1710706,"Itaguatins","Arco do Desmatamento",11944.3,16.14
+"1857",1710706,"Itaguatins","Cidades",0,0
+"1858",1710706,"Itaguatins","Outros",0,0
+"1859",1710706,"Itaguatins","Região Antropizada",54896.61,74.2
+"1860",1710706,"Itaguatins","Região Conservada",7146.44,9.66
+"1861",1710904,"Itapiratins","Arco do Desmatamento",101913.91,81.93
+"1862",1710904,"Itapiratins","Cidades",0,0
+"1863",1710904,"Itapiratins","Outros",0,0
+"1864",1710904,"Itapiratins","Região Antropizada",9998.34,8.04
+"1865",1710904,"Itapiratins","Região Conservada",12481.78,10.03
+"1866",1711100,"Itaporã do Tocantins","Arco do Desmatamento",0,0
+"1867",1711100,"Itaporã do Tocantins","Cidades",0,0
+"1868",1711100,"Itaporã do Tocantins","Outros",0,0
+"1869",1711100,"Itaporã do Tocantins","Região Antropizada",97301.41,100
+"1870",1711100,"Itaporã do Tocantins","Região Conservada",0,0
+"1871",1711506,"Jaú do Tocantins","Arco do Desmatamento",173003.19,79.61
+"1872",1711506,"Jaú do Tocantins","Cidades",0,0
+"1873",1711506,"Jaú do Tocantins","Outros",0,0
+"1874",1711506,"Jaú do Tocantins","Região Antropizada",20854.02,9.6
+"1875",1711506,"Jaú do Tocantins","Região Conservada",23453.14,10.79
+"1876",1711803,"Juarina","Arco do Desmatamento",9683.35,20.13
+"1877",1711803,"Juarina","Cidades",0,0
+"1878",1711803,"Juarina","Outros",0,0
+"1879",1711803,"Juarina","Região Antropizada",38417.78,79.87
+"1880",1711803,"Juarina","Região Conservada",0,0
+"1881",1711902,"Lagoa da Confusão","Arco do Desmatamento",231981.97,21.96
+"1882",1711902,"Lagoa da Confusão","Cidades",0,0
+"1883",1711902,"Lagoa da Confusão","Outros",0,0
+"1884",1711902,"Lagoa da Confusão","Região Antropizada",20744.91,1.96
+"1885",1711902,"Lagoa da Confusão","Região Conservada",803717.64,76.08
+"1886",1711951,"Lagoa do Tocantins","Arco do Desmatamento",9854.06,10.81
+"1887",1711951,"Lagoa do Tocantins","Cidades",0,0
+"1888",1711951,"Lagoa do Tocantins","Outros",0,0
+"1889",1711951,"Lagoa do Tocantins","Região Antropizada",0,0
+"1890",1711951,"Lagoa do Tocantins","Região Conservada",81278.45,89.19
+"1891",1712009,"Lajeado","Arco do Desmatamento",9072.45,28.14
+"1892",1712009,"Lajeado","Cidades",0,0
+"1893",1712009,"Lajeado","Outros",6916.54,21.45
+"1894",1712009,"Lajeado","Região Antropizada",0,0
+"1895",1712009,"Lajeado","Região Conservada",16257.14,50.42
+"1896",1712157,"Lavandeira","Arco do Desmatamento",18983.22,36.53
+"1897",1712157,"Lavandeira","Cidades",0,0
+"1898",1712157,"Lavandeira","Outros",0,0
+"1899",1712157,"Lavandeira","Região Antropizada",25359.73,48.8
+"1900",1712157,"Lavandeira","Região Conservada",7620.02,14.66
+"1901",1712405,"Lizarda","Arco do Desmatamento",6702.4,1.17
+"1902",1712405,"Lizarda","Cidades",0,0
+"1903",1712405,"Lizarda","Outros",0,0
+"1904",1712405,"Lizarda","Região Antropizada",0,0
+"1905",1712405,"Lizarda","Região Conservada",565623.22,98.83
+"1906",1712454,"Luzinópolis","Arco do Desmatamento",15173.25,54.28
+"1907",1712454,"Luzinópolis","Cidades",0,0
+"1908",1712454,"Luzinópolis","Outros",0,0
+"1909",1712454,"Luzinópolis","Região Antropizada",3234.22,11.57
+"1910",1712454,"Luzinópolis","Região Conservada",9545.58,34.15
+"1911",1712504,"Marianópolis do Tocantins","Arco do Desmatamento",102035.31,48.79
+"1912",1712504,"Marianópolis do Tocantins","Cidades",0,0
+"1913",1712504,"Marianópolis do Tocantins","Outros",0,0
+"1914",1712504,"Marianópolis do Tocantins","Região Antropizada",101350.39,48.46
+"1915",1712504,"Marianópolis do Tocantins","Região Conservada",5751.32,2.75
+"1916",1712702,"Mateiros","Arco do Desmatamento",65755.42,6.79
+"1917",1712702,"Mateiros","Cidades",0,0
+"1918",1712702,"Mateiros","Outros",0,0
+"1919",1712702,"Mateiros","Região Antropizada",75084.96,7.76
+"1920",1712702,"Mateiros","Região Conservada",827323.06,85.45
+"1921",1712801,"Maurilândia do Tocantins","Arco do Desmatamento",24429.85,33.1
+"1922",1712801,"Maurilândia do Tocantins","Cidades",0,0
+"1923",1712801,"Maurilândia do Tocantins","Outros",0,0
+"1924",1712801,"Maurilândia do Tocantins","Região Antropizada",4603.66,6.24
+"1925",1712801,"Maurilândia do Tocantins","Região Conservada",44775.03,60.66
+"1926",1713205,"Miracema do Tocantins","Arco do Desmatamento",88860.06,33.46
+"1927",1713205,"Miracema do Tocantins","Cidades",0,0
+"1928",1713205,"Miracema do Tocantins","Outros",15914.04,5.99
+"1929",1713205,"Miracema do Tocantins","Região Antropizada",137196.83,51.65
+"1930",1713205,"Miracema do Tocantins","Região Conservada",23637.47,8.9
+"1931",1713304,"Miranorte","Arco do Desmatamento",29703.29,28.79
+"1932",1713304,"Miranorte","Cidades",0,0
+"1933",1713304,"Miranorte","Outros",0,0
+"1934",1713304,"Miranorte","Região Antropizada",73460.42,71.21
+"1935",1713304,"Miranorte","Região Conservada",0,0
+"1936",1713601,"Monte do Carmo","Arco do Desmatamento",105212.36,29.09
+"1937",1713601,"Monte do Carmo","Cidades",0,0
+"1938",1713601,"Monte do Carmo","Outros",0,0
+"1939",1713601,"Monte do Carmo","Região Antropizada",67307.78,18.61
+"1940",1713601,"Monte do Carmo","Região Conservada",189147.91,52.3
+"1941",1713700,"Monte Santo do Tocantins","Arco do Desmatamento",64839.62,59.4
+"1942",1713700,"Monte Santo do Tocantins","Cidades",0,0
+"1943",1713700,"Monte Santo do Tocantins","Outros",0,0
+"1944",1713700,"Monte Santo do Tocantins","Região Antropizada",44312.9,40.6
+"1945",1713700,"Monte Santo do Tocantins","Região Conservada",0,0
+"1946",1713809,"Palmeiras do Tocantins","Arco do Desmatamento",67758.9,90.6
+"1947",1713809,"Palmeiras do Tocantins","Cidades",0,0
+"1948",1713809,"Palmeiras do Tocantins","Outros",1816.71,2.43
+"1949",1713809,"Palmeiras do Tocantins","Região Antropizada",4515.9,6.04
+"1950",1713809,"Palmeiras do Tocantins","Região Conservada",699.73,0.94
+"1951",1713957,"Muricilândia","Arco do Desmatamento",0,0
+"1952",1713957,"Muricilândia","Cidades",0,0
+"1953",1713957,"Muricilândia","Outros",0,0
+"1954",1713957,"Muricilândia","Região Antropizada",118667.06,100
+"1955",1713957,"Muricilândia","Região Conservada",0,0
+"1956",1714203,"Natividade","Arco do Desmatamento",198792.18,61.34
+"1957",1714203,"Natividade","Cidades",0,0
+"1958",1714203,"Natividade","Outros",0,0
+"1959",1714203,"Natividade","Região Antropizada",0,0
+"1960",1714203,"Natividade","Região Conservada",125279.75,38.66
+"1961",1714302,"Nazaré","Arco do Desmatamento",31519.55,79.61
+"1962",1714302,"Nazaré","Cidades",0,0
+"1963",1714302,"Nazaré","Outros",0,0
+"1964",1714302,"Nazaré","Região Antropizada",0,0
+"1965",1714302,"Nazaré","Região Conservada",8073.38,20.39
+"1966",1714880,"Nova Olinda","Arco do Desmatamento",84519.94,53.96
+"1967",1714880,"Nova Olinda","Cidades",0,0
+"1968",1714880,"Nova Olinda","Outros",0,0
+"1969",1714880,"Nova Olinda","Região Antropizada",71211.15,45.47
+"1970",1714880,"Nova Olinda","Região Conservada",890.86,0.57
+"1971",1715002,"Nova Rosalândia","Arco do Desmatamento",14533.22,28.15
+"1972",1715002,"Nova Rosalândia","Cidades",0,0
+"1973",1715002,"Nova Rosalândia","Outros",0,0
+"1974",1715002,"Nova Rosalândia","Região Antropizada",37097.42,71.85
+"1975",1715002,"Nova Rosalândia","Região Conservada",0,0
+"1976",1715101,"Novo Acordo","Arco do Desmatamento",20333.82,7.6
+"1977",1715101,"Novo Acordo","Cidades",0,0
+"1978",1715101,"Novo Acordo","Outros",0,0
+"1979",1715101,"Novo Acordo","Região Antropizada",0,0
+"1980",1715101,"Novo Acordo","Região Conservada",247134.49,92.4
+"1981",1715150,"Novo Alegre","Arco do Desmatamento",3263.73,16.31
+"1982",1715150,"Novo Alegre","Cidades",0,0
+"1983",1715150,"Novo Alegre","Outros",0,0
+"1984",1715150,"Novo Alegre","Região Antropizada",16744.36,83.69
+"1985",1715150,"Novo Alegre","Região Conservada",0,0
+"1986",1715259,"Novo Jardim","Arco do Desmatamento",2007.62,1.53
+"1987",1715259,"Novo Jardim","Cidades",0,0
+"1988",1715259,"Novo Jardim","Outros",0,0
+"1989",1715259,"Novo Jardim","Região Antropizada",12955.77,9.89
+"1990",1715259,"Novo Jardim","Região Conservada",116004.86,88.57
+"1991",1715507,"Oliveira de Fátima","Arco do Desmatamento",8743.08,42.47
+"1992",1715507,"Oliveira de Fátima","Cidades",0,0
+"1993",1715507,"Oliveira de Fátima","Outros",0,0
+"1994",1715507,"Oliveira de Fátima","Região Antropizada",11841.61,57.53
+"1995",1715507,"Oliveira de Fátima","Região Conservada",0,0
+"1996",1715705,"Palmeirante","Arco do Desmatamento",223817.14,84.75
+"1997",1715705,"Palmeirante","Cidades",0,0
+"1998",1715705,"Palmeirante","Outros",0,0
+"1999",1715705,"Palmeirante","Região Antropizada",17490.63,6.62
+"2000",1715705,"Palmeirante","Região Conservada",22775.91,8.62
+"2001",1715754,"Palmeirópolis","Arco do Desmatamento",150183.17,88.14
+"2002",1715754,"Palmeirópolis","Cidades",0,0
+"2003",1715754,"Palmeirópolis","Outros",2937.02,1.72
+"2004",1715754,"Palmeirópolis","Região Antropizada",0,0
+"2005",1715754,"Palmeirópolis","Região Conservada",17275.76,10.14
+"2006",1716109,"Paraíso do Tocantins","Arco do Desmatamento",43767.44,34.52
+"2007",1716109,"Paraíso do Tocantins","Cidades",0,0
+"2008",1716109,"Paraíso do Tocantins","Outros",0,0
+"2009",1716109,"Paraíso do Tocantins","Região Antropizada",83038.68,65.48
+"2010",1716109,"Paraíso do Tocantins","Região Conservada",0,0
+"2011",1716208,"Paranã","Arco do Desmatamento",555904.83,49.37
+"2012",1716208,"Paranã","Cidades",0,0
+"2013",1716208,"Paranã","Outros",24249.44,2.15
+"2014",1716208,"Paranã","Região Antropizada",91650.96,8.14
+"2015",1716208,"Paranã","Região Conservada",454224.56,40.34
+"2016",1716307,"Pau D'Arco","Arco do Desmatamento",3284.42,2.38
+"2017",1716307,"Pau D'Arco","Cidades",0,0
+"2018",1716307,"Pau D'Arco","Outros",0,0
+"2019",1716307,"Pau D'Arco","Região Antropizada",134451.31,97.62
+"2020",1716307,"Pau D'Arco","Região Conservada",0,0
+"2021",1716505,"Pedro Afonso","Arco do Desmatamento",126390.79,62.85
+"2022",1716505,"Pedro Afonso","Cidades",0,0
+"2023",1716505,"Pedro Afonso","Outros",0,0
+"2024",1716505,"Pedro Afonso","Região Antropizada",29368.16,14.6
+"2025",1716505,"Pedro Afonso","Região Conservada",45332.31,22.54
+"2026",1716604,"Peixe","Arco do Desmatamento",279809.86,52.88
+"2027",1716604,"Peixe","Cidades",0,0
+"2028",1716604,"Peixe","Outros",4447.39,0.84
+"2029",1716604,"Peixe","Região Antropizada",244864.03,46.28
+"2030",1716604,"Peixe","Região Conservada",0,0
+"2031",1716653,"Pequizeiro","Arco do Desmatamento",3613.34,2.99
+"2032",1716653,"Pequizeiro","Cidades",0,0
+"2033",1716653,"Pequizeiro","Outros",0,0
+"2034",1716653,"Pequizeiro","Região Antropizada",117369.12,97.01
+"2035",1716653,"Pequizeiro","Região Conservada",0,0
+"2036",1716703,"Colméia","Arco do Desmatamento",10412.56,10.51
+"2037",1716703,"Colméia","Cidades",0,0
+"2038",1716703,"Colméia","Outros",0,0
+"2039",1716703,"Colméia","Região Antropizada",88661.66,89.49
+"2040",1716703,"Colméia","Região Conservada",0,0
+"2041",1717008,"Pindorama do Tocantins","Arco do Desmatamento",59165.49,37.95
+"2042",1717008,"Pindorama do Tocantins","Cidades",0,0
+"2043",1717008,"Pindorama do Tocantins","Outros",0,0
+"2044",1717008,"Pindorama do Tocantins","Região Antropizada",0,0
+"2045",1717008,"Pindorama do Tocantins","Região Conservada",96740.38,62.05
+"2046",1717206,"Piraquê","Arco do Desmatamento",47071.56,34.42
+"2047",1717206,"Piraquê","Cidades",0,0
+"2048",1717206,"Piraquê","Outros",0,0
+"2049",1717206,"Piraquê","Região Antropizada",89700.5,65.58
+"2050",1717206,"Piraquê","Região Conservada",0,0
+"2051",1717503,"Pium","Arco do Desmatamento",381312.7,38.08
+"2052",1717503,"Pium","Cidades",0,0
+"2053",1717503,"Pium","Outros",0,0
+"2054",1717503,"Pium","Região Antropizada",82840.41,8.27
+"2055",1717503,"Pium","Região Conservada",537219.61,53.65
+"2056",1717800,"Ponte Alta do Bom Jesus","Arco do Desmatamento",68568.04,37.96
+"2057",1717800,"Ponte Alta do Bom Jesus","Cidades",0,0
+"2058",1717800,"Ponte Alta do Bom Jesus","Outros",0,0
+"2059",1717800,"Ponte Alta do Bom Jesus","Região Antropizada",2882.89,1.6
+"2060",1717800,"Ponte Alta do Bom Jesus","Região Conservada",109161.82,60.44
+"2061",1717909,"Ponte Alta do Tocantins","Arco do Desmatamento",20636.93,3.18
+"2062",1717909,"Ponte Alta do Tocantins","Cidades",0,0
+"2063",1717909,"Ponte Alta do Tocantins","Outros",0,0
+"2064",1717909,"Ponte Alta do Tocantins","Região Antropizada",0,0
+"2065",1717909,"Ponte Alta do Tocantins","Região Conservada",628486.5,96.82
+"2066",1718006,"Porto Alegre do Tocantins","Arco do Desmatamento",30999.27,61.77
+"2067",1718006,"Porto Alegre do Tocantins","Cidades",0,0
+"2068",1718006,"Porto Alegre do Tocantins","Outros",0,0
+"2069",1718006,"Porto Alegre do Tocantins","Região Antropizada",961.29,1.92
+"2070",1718006,"Porto Alegre do Tocantins","Região Conservada",18224,36.31
+"2071",1718204,"Porto Nacional","Arco do Desmatamento",204837.28,46.03
+"2072",1718204,"Porto Nacional","Cidades",89.24,0.02
+"2073",1718204,"Porto Nacional","Outros",67271.25,15.12
+"2074",1718204,"Porto Nacional","Região Antropizada",148914.85,33.46
+"2075",1718204,"Porto Nacional","Região Conservada",23885.28,5.37
+"2076",1718303,"Praia Norte","Arco do Desmatamento",0,0
+"2077",1718303,"Praia Norte","Cidades",0,0
+"2078",1718303,"Praia Norte","Outros",0,0
+"2079",1718303,"Praia Norte","Região Antropizada",28907.74,100
+"2080",1718303,"Praia Norte","Região Conservada",0,0
+"2081",1718402,"Presidente Kennedy","Arco do Desmatamento",33142.99,43.02
+"2082",1718402,"Presidente Kennedy","Cidades",0,0
+"2083",1718402,"Presidente Kennedy","Outros",0,0
+"2084",1718402,"Presidente Kennedy","Região Antropizada",31634.96,41.06
+"2085",1718402,"Presidente Kennedy","Região Conservada",12261.49,15.92
+"2086",1718451,"Pugmil","Arco do Desmatamento",0,0
+"2087",1718451,"Pugmil","Cidades",0,0
+"2088",1718451,"Pugmil","Outros",0,0
+"2089",1718451,"Pugmil","Região Antropizada",40183.21,100
+"2090",1718451,"Pugmil","Região Conservada",0,0
+"2091",1718501,"Recursolândia","Arco do Desmatamento",9485.82,4.28
+"2092",1718501,"Recursolândia","Cidades",0,0
+"2093",1718501,"Recursolândia","Outros",0,0
+"2094",1718501,"Recursolândia","Região Antropizada",388.66,0.18
+"2095",1718501,"Recursolândia","Região Conservada",211792.49,95.55
+"2096",1718550,"Riachinho","Arco do Desmatamento",12685.4,24.51
+"2097",1718550,"Riachinho","Cidades",0,0
+"2098",1718550,"Riachinho","Outros",0,0
+"2099",1718550,"Riachinho","Região Antropizada",39061.29,75.49
+"2100",1718550,"Riachinho","Região Conservada",0,0
+"2101",1718659,"Rio da Conceição","Arco do Desmatamento",8589.54,10.91
+"2102",1718659,"Rio da Conceição","Cidades",0,0
+"2103",1718659,"Rio da Conceição","Outros",0,0
+"2104",1718659,"Rio da Conceição","Região Antropizada",0,0
+"2105",1718659,"Rio da Conceição","Região Conservada",70125.17,89.09
+"2106",1718709,"Rio dos Bois","Arco do Desmatamento",65436.37,77.43
+"2107",1718709,"Rio dos Bois","Cidades",0,0
+"2108",1718709,"Rio dos Bois","Outros",0,0
+"2109",1718709,"Rio dos Bois","Região Antropizada",13233.17,15.66
+"2110",1718709,"Rio dos Bois","Região Conservada",5836.92,6.91
+"2111",1718758,"Rio Sono","Arco do Desmatamento",36283.87,5.71
+"2112",1718758,"Rio Sono","Cidades",0,0
+"2113",1718758,"Rio Sono","Outros",0,0
+"2114",1718758,"Rio Sono","Região Antropizada",0,0
+"2115",1718758,"Rio Sono","Região Conservada",599152.21,94.29
+"2116",1718808,"Sampaio","Arco do Desmatamento",0,0
+"2117",1718808,"Sampaio","Cidades",0,0
+"2118",1718808,"Sampaio","Outros",0,0
+"2119",1718808,"Sampaio","Região Antropizada",22233.06,100
+"2120",1718808,"Sampaio","Região Conservada",0,0
+"2121",1718840,"Sandolândia","Arco do Desmatamento",118949.95,33.71
+"2122",1718840,"Sandolândia","Cidades",0,0
+"2123",1718840,"Sandolândia","Outros",0,0
+"2124",1718840,"Sandolândia","Região Antropizada",146558.56,41.53
+"2125",1718840,"Sandolândia","Região Conservada",87356.82,24.76
+"2126",1718865,"Santa Fé do Araguaia","Arco do Desmatamento",26470.33,15.77
+"2127",1718865,"Santa Fé do Araguaia","Cidades",0,0
+"2128",1718865,"Santa Fé do Araguaia","Outros",7339.03,4.37
+"2129",1718865,"Santa Fé do Araguaia","Região Antropizada",134000.43,79.85
+"2130",1718865,"Santa Fé do Araguaia","Região Conservada",0,0
+"2131",1718881,"Santa Maria do Tocantins","Arco do Desmatamento",55249.05,39.17
+"2132",1718881,"Santa Maria do Tocantins","Cidades",0,0
+"2133",1718881,"Santa Maria do Tocantins","Outros",0,0
+"2134",1718881,"Santa Maria do Tocantins","Região Antropizada",20.07,0.01
+"2135",1718881,"Santa Maria do Tocantins","Região Conservada",85781.71,60.82
+"2136",1718899,"Santa Rita do Tocantins","Arco do Desmatamento",238580.38,72.85
+"2137",1718899,"Santa Rita do Tocantins","Cidades",0,0
+"2138",1718899,"Santa Rita do Tocantins","Outros",0,0
+"2139",1718899,"Santa Rita do Tocantins","Região Antropizada",65286.73,19.93
+"2140",1718899,"Santa Rita do Tocantins","Região Conservada",23631.46,7.22
+"2141",1718907,"Santa Rosa do Tocantins","Arco do Desmatamento",127815.62,71.15
+"2142",1718907,"Santa Rosa do Tocantins","Cidades",0,0
+"2143",1718907,"Santa Rosa do Tocantins","Outros",0,0
+"2144",1718907,"Santa Rosa do Tocantins","Região Antropizada",40613.86,22.61
+"2145",1718907,"Santa Rosa do Tocantins","Região Conservada",11202.6,6.24
+"2146",1719004,"Santa Tereza do Tocantins","Arco do Desmatamento",30410.01,56.32
+"2147",1719004,"Santa Tereza do Tocantins","Cidades",0,0
+"2148",1719004,"Santa Tereza do Tocantins","Outros",0,0
+"2149",1719004,"Santa Tereza do Tocantins","Região Antropizada",0,0
+"2150",1719004,"Santa Tereza do Tocantins","Região Conservada",23580.79,43.68
+"2151",1720002,"Santa Terezinha do Tocantins","Arco do Desmatamento",21572.99,80
+"2152",1720002,"Santa Terezinha do Tocantins","Cidades",0,0
+"2153",1720002,"Santa Terezinha do Tocantins","Outros",0,0
+"2154",1720002,"Santa Terezinha do Tocantins","Região Antropizada",5394.54,20
+"2155",1720002,"Santa Terezinha do Tocantins","Região Conservada",0,0
+"2156",1720101,"São Bento do Tocantins","Arco do Desmatamento",68895.31,62.3
+"2157",1720101,"São Bento do Tocantins","Cidades",0,0
+"2158",1720101,"São Bento do Tocantins","Outros",0,0
+"2159",1720101,"São Bento do Tocantins","Região Antropizada",13192.48,11.93
+"2160",1720101,"São Bento do Tocantins","Região Conservada",28504.96,25.77
+"2161",1720150,"São Félix do Tocantins","Arco do Desmatamento",0,0
+"2162",1720150,"São Félix do Tocantins","Cidades",0,0
+"2163",1720150,"São Félix do Tocantins","Outros",0,0
+"2164",1720150,"São Félix do Tocantins","Região Antropizada",0,0
+"2165",1720150,"São Félix do Tocantins","Região Conservada",190864.37,100
+"2166",1720200,"São Miguel do Tocantins","Arco do Desmatamento",0,0
+"2167",1720200,"São Miguel do Tocantins","Cidades",132.6,0.33
+"2168",1720200,"São Miguel do Tocantins","Outros",0,0
+"2169",1720200,"São Miguel do Tocantins","Região Antropizada",39744.9,99.67
+"2170",1720200,"São Miguel do Tocantins","Região Conservada",0,0
+"2171",1720259,"São Salvador do Tocantins","Arco do Desmatamento",94919.26,66.75
+"2172",1720259,"São Salvador do Tocantins","Cidades",0,0
+"2173",1720259,"São Salvador do Tocantins","Outros",26888.19,18.91
+"2174",1720259,"São Salvador do Tocantins","Região Antropizada",0,0
+"2175",1720259,"São Salvador do Tocantins","Região Conservada",20391.34,14.34
+"2176",1720309,"São Sebastião do Tocantins","Arco do Desmatamento",0,0
+"2177",1720309,"São Sebastião do Tocantins","Cidades",0,0
+"2178",1720309,"São Sebastião do Tocantins","Outros",0,0
+"2179",1720309,"São Sebastião do Tocantins","Região Antropizada",28728.52,100
+"2180",1720309,"São Sebastião do Tocantins","Região Conservada",0,0
+"2181",1720499,"São Valério","Arco do Desmatamento",175164.48,69.52
+"2182",1720499,"São Valério","Cidades",0,0
+"2183",1720499,"São Valério","Outros",0,0
+"2184",1720499,"São Valério","Região Antropizada",32727.29,12.99
+"2185",1720499,"São Valério","Região Conservada",44067.99,17.49
+"2186",1720655,"Silvanópolis","Arco do Desmatamento",42652.55,33.88
+"2187",1720655,"Silvanópolis","Cidades",0,0
+"2188",1720655,"Silvanópolis","Outros",0,0
+"2189",1720655,"Silvanópolis","Região Antropizada",39510.32,31.39
+"2190",1720655,"Silvanópolis","Região Conservada",43719.38,34.73
+"2191",1720804,"Sítio Novo do Tocantins","Arco do Desmatamento",0,0
+"2192",1720804,"Sítio Novo do Tocantins","Cidades",0,0
+"2193",1720804,"Sítio Novo do Tocantins","Outros",0,0
+"2194",1720804,"Sítio Novo do Tocantins","Região Antropizada",32408.79,100
+"2195",1720804,"Sítio Novo do Tocantins","Região Conservada",0,0
+"2196",1720853,"Sucupira","Arco do Desmatamento",526.53,0.51
+"2197",1720853,"Sucupira","Cidades",0,0
+"2198",1720853,"Sucupira","Outros",0,0
+"2199",1720853,"Sucupira","Região Antropizada",102025.5,99.49
+"2200",1720853,"Sucupira","Região Conservada",0,0
+"2201",1720903,"Taguatinga","Arco do Desmatamento",190576.99,78.19
+"2202",1720903,"Taguatinga","Cidades",0,0
+"2203",1720903,"Taguatinga","Outros",0,0
+"2204",1720903,"Taguatinga","Região Antropizada",43743.42,17.95
+"2205",1720903,"Taguatinga","Região Conservada",9419.57,3.86
+"2206",1720937,"Taipas do Tocantins","Arco do Desmatamento",94283.32,84.47
+"2207",1720937,"Taipas do Tocantins","Cidades",0,0
+"2208",1720937,"Taipas do Tocantins","Outros",0,0
+"2209",1720937,"Taipas do Tocantins","Região Antropizada",16828.76,15.08
+"2210",1720937,"Taipas do Tocantins","Região Conservada",508.04,0.46
+"2211",1720978,"Talismã","Arco do Desmatamento",26420.27,12.25
+"2212",1720978,"Talismã","Cidades",0,0
+"2213",1720978,"Talismã","Outros",0,0
+"2214",1720978,"Talismã","Região Antropizada",189269.01,87.75
+"2215",1720978,"Talismã","Região Conservada",0,0
+"2216",1721000,"Palmas","Arco do Desmatamento",73103.32,32.95
+"2217",1721000,"Palmas","Cidades",9759.71,4.4
+"2218",1721000,"Palmas","Outros",36267.77,16.34
+"2219",1721000,"Palmas","Região Antropizada",9598.5,4.33
+"2220",1721000,"Palmas","Região Conservada",93164.18,41.99
+"2221",1721109,"Tocantínia","Arco do Desmatamento",52714.02,20.26
+"2222",1721109,"Tocantínia","Cidades",0,0
+"2223",1721109,"Tocantínia","Outros",0,0
+"2224",1721109,"Tocantínia","Região Antropizada",3802.37,1.46
+"2225",1721109,"Tocantínia","Região Conservada",203641.72,78.28
+"2226",1721208,"Tocantinópolis","Arco do Desmatamento",18031.49,16.74
+"2227",1721208,"Tocantinópolis","Cidades",0,0
+"2228",1721208,"Tocantinópolis","Outros",0,0
+"2229",1721208,"Tocantinópolis","Região Antropizada",19475.15,18.08
+"2230",1721208,"Tocantinópolis","Região Conservada",70200.89,65.18
+"2231",1721257,"Tupirama","Arco do Desmatamento",64720.4,90.87
+"2232",1721257,"Tupirama","Cidades",0,0
+"2233",1721257,"Tupirama","Outros",0,0
+"2234",1721257,"Tupirama","Região Antropizada",6238.69,8.76
+"2235",1721257,"Tupirama","Região Conservada",263.35,0.37
+"2236",1721307,"Tupiratins","Arco do Desmatamento",71393.3,79.74
+"2237",1721307,"Tupiratins","Cidades",0,0
+"2238",1721307,"Tupiratins","Outros",0,0
+"2239",1721307,"Tupiratins","Região Antropizada",0,0
+"2240",1721307,"Tupiratins","Região Conservada",18136.29,20.26
+"2241",1722081,"Wanderlândia","Arco do Desmatamento",46384.34,33.78
+"2242",1722081,"Wanderlândia","Cidades",0,0
+"2243",1722081,"Wanderlândia","Outros",0,0
+"2244",1722081,"Wanderlândia","Região Antropizada",9955.23,7.25
+"2245",1722081,"Wanderlândia","Região Conservada",80953.93,58.96
+"2246",1722107,"Xambioá","Arco do Desmatamento",1057.2,0.89
+"2247",1722107,"Xambioá","Cidades",0,0
+"2248",1722107,"Xambioá","Outros",0,0
+"2249",1722107,"Xambioá","Região Antropizada",117585.51,99.11
+"2250",1722107,"Xambioá","Região Conservada",0,0

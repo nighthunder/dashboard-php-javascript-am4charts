@@ -1,0 +1,9 @@
+.mapDownloadButton
+{
+    background-color: #681139;
+    padding: 0.5rem;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 1rem;
+}

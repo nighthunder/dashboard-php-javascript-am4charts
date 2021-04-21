@@ -1,0 +1,17 @@
+@mixin buttonText
+{
+    font-size: $tamanhoFonteTexto;
+    font-family: 'Open Sans' ;
+}
+
+@mixin mediaQuery($width, $type: min) {
+    @if map_has_key($tamanhosTela, $width) {
+        $width: map_get($tamanhosTela, $width);
+        @if $type == max {
+            $width: $width - 1px;
+        }
+        @media only screen and (#{$type}-width: $width) {
+            @content;
+        }
+    }
+}

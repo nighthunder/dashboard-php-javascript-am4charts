@@ -1,0 +1,197 @@
+.surveyModal {
+  background: #FFFFFF;
+  height: auto;
+  overflow-y: scroll;
+  margin: 1rem auto;
+  padding: 1.2rem;
+  max-height: 90%;
+  opacity: 1;
+  border-radius: 10px;
+}
+.surveyModal .surveyModalHeader {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.surveyModal .surveyModalTitle {
+  font-family: "Open Sans";
+  font-weight: bold;
+  font-size: 19px;
+  color: #3a424a;
+  margin: 1rem auto;
+}
+.surveyModal .surveyModalIconContainer {
+  text-align: right;
+}
+.surveyModal .surveyModalCloseIcon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.surveyModal .surveyModalButtonsContainer {
+  display: flex;
+  justify-content: center;
+}
+.surveyModal .surveyModalButton {
+  font-family: "Open Sans";
+  font-size: 16px;
+  padding: 0.5rem;
+  color: white;
+  width: 25%;
+  border-radius: 10px;
+  text-align: center;
+  margin: 1rem;
+  cursor: pointer;
+}
+.surveyModal .surveyModalButton.inactiveButton {
+  background-color: #EAEAEA;
+}
+.surveyModal .confirmButton {
+  background-color: #3ac09a;
+}
+.surveyModal .negateButton {
+  background-color: #f7892f;
+}
+.surveyModal .surveyModalSection {
+  width: 80%;
+  margin: 0 auto;
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: #495057;
+}
+.surveyModal .surveyModalSection .sectionTitle {
+  text-align: center;
+  font-size: 14px;
+  font-family: "Open Sans";
+  font-weight: bold;
+}
+.surveyModal .surveyModalSection .sectionSelect {
+  border-radius: 5px;
+  border: 1px #495057 solid;
+  margin-bottom: 2rem;
+}
+.surveyModal .surveyModalSection .sectionSelect.invalidInput {
+  border-color: red;
+}
+.surveyModal .surveyModalSection .sectionDisplay {
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+.surveyModal .surveyModalSection .sectionValue, .surveyModal .surveyModalSection .surveyModalDisplayIcon {
+  margin: auto 0;
+}
+.surveyModal .surveyModalSection .options {
+  padding: 0.5rem;
+  border-top: 1px #495057 solid;
+}
+.surveyModal .surveyModalSection .options.hiddenOptions {
+  display: none;
+}
+.surveyModal .surveyModalSection .option {
+  font-size: 10px;
+  font-style: normal;
+}
+.surveyModal .surveyModalSection .occupationOption {
+  display: block;
+}
+.surveyModal .surveyModalSection.hiddenSection {
+  display: none;
+}
+@media only screen and (min-width: 320px) {
+  .surveyModal .surveyModalSection {
+    width: 90%;
+  }
+}
+.surveyModal .occupationOptions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: stretch;
+  height: 80px;
+  flex-direction: column;
+}
+@media only screen and (min-width: 768px) {
+  .surveyModal .occupationOptions {
+    height: 80px;
+  }
+}
+@media only screen and (min-width: 320px) {
+  .surveyModal .occupationOptions {
+    height: 100px;
+  }
+}
+.surveyModal .stateOptions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: stretch;
+  height: 220px;
+  flex-direction: column;
+}
+.surveyModal .surveyModalDisplayIcon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.surveyModal .surveyModalDisplayIcon.hiddenIcon {
+  display: none;
+}
+.surveyModal.hiddenSurveyModal {
+  opacity: 0;
+}
+.surveyModal input[type=checkbox] {
+  margin-right: 5px;
+}
+.surveyModal .formBottom {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+}
+.surveyModal .sendButton {
+  width: 100px;
+  padding: 0.5rem;
+  background-color: #681139;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Open Sans";
+  margin-left: 1rem;
+  cursor: pointer;
+}
+.surveyModal .sendButton.hiddenButton {
+  display: none;
+}
+.surveyModal .requestResponse {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #681139;
+}
+.surveyModal .requestResponse.hiddenResponse {
+  display: none;
+}
+@media only screen and (min-width: 320px) {
+  .surveyModal {
+    width: 85%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .surveyModal {
+    width: 50%;
+  }
+}
+
+.surveyModalWrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1001;
+  transition: opacity 2s ease-in-out;
+}
+.surveyModalWrapper.hiddenSurveyModal {
+  display: none;
+  opacity: 0;
+}

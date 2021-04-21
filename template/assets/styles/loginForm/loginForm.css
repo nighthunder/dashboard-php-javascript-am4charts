@@ -1,0 +1,110 @@
+.loginModal {
+  background: #FFFFFF;
+  height: 90%;
+  margin: 1rem auto;
+  padding: 1.2rem;
+  overflow-y: auto;
+  opacity: 1;
+  border-radius: 10px;
+}
+.loginModal .loginModalHeader {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.loginModal .loginModalTitle {
+  font-family: "Open Sans";
+  font-weight: "bold";
+  font-size: 33px;
+  color: #fff;
+  margin: 1rem auto;
+}
+.loginModal .loginModalIconContainer {
+  text-align: right;
+}
+.loginModal .loginModalCloseIcon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.loginModal.hiddenLoginModal {
+  opacity: 0;
+}
+@media only screen and (min-width: 320px) {
+  .loginModal {
+    width: 85%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .loginModal {
+    width: 30%;
+  }
+}
+.loginModal .loginFormBottom {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+}
+.loginModal .loginFormSendButton {
+  padding: 0.5rem;
+  color: #681139;
+  background-color:#ffff;
+  border-radius: 5px;
+  cursor: pointer;
+  letter-spacinG: 0.04em;
+  text-align: center;
+  font-weight: 700;
+  margin-right: -18px;
+  margin-top: 15px;
+}
+
+.loginModalWrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1001;
+  transition: opacity 2s ease-in-out;
+}
+.loginModalWrapper.hiddenLoginModal {
+  display: none;
+  opacity: 0;
+}
+
+.fieldsGroup {
+  margin-bottom: 68px;
+}
+.fieldsGroup .loginFormField {
+  width: 100%;
+  font-family: "Open Sans";
+  font-weight: "bold";
+  font-size: 24px;
+  color: #495057;
+  transition: border 0.6s linear;
+}
+.fieldsGroup .loginFormField:not(:last-child) {
+  margin-bottom: 34px;
+}
+.fieldsGroup .loginFormField.invalidInput {
+  border: 1px solid red;
+}
+.fieldsGroup .loginFormFieldTitle, .loginFormFieldTitle {
+  font-family: "Open Sans";
+  font-weight: "bold";
+  font-size: 18px;
+  color: #fff;
+}
+
+.loginFormRequestResponse{
+  font-weight: bold;
+  color: red;
+  padding: 10px;
+  padding-left: 0px;
+  margin-left: -18px;
+}
+.loginRecoverPass, .loginRecoverPass:hover, .loginRecoverPass:active, .loginRecoverPass:visited{
+  color: #fff;
+}

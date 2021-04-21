@@ -1,0 +1,111 @@
+area,regiao,id
+Demografia,Amazônia Legal,12
+Saneamento,Amazônia Legal,23
+Meio Ambiente,Amazônia Legal,34
+Institucional,Amazônia Legal,45
+Ciência e Tecnologia,Amazônia Legal,56
+Saúde,Amazônia Legal,67
+Economia,Amazônia Legal,78
+Desenvolvimento Social,Amazônia Legal,89
+Educação,Amazônia Legal,100
+Demografia,Rondônia,111
+Infraestrutura,Amazônia Legal,122
+Infraestrutura,Rondônia,133
+Saneamento,Rondônia,144
+Segurança,Amazônia Legal,155
+Meio Ambiente,Rondônia,166
+Institucional,Rondônia,177
+Ciência e Tecnologia,Rondônia,188
+Segurança,Rondônia,199
+Saúde,Rondônia,210
+Economia,Rondônia,221
+Desenvolvimento Social,Rondônia,232
+Educação,Rondônia,243
+Demografia,Acre,254
+Infraestrutura,Acre,265
+Saneamento,Acre,276
+Meio Ambiente,Acre,287
+Institucional,Acre,298
+Ciência e Tecnologia,Acre,309
+Segurança,Acre,320
+Saúde,Acre,331
+Economia,Acre,342
+Desenvolvimento Social,Acre,353
+Educação,Acre,364
+Demografia,Amazonas,375
+Infraestrutura,Amazonas,386
+Saneamento,Amazonas,397
+Meio Ambiente,Amazonas,408
+Institucional,Amazonas,419
+Ciência e Tecnologia,Amazonas,430
+Segurança,Amazonas,441
+Saúde,Amazonas,452
+Economia,Amazonas,463
+Desenvolvimento Social,Amazonas,474
+Educação,Amazonas,485
+Demografia,Roraima,496
+Infraestrutura,Roraima,507
+Saneamento,Roraima,518
+Meio Ambiente,Roraima,529
+Institucional,Roraima,540
+Ciência e Tecnologia,Roraima,551
+Segurança,Roraima,562
+Saúde,Roraima,573
+Economia,Roraima,584
+Desenvolvimento Social,Roraima,595
+Educação,Roraima,606
+Demografia,Pará,617
+Infraestrutura,Pará,628
+Saneamento,Pará,639
+Meio Ambiente,Pará,650
+Institucional,Pará,661
+Ciência e Tecnologia,Pará,672
+Segurança,Pará,683
+Saúde,Pará,694
+Economia,Pará,705
+Desenvolvimento Social,Pará,716
+Educação,Pará,727
+Demografia,Amapá,738
+Infraestrutura,Amapá,749
+Saneamento,Amapá,760
+Meio Ambiente,Amapá,771
+Institucional,Amapá,782
+Ciência e Tecnologia,Amapá,793
+Segurança,Amapá,804
+Saúde,Amapá,815
+Economia,Amapá,826
+Desenvolvimento Social,Amapá,837
+Educação,Amapá,848
+Demografia,Tocantins,859
+Infraestrutura,Tocantins,870
+Saneamento,Tocantins,881
+Meio Ambiente,Tocantins,892
+Institucional,Tocantins,903
+Ciência e Tecnologia,Tocantins,914
+Segurança,Tocantins,925
+Saúde,Tocantins,936
+Economia,Tocantins,947
+Desenvolvimento Social,Tocantins,958
+Educação,Tocantins,969
+Demografia,Maranhão,980
+Infraestrutura,Maranhão,991
+Saneamento,Maranhão,1002
+Meio Ambiente,Maranhão,1013
+Institucional,Maranhão,1024
+Ciência e Tecnologia,Maranhão,1035
+Segurança,Maranhão,1046
+Saúde,Maranhão,1057
+Economia,Maranhão,1068
+Desenvolvimento Social,Maranhão,1079
+Educação,Maranhão,1090
+Demografia,Mato Grosso,1101
+Infraestrutura,Mato Grosso,1112
+Saneamento,Mato Grosso,1123
+Meio Ambiente,Mato Grosso,1134
+Institucional,Mato Grosso,1145
+Ciência e Tecnologia,Mato Grosso,1156
+Segurança,Mato Grosso,1167
+Saúde,Mato Grosso,1178
+Economia,Mato Grosso,1189
+Desenvolvimento Social,Mato Grosso,1200
+Educação,Mato Grosso,1211

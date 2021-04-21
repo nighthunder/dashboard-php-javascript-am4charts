@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://amazoniaemdados.info/home/home.php</loc>
+  </url>
+  <url>
+    <loc>http://amazoniaemdados.info/explore/explore.php</loc>
+  </url>
+  <url>
+    <loc>http://amazoniaemdados.info/sobre/sobre.php</loc>
+  </url>
+  <url>
+    <loc>http://amazoniaemdados.info/atlas/atlas.php</loc>
+  </url>
+  <url>
+    <loc>http://amazoniaemdados.info/home/home.php?regiao=Amazônia%20Legal</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/desafios/desafios.php?regiao=Amaz%C3%B4nia%20Legal&area=todas</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/compare/compare.php?regiao=Maranhão&regiao1=Amazonas&area=Educação__1090&indicador=TX_INEP_IDEB_AI_UF__1090</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/explore/explore.php?regiao=Amaz%C3%B4nia</loc>
+  </url>
+  <url>
+    <loc>http://amazoniaemdados.info/dashboard/pre-perfil.php</loc>
+  </url>
+  <url>
+    <loc>http://amazonialegalemdados.info/dashboard/pre-perfil.php?regiao=Amazônia%20Legal</loc>
+  </url>
+</urlset>
+<!--<guid value="51d01ea5-f164-4fbd-9919-02ddc0bafa13" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->

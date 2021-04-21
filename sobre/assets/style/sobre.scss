@@ -1,0 +1,55 @@
+@import './variaveisSobre.scss';
+@import './mixinsSobre.scss';
+
+.sectionAbout
+{
+    background-color: white;
+    width: 60%;
+    height: auto;
+    margin: 1rem auto 5rem auto;
+    font-family: 'Open Sans';
+    padding: 2rem;
+
+    .headerSectionAbout
+    {
+        @include headerText;
+    }
+
+    .textSectionAbout
+    {
+        color: $textColor;
+        font-size: 16px;
+    }
+
+    .linkSectionAbout
+    {
+        color: black;
+        text-decoration: underline;
+        font-weight: bold;
+    }
+
+    .imageContainerSectionAbout
+    {
+        text-align: center;
+    }
+
+    .spiralImageSectionAbout
+    {
+        width: 75%;
+        margin: 5rem auto 5rem auto;
+    }
+
+    .headerSectionAboutConsortium
+    {
+        @include headerText(24px);
+    }
+
+    .linkSectionAboutConsortium
+    {
+        color: white;
+        text-decoration: none;
+        padding: 0.5rem 1rem;
+        background-color: $headerTextColor;
+        border-radius: 5px;
+    }
+}

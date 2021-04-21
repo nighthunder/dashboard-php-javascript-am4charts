@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<rss version="2.0">
+  <channel>
+    <title>Amazônia Legal em Dados</title>
+    <link>http://amazoniaemdados.info</link>
+    <description />
+    <item>
+      <guid>http://amazoniaemdados.info/home/home.php</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/home/home.php</link>
+      <description>Plataforma Amazonia Legal em Dados</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/explore/explore.php</guid>
+      <title>Explore</title>
+      <link>http://amazoniaemdados.info/explore/explore.php</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/sobre/sobre.php</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/sobre/sobre.php</link>
+      <description>Build whatever layout you need with our Architect framework.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/atlas/atlas.php</guid>
+      <title>Atlas</title>
+      <link>http://amazoniaemdados.info/atlas/atlas.php</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/desafios/desafios.php?regiao=Amazônia%20Legal&amp;area=todas</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/desafios/desafios.php?regiao=Amazônia%20Legal&amp;area=todas</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/home/home.php?regiao=Amazônia%20Legal</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/home/home.php?regiao=Amazônia%20Legal</link>
+      <description>Plataforma Amazonia Legal em Dados</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/desafios/desafios.php?regiao=&amp;area=todas</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/desafios/desafios.php?regiao=&amp;area=todas</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/compare/compare.php?regiao=Amazonas&amp;regiao1=Roraima&amp;area=Educação__485&amp;indicador=TX_INEP_IDEB_AI_UF__485</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/compare/compare.php?regiao=Amazonas&amp;regiao1=Roraima&amp;area=Educação__485&amp;indicador=TX_INEP_IDEB_AI_UF__485</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/explore/explore.php?regiao=Amazônia</guid>
+      <title>Explore</title>
+      <link>http://amazoniaemdados.info/explore/explore.php?regiao=Amazônia</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/pre-perfil.php</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/dashboard/pre-perfil.php</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/atlas/atlas.php?regiao=Amazônia%20Legal</guid>
+      <title>Atlas</title>
+      <link>http://amazoniaemdados.info/atlas/atlas.php?regiao=Amazônia%20Legal</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/pre-perfil.php?regiao=Amazônia%20Legal</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/dashboard/pre-perfil.php?regiao=Amazônia%20Legal</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_GINI_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_GINI_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/compare/compare.php?regiao=Maranhão&amp;regiao1=Amazonas&amp;area=Educação__1090&amp;indicador=TX_INEP_IDEB_AI_UF__1090</guid>
+      <title>Amazônia Legal em Dados</title>
+      <link>http://amazoniaemdados.info/compare/compare.php?regiao=Maranhão&amp;regiao1=Amazonas&amp;area=Educação__1090&amp;indicador=TX_INEP_IDEB_AI_UF__1090</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Saúde__67&amp;indicador=TX_DATASUS_DCNT_30_69_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Saúde__67&amp;indicador=TX_DATASUS_DCNT_30_69_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazônia%20Legal&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_MORADIA_INADEQUADA_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_NEM_NEM_NEM_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_GINI_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_GINI_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Economia__78&amp;indicador=TX_PNAD_DESEMPREGO_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Economia__78&amp;indicador=TX_PNAD_INFORMAL_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Saneamento__23&amp;indicador=TX_PNAD_DOM_SANEAMENTO_UF__23</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Institucional__45&amp;indicador=TX_CNJ_CONGESTIONAMENTO_UF__45</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Economia__78&amp;indicador=TX_IBGE_PIB_PC_UF__78</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_DATASUS_GRAVIDEZ_PRECOCE_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_MCTIC_DISPENDIOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_CAPES_TITULADOS_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Ciência%20e%20Tecnologia__56&amp;indicador=TX_RAIS_OCUPADOS_TEC_UF__56</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_CRECHE_0_3_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Meio%20Ambiente__34&amp;indicador=TX_SEEG_CO2_PER_CAPITA_UF__34</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_PREESCOLA_4_5_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_ESCOLARIDADE_MEDIA_25_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_ANALFABETISMO_15_MAIS_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Educação__100&amp;indicador=TX_PNAD_JOVENS_SUPERIOR_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AF_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_AI_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Educação__100&amp;indicador=TX_INEP_IDEB_EM_UF__100</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Saúde__67&amp;indicador=TX_DATASUS_MORT_INFANTIL_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Saúde__67&amp;indicador=TX_IBGE_EXPECTATIVA_VIDA_UF__67</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_POP_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_TIC_DOM_QUALI_INTERNET_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_PNAD_DOM_CELULAR_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amapá&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_PAVIMENTADA_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_CNT_ROD_QUALIDADE_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Mato%20Grosso&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_FEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Segurança__155&amp;indicador=TX_DATASUS_HOMICIDIO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Amazonas&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Pará&amp;area=Infraestrutura__122&amp;indicador=TX_ABRADEE_DEC_UF__122</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Maranhão&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Roraima&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Segurança__155&amp;indicador=TX_DATASUS_TRANSITO_UF__155</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Acre&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_POP_POBRES_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Tocantins&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+    <item>
+      <guid>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</guid>
+      <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+      <link>http://amazoniaemdados.info/dashboard/perfil.php?regiao=Rondônia&amp;area=Desenvolvimento%20Social__89&amp;indicador=TX_PNAD_RENDA_DOM_PC_UF__89</link>
+      <description>This is an example dashboard created using build-in elements and components.</description>
+    </item>
+  </channel>
+</rss>
+<!--<guid value="51d01ea5-f164-4fbd-9919-02ddc0bafa13" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->

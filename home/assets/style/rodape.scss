@@ -1,0 +1,148 @@
+$corDeBotao: #681139;
+$corDeFundo: #e5e5e5;
+$corTextoContato: #495057;
+$corInputInvalido: red;
+
+$tamanhoIconeEnvioEmail: 35px;
+$tamanhoIconeCadastroEmail: 20px;
+$tamanhoBarraLateral: 80px;
+
+$reducaoLogo: 65/108;
+$larguraLogoMacroplan: 284px;
+$alturaLogoMacroplan: 108px;
+
+@mixin fonteContato
+{
+    font-family: 'Open Sans';
+    font-size: 1rem;
+    color: $corTextoContato;
+}
+
+.app-footer
+{
+    margin-left: $tamanhoBarraLateral;
+    background-color: $corDeFundo;
+    padding: 0.5rem 0;
+    height: 120px;
+
+    .app-footer__inner
+    {
+        background-color: $corDeFundo;
+        height: 120px;
+    }
+}
+
+.informacoesContato
+{
+    display: flex;  
+    justify-content: center; 
+    width: 100%;;
+    background-color: $corDeFundo;
+    height: 100%;
+
+    .containerRodape
+    {
+        width: 31%;
+        padding-top: 1rem;
+    }
+
+    .emailContato
+    {
+        @include fonteContato;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .iconeEmailContato
+    {
+        width: $tamanhoIconeEnvioEmail;
+        height: $tamanhoIconeEnvioEmail;
+        margin-right: 0.5rem;
+    }
+    
+    .linkEmailContato
+    {
+        text-decoration: none;
+        height: fit-content;
+    }
+    
+    .cadastroEmailTitulo
+    {
+        @include fonteContato;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .iconeCadastroEmail
+    {
+        width: $tamanhoIconeCadastroEmail;
+        height: $tamanhoIconeCadastroEmail;
+    }
+
+    .cadastroEmailInput
+    {
+        margin: 0 auto;
+        background-color: white;
+        padding: 0.5rem;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+
+        &.invalidEmailInput
+        {
+            border: 1px solid $corInputInvalido;
+        }
+    }
+
+    .textoCadastroEmail
+    {
+        border:none;
+        flex: 2 1;
+        margin: 0 auto;
+        &:focus
+        {
+            outline: none;
+        }
+    }
+
+    .envioCadastroEmail
+    {
+        background-color: $corDeBotao;
+        color: white;
+        display: inline;
+        padding: 0.5rem 1.5rem;
+        border-radius: 0.1rem;
+        cursor: pointer;
+        ;
+    }
+
+    .retornoCadastro
+    {
+        color: $corDeBotao;
+        width: 100%;
+        text-align: center;
+        font-weight: bold;
+
+        &.semRetorno
+        {
+            display: none;
+        }
+    }
+
+    .logoMacroplan
+    {
+        text-align: center;
+    }
+
+    .textoLogo
+    {
+        @include fonteContato;
+    }
+
+    .imagemLogo
+    {
+        width: $larguraLogoMacroplan * $reducaoLogo;
+        height: $alturaLogoMacroplan * $reducaoLogo;
+    }
+}

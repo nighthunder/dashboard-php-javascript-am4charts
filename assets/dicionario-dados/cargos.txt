@@ -1,0 +1,3 @@
+scr,"secretário"
+gov,"governador"
+dev,"desenvolvedor"

@@ -1,0 +1,721 @@
+"","COD","NOME","TERRITORIO","AREA","PCT"
+"756",1500107,"Abaetetuba","Arco do Desmatamento",18535.34,11.51
+"757",1500107,"Abaetetuba","Cidades",0,0
+"758",1500107,"Abaetetuba","Outros",74459.57,46.24
+"759",1500107,"Abaetetuba","Região Antropizada",0,0
+"760",1500107,"Abaetetuba","Região Conservada",68047.82,42.25
+"761",1500131,"Abel Figueiredo","Arco do Desmatamento",5333.5,8.68
+"762",1500131,"Abel Figueiredo","Cidades",0,0
+"763",1500131,"Abel Figueiredo","Outros",0,0
+"764",1500131,"Abel Figueiredo","Região Antropizada",56084.28,91.32
+"765",1500131,"Abel Figueiredo","Região Conservada",0,0
+"766",1500206,"Acará","Arco do Desmatamento",216635.14,49.87
+"767",1500206,"Acará","Cidades",0,0
+"768",1500206,"Acará","Outros",3653.45,0.84
+"769",1500206,"Acará","Região Antropizada",0,0
+"770",1500206,"Acará","Região Conservada",214084.1,49.29
+"771",1500305,"Afuá","Arco do Desmatamento",0,0
+"772",1500305,"Afuá","Cidades",0,0
+"773",1500305,"Afuá","Outros",471587.85,56.32
+"774",1500305,"Afuá","Região Antropizada",0,0
+"775",1500305,"Afuá","Região Conservada",365697.37,43.68
+"776",1500347,"Água Azul do Norte","Arco do Desmatamento",94534.72,13.29
+"777",1500347,"Água Azul do Norte","Cidades",0,0
+"778",1500347,"Água Azul do Norte","Outros",0,0
+"779",1500347,"Água Azul do Norte","Região Antropizada",480392.27,67.53
+"780",1500347,"Água Azul do Norte","Região Conservada",136471.66,19.18
+"781",1500404,"Alenquer","Arco do Desmatamento",192293.97,8.13
+"782",1500404,"Alenquer","Cidades",0,0
+"783",1500404,"Alenquer","Outros",113251.97,4.79
+"784",1500404,"Alenquer","Região Antropizada",147667.3,6.25
+"785",1500404,"Alenquer","Região Conservada",1911176.54,80.83
+"786",1500503,"Almeirim","Arco do Desmatamento",170204.16,2.33
+"787",1500503,"Almeirim","Cidades",0,0
+"788",1500503,"Almeirim","Outros",175301.71,2.4
+"789",1500503,"Almeirim","Região Antropizada",19931.76,0.27
+"790",1500503,"Almeirim","Região Conservada",6930031.45,94.99
+"791",1500602,"Altamira","Arco do Desmatamento",1053826.58,6.61
+"792",1500602,"Altamira","Cidades",0,0
+"793",1500602,"Altamira","Outros",149274.73,0.94
+"794",1500602,"Altamira","Região Antropizada",487764.37,3.06
+"795",1500602,"Altamira","Região Conservada",14262456.56,89.4
+"796",1500701,"Anajás","Arco do Desmatamento",0,0
+"797",1500701,"Anajás","Cidades",0,0
+"798",1500701,"Anajás","Outros",0,0
+"799",1500701,"Anajás","Região Antropizada",0,0
+"800",1500701,"Anajás","Região Conservada",691296.5,100
+"801",1500800,"Ananindeua","Arco do Desmatamento",0,0
+"802",1500800,"Ananindeua","Cidades",7895.21,41.45
+"803",1500800,"Ananindeua","Outros",5479.09,28.76
+"804",1500800,"Ananindeua","Região Antropizada",0,0
+"805",1500800,"Ananindeua","Região Conservada",5673.5,29.79
+"806",1500859,"Anapu","Arco do Desmatamento",356236.97,29.95
+"807",1500859,"Anapu","Cidades",0,0
+"808",1500859,"Anapu","Outros",3617.31,0.3
+"809",1500859,"Anapu","Região Antropizada",185360.85,15.58
+"810",1500859,"Anapu","Região Conservada",644316.67,54.17
+"811",1500909,"Augusto Corrêa","Arco do Desmatamento",73017.04,66.9
+"812",1500909,"Augusto Corrêa","Cidades",0,0
+"813",1500909,"Augusto Corrêa","Outros",767.47,0.7
+"814",1500909,"Augusto Corrêa","Região Antropizada",367.69,0.34
+"815",1500909,"Augusto Corrêa","Região Conservada",34998.04,32.06
+"816",1500958,"Aurora do Pará","Arco do Desmatamento",68465.52,37.79
+"817",1500958,"Aurora do Pará","Cidades",0,0
+"818",1500958,"Aurora do Pará","Outros",0,0
+"819",1500958,"Aurora do Pará","Região Antropizada",112715.59,62.21
+"820",1500958,"Aurora do Pará","Região Conservada",6.52,0
+"821",1501006,"Aveiro","Arco do Desmatamento",107872.02,6.32
+"822",1501006,"Aveiro","Cidades",0,0
+"823",1501006,"Aveiro","Outros",127878.69,7.49
+"824",1501006,"Aveiro","Região Antropizada",0,0
+"825",1501006,"Aveiro","Região Conservada",1471715.44,86.19
+"826",1501105,"Bagre","Arco do Desmatamento",0,0
+"827",1501105,"Bagre","Cidades",0,0
+"828",1501105,"Bagre","Outros",38933.49,8.85
+"829",1501105,"Bagre","Região Antropizada",0,0
+"830",1501105,"Bagre","Região Conservada",400800.39,91.15
+"831",1501204,"Baião","Arco do Desmatamento",187138.17,49.79
+"832",1501204,"Baião","Cidades",0,0
+"833",1501204,"Baião","Outros",46669.97,12.42
+"834",1501204,"Baião","Região Antropizada",17447.42,4.64
+"835",1501204,"Baião","Região Conservada",124579.51,33.15
+"836",1501253,"Bannach","Arco do Desmatamento",17225.8,5.83
+"837",1501253,"Bannach","Cidades",0,0
+"838",1501253,"Bannach","Outros",0,0
+"839",1501253,"Bannach","Região Antropizada",269280.25,91.08
+"840",1501253,"Bannach","Região Conservada",9157.95,3.1
+"841",1501303,"Barcarena","Arco do Desmatamento",10289.84,7.85
+"842",1501303,"Barcarena","Cidades",0,0
+"843",1501303,"Barcarena","Outros",77682.7,59.27
+"844",1501303,"Barcarena","Região Antropizada",0,0
+"845",1501303,"Barcarena","Região Conservada",43083.03,32.87
+"846",1501402,"Belém","Arco do Desmatamento",0,0
+"847",1501402,"Belém","Cidades",16805.65,15.86
+"848",1501402,"Belém","Outros",78868.86,74.44
+"849",1501402,"Belém","Região Antropizada",0,0
+"850",1501402,"Belém","Região Conservada",10268.91,9.69
+"851",1501451,"Belterra","Arco do Desmatamento",103634.22,23.56
+"852",1501451,"Belterra","Cidades",0,0
+"853",1501451,"Belterra","Outros",80746.37,18.36
+"854",1501451,"Belterra","Região Antropizada",18712.71,4.25
+"855",1501451,"Belterra","Região Conservada",236768.79,53.83
+"856",1501501,"Benevides","Arco do Desmatamento",11752.68,62.57
+"857",1501501,"Benevides","Cidades",394.59,2.1
+"858",1501501,"Benevides","Outros",3113.3,16.57
+"859",1501501,"Benevides","Região Antropizada",317.2,1.69
+"860",1501501,"Benevides","Região Conservada",3205.63,17.07
+"861",1501576,"Bom Jesus do Tocantins","Arco do Desmatamento",47532.68,16.88
+"862",1501576,"Bom Jesus do Tocantins","Cidades",0,0
+"863",1501576,"Bom Jesus do Tocantins","Outros",11736.3,4.17
+"864",1501576,"Bom Jesus do Tocantins","Região Antropizada",175909.5,62.46
+"865",1501576,"Bom Jesus do Tocantins","Região Conservada",46475.77,16.5
+"866",1501600,"Bonito","Arco do Desmatamento",39950.69,68.09
+"867",1501600,"Bonito","Cidades",0,0
+"868",1501600,"Bonito","Outros",0,0
+"869",1501600,"Bonito","Região Antropizada",18719.57,31.91
+"870",1501600,"Bonito","Região Conservada",0,0
+"871",1501709,"Bragança","Arco do Desmatamento",115981.33,55.44
+"872",1501709,"Bragança","Cidades",0,0
+"873",1501709,"Bragança","Outros",3403.8,1.63
+"874",1501709,"Bragança","Região Antropizada",65424.34,31.28
+"875",1501709,"Bragança","Região Conservada",24377.85,11.65
+"876",1501725,"Brasil Novo","Arco do Desmatamento",234488.79,36.85
+"877",1501725,"Brasil Novo","Cidades",0,0
+"878",1501725,"Brasil Novo","Outros",6907.47,1.09
+"879",1501725,"Brasil Novo","Região Antropizada",192539.07,30.26
+"880",1501725,"Brasil Novo","Região Conservada",202324.15,31.8
+"881",1501758,"Brejo Grande do Araguaia","Arco do Desmatamento",8248.13,6.4
+"882",1501758,"Brejo Grande do Araguaia","Cidades",0,0
+"883",1501758,"Brejo Grande do Araguaia","Outros",0,0
+"884",1501758,"Brejo Grande do Araguaia","Região Antropizada",120601.87,93.6
+"885",1501758,"Brejo Grande do Araguaia","Região Conservada",0,0
+"886",1501782,"Breu Branco","Arco do Desmatamento",83414.6,21.16
+"887",1501782,"Breu Branco","Cidades",0,0
+"888",1501782,"Breu Branco","Outros",34989.09,8.88
+"889",1501782,"Breu Branco","Região Antropizada",268425.54,68.1
+"890",1501782,"Breu Branco","Região Conservada",7362.93,1.87
+"891",1501808,"Breves","Arco do Desmatamento",0,0
+"892",1501808,"Breves","Cidades",0,0
+"893",1501808,"Breves","Outros",146372.06,15.31
+"894",1501808,"Breves","Região Antropizada",0,0
+"895",1501808,"Breves","Região Conservada",809927.06,84.69
+"896",1501907,"Bujaru","Arco do Desmatamento",65895.56,65.55
+"897",1501907,"Bujaru","Cidades",0,0
+"898",1501907,"Bujaru","Outros",2570.68,2.56
+"899",1501907,"Bujaru","Região Antropizada",0,0
+"900",1501907,"Bujaru","Região Conservada",32053.28,31.89
+"901",1501956,"Cachoeira do Piriá","Arco do Desmatamento",177200.37,71.97
+"902",1501956,"Cachoeira do Piriá","Cidades",0,0
+"903",1501956,"Cachoeira do Piriá","Outros",0,0
+"904",1501956,"Cachoeira do Piriá","Região Antropizada",67202.36,27.3
+"905",1501956,"Cachoeira do Piriá","Região Conservada",1797.77,0.73
+"906",1502004,"Cachoeira do Arari","Arco do Desmatamento",0,0
+"907",1502004,"Cachoeira do Arari","Cidades",0,0
+"908",1502004,"Cachoeira do Arari","Outros",53527.48,17.27
+"909",1502004,"Cachoeira do Arari","Região Antropizada",0,0
+"910",1502004,"Cachoeira do Arari","Região Conservada",256498.95,82.73
+"911",1502103,"Cametá","Arco do Desmatamento",29242.58,9.49
+"912",1502103,"Cametá","Cidades",0,0
+"913",1502103,"Cametá","Outros",88121.41,28.6
+"914",1502103,"Cametá","Região Antropizada",0,0
+"915",1502103,"Cametá","Região Conservada",190771.36,61.91
+"916",1502152,"Canaã dos Carajás","Arco do Desmatamento",42411.05,13.48
+"917",1502152,"Canaã dos Carajás","Cidades",0,0
+"918",1502152,"Canaã dos Carajás","Outros",0,0
+"919",1502152,"Canaã dos Carajás","Região Antropizada",171919.35,54.63
+"920",1502152,"Canaã dos Carajás","Região Conservada",100356.76,31.89
+"921",1502202,"Capanema","Arco do Desmatamento",33957.2,55.24
+"922",1502202,"Capanema","Cidades",0,0
+"923",1502202,"Capanema","Outros",0,0
+"924",1502202,"Capanema","Região Antropizada",25178.99,40.96
+"925",1502202,"Capanema","Região Conservada",2339.07,3.8
+"926",1502301,"Capitão Poço","Arco do Desmatamento",49958.54,17.23
+"927",1502301,"Capitão Poço","Cidades",0,0
+"928",1502301,"Capitão Poço","Outros",0,0
+"929",1502301,"Capitão Poço","Região Antropizada",239859.02,82.72
+"930",1502301,"Capitão Poço","Região Conservada",134.68,0.05
+"931",1502400,"Castanhal","Arco do Desmatamento",27255.44,26.49
+"932",1502400,"Castanhal","Cidades",0,0
+"933",1502400,"Castanhal","Outros",0,0
+"934",1502400,"Castanhal","Região Antropizada",75635.64,73.51
+"935",1502400,"Castanhal","Região Conservada",0,0
+"936",1502509,"Chaves","Arco do Desmatamento",0,0
+"937",1502509,"Chaves","Cidades",0,0
+"938",1502509,"Chaves","Outros",457723.95,34.98
+"939",1502509,"Chaves","Região Antropizada",0,0
+"940",1502509,"Chaves","Região Conservada",850746.95,65.02
+"941",1502608,"Colares","Arco do Desmatamento",7728.82,12.67
+"942",1502608,"Colares","Cidades",0,0
+"943",1502608,"Colares","Outros",47554.76,77.99
+"944",1502608,"Colares","Região Antropizada",0,0
+"945",1502608,"Colares","Região Conservada",5695.44,9.34
+"946",1502707,"Conceição do Araguaia","Arco do Desmatamento",100594.38,17.26
+"947",1502707,"Conceição do Araguaia","Cidades",0,0
+"948",1502707,"Conceição do Araguaia","Outros",8273.5,1.42
+"949",1502707,"Conceição do Araguaia","Região Antropizada",465265.98,79.81
+"950",1502707,"Conceição do Araguaia","Região Conservada",8809.09,1.51
+"951",1502756,"Concórdia do Pará","Arco do Desmatamento",61344.04,88.78
+"952",1502756,"Concórdia do Pará","Cidades",0,0
+"953",1502756,"Concórdia do Pará","Outros",0,0
+"954",1502756,"Concórdia do Pará","Região Antropizada",3668.34,5.31
+"955",1502756,"Concórdia do Pará","Região Conservada",4082.76,5.91
+"956",1502764,"Cumaru do Norte","Arco do Desmatamento",444569.45,26.02
+"957",1502764,"Cumaru do Norte","Cidades",0,0
+"958",1502764,"Cumaru do Norte","Outros",0,0
+"959",1502764,"Cumaru do Norte","Região Antropizada",748084.02,43.79
+"960",1502764,"Cumaru do Norte","Região Conservada",515854.7,30.19
+"961",1502772,"Curionópolis","Arco do Desmatamento",7575.85,3.2
+"962",1502772,"Curionópolis","Cidades",0,0
+"963",1502772,"Curionópolis","Outros",0,0
+"964",1502772,"Curionópolis","Região Antropizada",229336.09,96.8
+"965",1502772,"Curionópolis","Região Conservada",0,0
+"966",1502806,"Curralinho","Arco do Desmatamento",0,0
+"967",1502806,"Curralinho","Cidades",0,0
+"968",1502806,"Curralinho","Outros",48391.95,13.38
+"969",1502806,"Curralinho","Região Antropizada",0,0
+"970",1502806,"Curralinho","Região Conservada",313336.25,86.62
+"971",1502855,"Curuá","Arco do Desmatamento",50051.48,34.97
+"972",1502855,"Curuá","Cidades",0,0
+"973",1502855,"Curuá","Outros",73133.42,51.1
+"974",1502855,"Curuá","Região Antropizada",1844.26,1.29
+"975",1502855,"Curuá","Região Conservada",18080.09,12.63
+"976",1502905,"Curuçá","Arco do Desmatamento",15918.93,23.67
+"977",1502905,"Curuçá","Cidades",0,0
+"978",1502905,"Curuçá","Outros",2991.61,4.45
+"979",1502905,"Curuçá","Região Antropizada",0,0
+"980",1502905,"Curuçá","Região Conservada",48355.3,71.89
+"981",1502939,"Dom Eliseu","Arco do Desmatamento",273552.42,51.92
+"982",1502939,"Dom Eliseu","Cidades",0,0
+"983",1502939,"Dom Eliseu","Outros",0,0
+"984",1502939,"Dom Eliseu","Região Antropizada",201337.72,38.22
+"985",1502939,"Dom Eliseu","Região Conservada",51962.49,9.86
+"986",1502954,"Eldorado do Carajás","Arco do Desmatamento",0,0
+"987",1502954,"Eldorado do Carajás","Cidades",0,0
+"988",1502954,"Eldorado do Carajás","Outros",0,0
+"989",1502954,"Eldorado do Carajás","Região Antropizada",295669.12,100
+"990",1502954,"Eldorado do Carajás","Região Conservada",0,0
+"991",1503002,"Faro","Arco do Desmatamento",12072.02,1.03
+"992",1503002,"Faro","Cidades",0,0
+"993",1503002,"Faro","Outros",43696.31,3.71
+"994",1503002,"Faro","Região Antropizada",0,0
+"995",1503002,"Faro","Região Conservada",1121298.76,95.26
+"996",1503044,"Floresta do Araguaia","Arco do Desmatamento",42028.56,12.2
+"997",1503044,"Floresta do Araguaia","Cidades",0,0
+"998",1503044,"Floresta do Araguaia","Outros",0,0
+"999",1503044,"Floresta do Araguaia","Região Antropizada",302400.7,87.8
+"1000",1503044,"Floresta do Araguaia","Região Conservada",0,0
+"1001",1503077,"Garrafão do Norte","Arco do Desmatamento",13057.14,8.17
+"1002",1503077,"Garrafão do Norte","Cidades",0,0
+"1003",1503077,"Garrafão do Norte","Outros",0,0
+"1004",1503077,"Garrafão do Norte","Região Antropizada",146271.5,91.48
+"1005",1503077,"Garrafão do Norte","Região Conservada",574.14,0.36
+"1006",1503093,"Goianésia do Pará","Arco do Desmatamento",74826.44,10.65
+"1007",1503093,"Goianésia do Pará","Cidades",0,0
+"1008",1503093,"Goianésia do Pará","Outros",67341.7,9.59
+"1009",1503093,"Goianésia do Pará","Região Antropizada",399378.2,56.86
+"1010",1503093,"Goianésia do Pará","Região Conservada",160841.03,22.9
+"1011",1503101,"Gurupá","Arco do Desmatamento",0,0
+"1012",1503101,"Gurupá","Cidades",0,0
+"1013",1503101,"Gurupá","Outros",308184.3,36.09
+"1014",1503101,"Gurupá","Região Antropizada",0,0
+"1015",1503101,"Gurupá","Região Conservada",545827.27,63.91
+"1016",1503200,"Igarapé-Açu","Arco do Desmatamento",19797.17,25.19
+"1017",1503200,"Igarapé-Açu","Cidades",0,0
+"1018",1503200,"Igarapé-Açu","Outros",0,0
+"1019",1503200,"Igarapé-Açu","Região Antropizada",58801.85,74.81
+"1020",1503200,"Igarapé-Açu","Região Conservada",0,0
+"1021",1503309,"Igarapé-Miri","Arco do Desmatamento",7347.89,3.68
+"1022",1503309,"Igarapé-Miri","Cidades",0,0
+"1023",1503309,"Igarapé-Miri","Outros",43896.93,21.98
+"1024",1503309,"Igarapé-Miri","Região Antropizada",0,0
+"1025",1503309,"Igarapé-Miri","Região Conservada",148430.14,74.34
+"1026",1503408,"Inhangapi","Arco do Desmatamento",24317.73,51.58
+"1027",1503408,"Inhangapi","Cidades",0,0
+"1028",1503408,"Inhangapi","Outros",0,0
+"1029",1503408,"Inhangapi","Região Antropizada",14412.39,30.57
+"1030",1503408,"Inhangapi","Região Conservada",8416.69,17.85
+"1031",1503457,"Ipixuna do Pará","Arco do Desmatamento",261096.6,50.06
+"1032",1503457,"Ipixuna do Pará","Cidades",0,0
+"1033",1503457,"Ipixuna do Pará","Outros",0,0
+"1034",1503457,"Ipixuna do Pará","Região Antropizada",143372.74,27.49
+"1035",1503457,"Ipixuna do Pará","Região Conservada",117084.47,22.45
+"1036",1503507,"Irituia","Arco do Desmatamento",41686.36,30.22
+"1037",1503507,"Irituia","Cidades",0,0
+"1038",1503507,"Irituia","Outros",0,0
+"1039",1503507,"Irituia","Região Antropizada",96248.23,69.78
+"1040",1503507,"Irituia","Região Conservada",0,0
+"1041",1503606,"Itaituba","Arco do Desmatamento",625915.18,10.09
+"1042",1503606,"Itaituba","Cidades",0,0
+"1043",1503606,"Itaituba","Outros",177245.41,2.86
+"1044",1503606,"Itaituba","Região Antropizada",67748.25,1.09
+"1045",1503606,"Itaituba","Região Conservada",5333337.78,85.96
+"1046",1503705,"Itupiranga","Arco do Desmatamento",65309.33,8.29
+"1047",1503705,"Itupiranga","Cidades",0,0
+"1048",1503705,"Itupiranga","Outros",14502.64,1.84
+"1049",1503705,"Itupiranga","Região Antropizada",584292.55,74.15
+"1050",1503705,"Itupiranga","Região Conservada",123919.87,15.73
+"1051",1503754,"Jacareacanga","Arco do Desmatamento",203990.04,3.83
+"1052",1503754,"Jacareacanga","Cidades",0,0
+"1053",1503754,"Jacareacanga","Outros",151045.92,2.83
+"1054",1503754,"Jacareacanga","Região Antropizada",19690.83,0.37
+"1055",1503754,"Jacareacanga","Região Conservada",4955746.22,92.97
+"1056",1503804,"Jacundá","Arco do Desmatamento",8640.77,4.3
+"1057",1503804,"Jacundá","Cidades",0,0
+"1058",1503804,"Jacundá","Outros",51029.22,25.41
+"1059",1503804,"Jacundá","Região Antropizada",141123.62,70.28
+"1060",1503804,"Jacundá","Região Conservada",0,0
+"1061",1503903,"Juruti","Arco do Desmatamento",78982.76,9.51
+"1062",1503903,"Juruti","Cidades",0,0
+"1063",1503903,"Juruti","Outros",181164.84,21.82
+"1064",1503903,"Juruti","Região Antropizada",0,0
+"1065",1503903,"Juruti","Região Conservada",570260.23,68.67
+"1066",1504000,"Limoeiro do Ajuru","Arco do Desmatamento",0,0
+"1067",1504000,"Limoeiro do Ajuru","Cidades",0,0
+"1068",1504000,"Limoeiro do Ajuru","Outros",79714.44,53.49
+"1069",1504000,"Limoeiro do Ajuru","Região Antropizada",0,0
+"1070",1504000,"Limoeiro do Ajuru","Região Conservada",69308.99,46.51
+"1071",1504059,"Mãe do Rio","Arco do Desmatamento",0,0
+"1072",1504059,"Mãe do Rio","Cidades",0,0
+"1073",1504059,"Mãe do Rio","Outros",0,0
+"1074",1504059,"Mãe do Rio","Região Antropizada",46952.36,100
+"1075",1504059,"Mãe do Rio","Região Conservada",0,0
+"1076",1504109,"Magalhães Barata","Arco do Desmatamento",5136.88,15.79
+"1077",1504109,"Magalhães Barata","Cidades",0,0
+"1078",1504109,"Magalhães Barata","Outros",7492.95,23.04
+"1079",1504109,"Magalhães Barata","Região Antropizada",0,0
+"1080",1504109,"Magalhães Barata","Região Conservada",19895.43,61.17
+"1081",1504208,"Marabá","Arco do Desmatamento",212929.38,14.08
+"1082",1504208,"Marabá","Cidades",9753.92,0.64
+"1083",1504208,"Marabá","Outros",3763.06,0.25
+"1084",1504208,"Marabá","Região Antropizada",968521.05,64.02
+"1085",1504208,"Marabá","Região Conservada",317823.85,21.01
+"1086",1504307,"Maracanã","Arco do Desmatamento",19335.06,22.6
+"1087",1504307,"Maracanã","Cidades",0,0
+"1088",1504307,"Maracanã","Outros",26683.87,31.18
+"1089",1504307,"Maracanã","Região Antropizada",0,0
+"1090",1504307,"Maracanã","Região Conservada",39547.6,46.22
+"1091",1504406,"Marapanim","Arco do Desmatamento",43950.7,55.22
+"1092",1504406,"Marapanim","Cidades",0,0
+"1093",1504406,"Marapanim","Outros",5832.77,7.33
+"1094",1504406,"Marapanim","Região Antropizada",1977.41,2.48
+"1095",1504406,"Marapanim","Região Conservada",27836.85,34.97
+"1096",1504422,"Marituba","Arco do Desmatamento",1667.51,16.14
+"1097",1504422,"Marituba","Cidades",4904.05,47.46
+"1098",1504422,"Marituba","Outros",3762.48,36.41
+"1099",1504422,"Marituba","Região Antropizada",0,0
+"1100",1504422,"Marituba","Região Conservada",0,0
+"1101",1504455,"Medicilândia","Arco do Desmatamento",272304.47,32.92
+"1102",1504455,"Medicilândia","Cidades",0,0
+"1103",1504455,"Medicilândia","Outros",0,0
+"1104",1504455,"Medicilândia","Região Antropizada",113100.76,13.67
+"1105",1504455,"Medicilândia","Região Conservada",441853.6,53.41
+"1106",1504505,"Melgaço","Arco do Desmatamento",0,0
+"1107",1504505,"Melgaço","Cidades",0,0
+"1108",1504505,"Melgaço","Outros",71798.35,10.6
+"1109",1504505,"Melgaço","Região Antropizada",0,0
+"1110",1504505,"Melgaço","Região Conservada",605602.14,89.4
+"1111",1504604,"Mocajuba","Arco do Desmatamento",12039.69,13.83
+"1112",1504604,"Mocajuba","Cidades",0,0
+"1113",1504604,"Mocajuba","Outros",15388.28,17.67
+"1114",1504604,"Mocajuba","Região Antropizada",0,0
+"1115",1504604,"Mocajuba","Região Conservada",59648.08,68.5
+"1116",1504703,"Moju","Arco do Desmatamento",359723.58,39.56
+"1117",1504703,"Moju","Cidades",0,0
+"1118",1504703,"Moju","Outros",0,0
+"1119",1504703,"Moju","Região Antropizada",97293.82,10.7
+"1120",1504703,"Moju","Região Conservada",452398.84,49.75
+"1121",1504752,"Mojuí dos Campos","Arco do Desmatamento",145064.88,29.08
+"1122",1504752,"Mojuí dos Campos","Cidades",0,0
+"1123",1504752,"Mojuí dos Campos","Outros",9986.15,2
+"1124",1504752,"Mojuí dos Campos","Região Antropizada",88137.94,17.67
+"1125",1504752,"Mojuí dos Campos","Região Conservada",255597.16,51.24
+"1126",1504802,"Monte Alegre","Arco do Desmatamento",203928.16,11.23
+"1127",1504802,"Monte Alegre","Cidades",0,0
+"1128",1504802,"Monte Alegre","Outros",156744.86,8.63
+"1129",1504802,"Monte Alegre","Região Antropizada",165812.99,9.13
+"1130",1504802,"Monte Alegre","Região Conservada",1288772.51,71
+"1131",1504901,"Muaná","Arco do Desmatamento",0,0
+"1132",1504901,"Muaná","Cidades",0,0
+"1133",1504901,"Muaná","Outros",69239.21,18.4
+"1134",1504901,"Muaná","Região Antropizada",0,0
+"1135",1504901,"Muaná","Região Conservada",307093.76,81.6
+"1136",1504950,"Nova Esperança do Piriá","Arco do Desmatamento",86855.48,30.92
+"1137",1504950,"Nova Esperança do Piriá","Cidades",0,0
+"1138",1504950,"Nova Esperança do Piriá","Outros",0,0
+"1139",1504950,"Nova Esperança do Piriá","Região Antropizada",96120.34,34.22
+"1140",1504950,"Nova Esperança do Piriá","Região Conservada",97948.17,34.87
+"1141",1504976,"Nova Ipixuna","Arco do Desmatamento",1329.22,0.85
+"1142",1504976,"Nova Ipixuna","Cidades",0,0
+"1143",1504976,"Nova Ipixuna","Outros",14244.54,9.11
+"1144",1504976,"Nova Ipixuna","Região Antropizada",140852.85,90.04
+"1145",1504976,"Nova Ipixuna","Região Conservada",0,0
+"1146",1505007,"Nova Timboteua","Arco do Desmatamento",20535.96,41.92
+"1147",1505007,"Nova Timboteua","Cidades",0,0
+"1148",1505007,"Nova Timboteua","Outros",0,0
+"1149",1505007,"Nova Timboteua","Região Antropizada",28447.49,58.08
+"1150",1505007,"Nova Timboteua","Região Conservada",0,0
+"1151",1505031,"Novo Progresso","Arco do Desmatamento",773858.85,20.28
+"1152",1505031,"Novo Progresso","Cidades",0,0
+"1153",1505031,"Novo Progresso","Outros",0,0
+"1154",1505031,"Novo Progresso","Região Antropizada",378833.44,9.93
+"1155",1505031,"Novo Progresso","Região Conservada",2663474.47,69.79
+"1156",1505064,"Novo Repartimento","Arco do Desmatamento",298782.07,19.4
+"1157",1505064,"Novo Repartimento","Cidades",0,0
+"1158",1505064,"Novo Repartimento","Outros",171072.91,11.11
+"1159",1505064,"Novo Repartimento","Região Antropizada",865805.73,56.23
+"1160",1505064,"Novo Repartimento","Região Conservada",204206.75,13.26
+"1161",1505106,"Óbidos","Arco do Desmatamento",256177.52,9.14
+"1162",1505106,"Óbidos","Cidades",0,0
+"1163",1505106,"Óbidos","Outros",190252.7,6.79
+"1164",1505106,"Óbidos","Região Antropizada",8153.54,0.29
+"1165",1505106,"Óbidos","Região Conservada",2347720.46,83.78
+"1166",1505205,"Oeiras do Pará","Arco do Desmatamento",56946.23,14.78
+"1167",1505205,"Oeiras do Pará","Cidades",0,0
+"1168",1505205,"Oeiras do Pará","Outros",46889.09,12.17
+"1169",1505205,"Oeiras do Pará","Região Antropizada",0,0
+"1170",1505205,"Oeiras do Pará","Região Conservada",281391.16,73.05
+"1171",1505304,"Oriximiná","Arco do Desmatamento",120911.77,1.12
+"1172",1505304,"Oriximiná","Cidades",0,0
+"1173",1505304,"Oriximiná","Outros",250133.46,2.32
+"1174",1505304,"Oriximiná","Região Antropizada",9968.43,0.09
+"1175",1505304,"Oriximiná","Região Conservada",10379398.38,96.46
+"1176",1505403,"Ourém","Arco do Desmatamento",12299.5,21.87
+"1177",1505403,"Ourém","Cidades",0,0
+"1178",1505403,"Ourém","Outros",0,0
+"1179",1505403,"Ourém","Região Antropizada",43939.12,78.13
+"1180",1505403,"Ourém","Região Conservada",0,0
+"1181",1505437,"Ourilândia do Norte","Arco do Desmatamento",43934.56,3.05
+"1182",1505437,"Ourilândia do Norte","Cidades",0,0
+"1183",1505437,"Ourilândia do Norte","Outros",0,0
+"1184",1505437,"Ourilândia do Norte","Região Antropizada",202249.03,14.03
+"1185",1505437,"Ourilândia do Norte","Região Conservada",1194875.9,82.92
+"1186",1505486,"Pacajá","Arco do Desmatamento",634799.34,53.65
+"1187",1505486,"Pacajá","Cidades",0,0
+"1188",1505486,"Pacajá","Outros",0,0
+"1189",1505486,"Pacajá","Região Antropizada",487762.69,41.22
+"1190",1505486,"Pacajá","Região Conservada",60661.79,5.13
+"1191",1505494,"Palestina do Pará","Arco do Desmatamento",1251.08,1.27
+"1192",1505494,"Palestina do Pará","Cidades",0,0
+"1193",1505494,"Palestina do Pará","Outros",0,0
+"1194",1505494,"Palestina do Pará","Região Antropizada",97180.35,98.73
+"1195",1505494,"Palestina do Pará","Região Conservada",0,0
+"1196",1505502,"Paragominas","Arco do Desmatamento",865909.96,44.77
+"1197",1505502,"Paragominas","Cidades",0,0
+"1198",1505502,"Paragominas","Outros",9957.16,0.51
+"1199",1505502,"Paragominas","Região Antropizada",416232.26,21.52
+"1200",1505502,"Paragominas","Região Conservada",642133.55,33.2
+"1201",1505536,"Parauapebas","Arco do Desmatamento",68316.02,9.92
+"1202",1505536,"Parauapebas","Cidades",9948.48,1.44
+"1203",1505536,"Parauapebas","Outros",0,0
+"1204",1505536,"Parauapebas","Região Antropizada",97685.58,14.19
+"1205",1505536,"Parauapebas","Região Conservada",512620.27,74.45
+"1206",1505551,"Pau D'Arco","Arco do Desmatamento",47386.38,28.35
+"1207",1505551,"Pau D'Arco","Cidades",0,0
+"1208",1505551,"Pau D'Arco","Outros",0,0
+"1209",1505551,"Pau D'Arco","Região Antropizada",119754.5,71.65
+"1210",1505551,"Pau D'Arco","Região Conservada",0,0
+"1211",1505601,"Peixe-Boi","Arco do Desmatamento",37135.09,82.48
+"1212",1505601,"Peixe-Boi","Cidades",0,0
+"1213",1505601,"Peixe-Boi","Outros",0,0
+"1214",1505601,"Peixe-Boi","Região Antropizada",7885.86,17.52
+"1215",1505601,"Peixe-Boi","Região Conservada",0,0
+"1216",1505635,"Piçarra","Arco do Desmatamento",9938.37,3
+"1217",1505635,"Piçarra","Cidades",0,0
+"1218",1505635,"Piçarra","Outros",1478.65,0.45
+"1219",1505635,"Piçarra","Região Antropizada",319846.46,96.55
+"1220",1505635,"Piçarra","Região Conservada",0,0
+"1221",1505650,"Placas","Arco do Desmatamento",357501.4,49.84
+"1222",1505650,"Placas","Cidades",0,0
+"1223",1505650,"Placas","Outros",0,0
+"1224",1505650,"Placas","Região Antropizada",35008.71,4.88
+"1225",1505650,"Placas","Região Conservada",324803.55,45.28
+"1226",1505700,"Ponta de Pedras","Arco do Desmatamento",0,0
+"1227",1505700,"Ponta de Pedras","Cidades",0,0
+"1228",1505700,"Ponta de Pedras","Outros",66871.06,19.88
+"1229",1505700,"Ponta de Pedras","Região Antropizada",0,0
+"1230",1505700,"Ponta de Pedras","Região Conservada",269512.38,80.12
+"1231",1505809,"Portel","Arco do Desmatamento",271311.67,10.69
+"1232",1505809,"Portel","Cidades",0,0
+"1233",1505809,"Portel","Outros",111724.42,4.4
+"1234",1505809,"Portel","Região Antropizada",9339.76,0.37
+"1235",1505809,"Portel","Região Conservada",2146134.78,84.54
+"1236",1505908,"Porto de Moz","Arco do Desmatamento",93153,5.35
+"1237",1505908,"Porto de Moz","Cidades",0,0
+"1238",1505908,"Porto de Moz","Outros",225503.41,12.94
+"1239",1505908,"Porto de Moz","Região Antropizada",9967.96,0.57
+"1240",1505908,"Porto de Moz","Região Conservada",1413656,81.14
+"1241",1506005,"Prainha","Arco do Desmatamento",220381.49,14.9
+"1242",1506005,"Prainha","Cidades",0,0
+"1243",1506005,"Prainha","Outros",333393.11,22.55
+"1244",1506005,"Prainha","Região Antropizada",15959.61,1.08
+"1245",1506005,"Prainha","Região Conservada",908964.33,61.47
+"1246",1506104,"Primavera","Arco do Desmatamento",17391.75,67.25
+"1247",1506104,"Primavera","Cidades",0,0
+"1248",1506104,"Primavera","Outros",0,0
+"1249",1506104,"Primavera","Região Antropizada",568.85,2.2
+"1250",1506104,"Primavera","Região Conservada",7900.49,30.55
+"1251",1506112,"Quatipuru","Arco do Desmatamento",1075.03,3.3
+"1252",1506112,"Quatipuru","Cidades",0,0
+"1253",1506112,"Quatipuru","Outros",0,0
+"1254",1506112,"Quatipuru","Região Antropizada",0,0
+"1255",1506112,"Quatipuru","Região Conservada",31537.58,96.7
+"1256",1506138,"Redenção","Arco do Desmatamento",45677.9,11.95
+"1257",1506138,"Redenção","Cidades",0,0
+"1258",1506138,"Redenção","Outros",0,0
+"1259",1506138,"Redenção","Região Antropizada",336702.75,88.05
+"1260",1506138,"Redenção","Região Conservada",0,0
+"1261",1506161,"Rio Maria","Arco do Desmatamento",8750.14,2.13
+"1262",1506161,"Rio Maria","Cidades",0,0
+"1263",1506161,"Rio Maria","Outros",0,0
+"1264",1506161,"Rio Maria","Região Antropizada",402722.26,97.87
+"1265",1506161,"Rio Maria","Região Conservada",0,0
+"1266",1506187,"Rondon do Pará","Arco do Desmatamento",290592.85,35.24
+"1267",1506187,"Rondon do Pará","Cidades",0,0
+"1268",1506187,"Rondon do Pará","Outros",0,0
+"1269",1506187,"Rondon do Pará","Região Antropizada",462448.8,56.07
+"1270",1506187,"Rondon do Pará","Região Conservada",71671.66,8.69
+"1271",1506195,"Rurópolis","Arco do Desmatamento",282564.72,40.24
+"1272",1506195,"Rurópolis","Cidades",0,0
+"1273",1506195,"Rurópolis","Outros",13531.33,1.93
+"1274",1506195,"Rurópolis","Região Antropizada",24780.46,3.53
+"1275",1506195,"Rurópolis","Região Conservada",381262.12,54.3
+"1276",1506203,"Salinópolis","Arco do Desmatamento",8322.39,35.01
+"1277",1506203,"Salinópolis","Cidades",450.81,1.9
+"1278",1506203,"Salinópolis","Outros",1437.5,6.05
+"1279",1506203,"Salinópolis","Região Antropizada",0,0
+"1280",1506203,"Salinópolis","Região Conservada",13562.48,57.05
+"1281",1506302,"Salvaterra","Arco do Desmatamento",6150.04,5.92
+"1282",1506302,"Salvaterra","Cidades",0,0
+"1283",1506302,"Salvaterra","Outros",38044.67,36.61
+"1284",1506302,"Salvaterra","Região Antropizada",0,0
+"1285",1506302,"Salvaterra","Região Conservada",59710.05,57.47
+"1286",1506351,"Santa Bárbara do Pará","Arco do Desmatamento",11047.64,39.72
+"1287",1506351,"Santa Bárbara do Pará","Cidades",0,0
+"1288",1506351,"Santa Bárbara do Pará","Outros",0,0
+"1289",1506351,"Santa Bárbara do Pará","Região Antropizada",501.67,1.8
+"1290",1506351,"Santa Bárbara do Pará","Região Conservada",16265.66,58.48
+"1291",1506401,"Santa Cruz do Arari","Arco do Desmatamento",0,0
+"1292",1506401,"Santa Cruz do Arari","Cidades",0,0
+"1293",1506401,"Santa Cruz do Arari","Outros",9795.63,9.1
+"1294",1506401,"Santa Cruz do Arari","Região Antropizada",0,0
+"1295",1506401,"Santa Cruz do Arari","Região Conservada",97871.55,90.9
+"1296",1506500,"Santa Izabel do Pará","Arco do Desmatamento",45936.38,64.01
+"1297",1506500,"Santa Izabel do Pará","Cidades",0,0
+"1298",1506500,"Santa Izabel do Pará","Outros",2350.24,3.28
+"1299",1506500,"Santa Izabel do Pará","Região Antropizada",19676.12,27.42
+"1300",1506500,"Santa Izabel do Pará","Região Conservada",3798.81,5.29
+"1301",1506559,"Santa Luzia do Pará","Arco do Desmatamento",20026.57,14.77
+"1302",1506559,"Santa Luzia do Pará","Cidades",0,0
+"1303",1506559,"Santa Luzia do Pará","Outros",0,0
+"1304",1506559,"Santa Luzia do Pará","Região Antropizada",105771.52,78
+"1305",1506559,"Santa Luzia do Pará","Região Conservada",9814.59,7.24
+"1306",1506583,"Santa Maria das Barreiras","Arco do Desmatamento",186283.65,18.03
+"1307",1506583,"Santa Maria das Barreiras","Cidades",0,0
+"1308",1506583,"Santa Maria das Barreiras","Outros",10007.1,0.97
+"1309",1506583,"Santa Maria das Barreiras","Região Antropizada",803168.06,77.75
+"1310",1506583,"Santa Maria das Barreiras","Região Conservada",33563.83,3.25
+"1311",1506609,"Santa Maria do Pará","Arco do Desmatamento",0,0
+"1312",1506609,"Santa Maria do Pará","Cidades",0,0
+"1313",1506609,"Santa Maria do Pará","Outros",0,0
+"1314",1506609,"Santa Maria do Pará","Região Antropizada",45771.64,100
+"1315",1506609,"Santa Maria do Pará","Região Conservada",0,0
+"1316",1506708,"Santana do Araguaia","Arco do Desmatamento",276373.41,23.84
+"1317",1506708,"Santana do Araguaia","Cidades",0,0
+"1318",1506708,"Santana do Araguaia","Outros",2947.69,0.25
+"1319",1506708,"Santana do Araguaia","Região Antropizada",770922.87,66.51
+"1320",1506708,"Santana do Araguaia","Região Conservada",108890.2,9.39
+"1321",1506807,"Santarém","Arco do Desmatamento",150392.48,8.4
+"1322",1506807,"Santarém","Cidades",9963.99,0.56
+"1323",1506807,"Santarém","Outros",558579.84,31.21
+"1324",1506807,"Santarém","Região Antropizada",42964.69,2.4
+"1325",1506807,"Santarém","Região Conservada",1027997.08,57.43
+"1326",1506906,"Santarém Novo","Arco do Desmatamento",13359.49,58.22
+"1327",1506906,"Santarém Novo","Cidades",0,0
+"1328",1506906,"Santarém Novo","Outros",0,0
+"1329",1506906,"Santarém Novo","Região Antropizada",6680.64,29.11
+"1330",1506906,"Santarém Novo","Região Conservada",2907.33,12.67
+"1331",1507003,"Santo Antônio do Tauá","Arco do Desmatamento",35416.37,65.88
+"1332",1507003,"Santo Antônio do Tauá","Cidades",0,0
+"1333",1507003,"Santo Antônio do Tauá","Outros",8475.08,15.76
+"1334",1507003,"Santo Antônio do Tauá","Região Antropizada",3685.19,6.85
+"1335",1507003,"Santo Antônio do Tauá","Região Conservada",6185.6,11.51
+"1336",1507102,"São Caetano de Odivelas","Arco do Desmatamento",23679.03,31.85
+"1337",1507102,"São Caetano de Odivelas","Cidades",0,0
+"1338",1507102,"São Caetano de Odivelas","Outros",28442.79,38.26
+"1339",1507102,"São Caetano de Odivelas","Região Antropizada",0,0
+"1340",1507102,"São Caetano de Odivelas","Região Conservada",22214.93,29.88
+"1341",1507151,"São Domingos do Araguaia","Arco do Desmatamento",4758.09,3.42
+"1342",1507151,"São Domingos do Araguaia","Cidades",0,0
+"1343",1507151,"São Domingos do Araguaia","Outros",0,0
+"1344",1507151,"São Domingos do Araguaia","Região Antropizada",134489.68,96.58
+"1345",1507151,"São Domingos do Araguaia","Região Conservada",0,0
+"1346",1507201,"São Domingos do Capim","Arco do Desmatamento",58510.62,34.89
+"1347",1507201,"São Domingos do Capim","Cidades",0,0
+"1348",1507201,"São Domingos do Capim","Outros",0,0
+"1349",1507201,"São Domingos do Capim","Região Antropizada",88171.06,52.57
+"1350",1507201,"São Domingos do Capim","Região Conservada",21042.05,12.55
+"1351",1507300,"São Félix do Xingu","Arco do Desmatamento",1465221.3,17.4
+"1352",1507300,"São Félix do Xingu","Cidades",0,0
+"1353",1507300,"São Félix do Xingu","Outros",19828.03,0.24
+"1354",1507300,"São Félix do Xingu","Região Antropizada",1647581.94,19.56
+"1355",1507300,"São Félix do Xingu","Região Conservada",5288645.17,62.8
+"1356",1507409,"São Francisco do Pará","Arco do Desmatamento",13767.99,28.71
+"1357",1507409,"São Francisco do Pará","Cidades",0,0
+"1358",1507409,"São Francisco do Pará","Outros",0,0
+"1359",1507409,"São Francisco do Pará","Região Antropizada",34187.94,71.29
+"1360",1507409,"São Francisco do Pará","Região Conservada",0,0
+"1361",1507458,"São Geraldo do Araguaia","Arco do Desmatamento",7148.38,2.26
+"1362",1507458,"São Geraldo do Araguaia","Cidades",0,0
+"1363",1507458,"São Geraldo do Araguaia","Outros",0,0
+"1364",1507458,"São Geraldo do Araguaia","Região Antropizada",299707.06,94.59
+"1365",1507458,"São Geraldo do Araguaia","Região Conservada",9979.87,3.15
+"1366",1507466,"São João da Ponta","Arco do Desmatamento",9683.94,49.43
+"1367",1507466,"São João da Ponta","Cidades",0,0
+"1368",1507466,"São João da Ponta","Outros",0,0
+"1369",1507466,"São João da Ponta","Região Antropizada",0,0
+"1370",1507466,"São João da Ponta","Região Conservada",9905.94,50.57
+"1371",1507474,"São João de Pirabas","Arco do Desmatamento",12219.99,17.32
+"1372",1507474,"São João de Pirabas","Cidades",0,0
+"1373",1507474,"São João de Pirabas","Outros",8114.58,11.5
+"1374",1507474,"São João de Pirabas","Região Antropizada",2722.1,3.86
+"1375",1507474,"São João de Pirabas","Região Conservada",47500.33,67.32
+"1376",1507508,"São João do Araguaia","Arco do Desmatamento",0,0
+"1377",1507508,"São João do Araguaia","Cidades",206.7,0.16
+"1378",1507508,"São João do Araguaia","Outros",16796.67,13.12
+"1379",1507508,"São João do Araguaia","Região Antropizada",110981.13,86.71
+"1380",1507508,"São João do Araguaia","Região Conservada",0,0
+"1381",1507607,"São Miguel do Guamá","Arco do Desmatamento",45419.29,40.91
+"1382",1507607,"São Miguel do Guamá","Cidades",0,0
+"1383",1507607,"São Miguel do Guamá","Outros",0,0
+"1384",1507607,"São Miguel do Guamá","Região Antropizada",65091.03,58.63
+"1385",1507607,"São Miguel do Guamá","Região Conservada",507.41,0.46
+"1386",1507706,"São Sebastião da Boa Vista","Arco do Desmatamento",0,0
+"1387",1507706,"São Sebastião da Boa Vista","Cidades",0,0
+"1388",1507706,"São Sebastião da Boa Vista","Outros",26966.23,16.52
+"1389",1507706,"São Sebastião da Boa Vista","Região Antropizada",0,0
+"1390",1507706,"São Sebastião da Boa Vista","Região Conservada",136262.43,83.48
+"1391",1507755,"Sapucaia","Arco do Desmatamento",0,0
+"1392",1507755,"Sapucaia","Cidades",0,0
+"1393",1507755,"Sapucaia","Outros",0,0
+"1394",1507755,"Sapucaia","Região Antropizada",129807.27,100
+"1395",1507755,"Sapucaia","Região Conservada",0,0
+"1396",1507805,"Senador José Porfírio","Arco do Desmatamento",231280.88,16.04
+"1397",1507805,"Senador José Porfírio","Cidades",0,0
+"1398",1507805,"Senador José Porfírio","Outros",69517.48,4.82
+"1399",1507805,"Senador José Porfírio","Região Antropizada",40578.19,2.81
+"1400",1507805,"Senador José Porfírio","Região Conservada",1100587.35,76.33
+"1401",1507904,"Soure","Arco do Desmatamento",3851.85,1.1
+"1402",1507904,"Soure","Cidades",0,0
+"1403",1507904,"Soure","Outros",72235.13,20.54
+"1404",1507904,"Soure","Região Antropizada",0,0
+"1405",1507904,"Soure","Região Conservada",275651.71,78.37
+"1406",1507953,"Tailândia","Arco do Desmatamento",247268.4,55.81
+"1407",1507953,"Tailândia","Cidades",0,0
+"1408",1507953,"Tailândia","Outros",0,0
+"1409",1507953,"Tailândia","Região Antropizada",116877.42,26.38
+"1410",1507953,"Tailândia","Região Conservada",78872.54,17.8
+"1411",1507961,"Terra Alta","Arco do Desmatamento",20326.5,98.47
+"1412",1507961,"Terra Alta","Cidades",0,0
+"1413",1507961,"Terra Alta","Outros",0,0
+"1414",1507961,"Terra Alta","Região Antropizada",316.5,1.53
+"1415",1507961,"Terra Alta","Região Conservada",0,0
+"1416",1507979,"Terra Santa","Arco do Desmatamento",57785.02,30.48
+"1417",1507979,"Terra Santa","Cidades",0,0
+"1418",1507979,"Terra Santa","Outros",69421.7,36.62
+"1419",1507979,"Terra Santa","Região Antropizada",0,0
+"1420",1507979,"Terra Santa","Região Conservada",62379.2,32.9
+"1421",1508001,"Tomé-Açu","Arco do Desmatamento",310159.83,60.28
+"1422",1508001,"Tomé-Açu","Cidades",0,0
+"1423",1508001,"Tomé-Açu","Outros",0,0
+"1424",1508001,"Tomé-Açu","Região Antropizada",65732.34,12.77
+"1425",1508001,"Tomé-Açu","Região Conservada",138649.36,26.95
+"1426",1508035,"Tracuateua","Arco do Desmatamento",13203.74,14.13
+"1427",1508035,"Tracuateua","Cidades",0,0
+"1428",1508035,"Tracuateua","Outros",3255.14,3.48
+"1429",1508035,"Tracuateua","Região Antropizada",39680.03,42.47
+"1430",1508035,"Tracuateua","Região Conservada",37290.03,39.91
+"1431",1508050,"Trairão","Arco do Desmatamento",224893.18,18.76
+"1432",1508050,"Trairão","Cidades",0,0
+"1433",1508050,"Trairão","Outros",13716.38,1.14
+"1434",1508050,"Trairão","Região Antropizada",0,0
+"1435",1508050,"Trairão","Região Conservada",960495.79,80.1
+"1436",1508084,"Tucumã","Arco do Desmatamento",15712.1,6.25
+"1437",1508084,"Tucumã","Cidades",0,0
+"1438",1508084,"Tucumã","Outros",0,0
+"1439",1508084,"Tucumã","Região Antropizada",230853.58,91.88
+"1440",1508084,"Tucumã","Região Conservada",4690.32,1.87
+"1441",1508100,"Tucuruí","Arco do Desmatamento",54278.73,26.02
+"1442",1508100,"Tucuruí","Cidades",0,0
+"1443",1508100,"Tucuruí","Outros",86095.15,41.27
+"1444",1508100,"Tucuruí","Região Antropizada",58296.15,27.94
+"1445",1508100,"Tucuruí","Região Conservada",9949.46,4.77
+"1446",1508126,"Ulianópolis","Arco do Desmatamento",234769.46,46.14
+"1447",1508126,"Ulianópolis","Cidades",0,0
+"1448",1508126,"Ulianópolis","Outros",0,0
+"1449",1508126,"Ulianópolis","Região Antropizada",254600.82,50.03
+"1450",1508126,"Ulianópolis","Região Conservada",19481.51,3.83
+"1451",1508159,"Uruará","Arco do Desmatamento",486151.78,45.05
+"1452",1508159,"Uruará","Cidades",0,0
+"1453",1508159,"Uruará","Outros",0,0
+"1454",1508159,"Uruará","Região Antropizada",89736.26,8.32
+"1455",1508159,"Uruará","Região Conservada",503249.33,46.63
+"1456",1508209,"Vigia","Arco do Desmatamento",23977.44,44.47
+"1457",1508209,"Vigia","Cidades",0,0
+"1458",1508209,"Vigia","Outros",17906.89,33.21
+"1459",1508209,"Vigia","Região Antropizada",0,0
+"1460",1508209,"Vigia","Região Conservada",12031.77,22.32
+"1461",1508308,"Viseu","Arco do Desmatamento",292018.68,59.41
+"1462",1508308,"Viseu","Cidades",0,0
+"1463",1508308,"Viseu","Outros",15355.3,3.12
+"1464",1508308,"Viseu","Região Antropizada",132334.83,26.92
+"1465",1508308,"Viseu","Região Conservada",51806.3,10.54
+"1466",1508357,"Vitória do Xingu","Arco do Desmatamento",87880.74,28.44
+"1467",1508357,"Vitória do Xingu","Cidades",0,0
+"1468",1508357,"Vitória do Xingu","Outros",70717.49,22.89
+"1469",1508357,"Vitória do Xingu","Região Antropizada",143323.43,46.39
+"1470",1508357,"Vitória do Xingu","Região Conservada",7030.57,2.28
+"1471",1508407,"Xinguara","Arco do Desmatamento",581.9,0.15
+"1472",1508407,"Xinguara","Cidades",0,0
+"1473",1508407,"Xinguara","Outros",1115.31,0.3
+"1474",1508407,"Xinguara","Região Antropizada",376244.48,99.55
+"1475",1508407,"Xinguara","Região Conservada",0,0

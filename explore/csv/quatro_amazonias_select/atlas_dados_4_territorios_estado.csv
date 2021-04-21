@@ -1,0 +1,133 @@
+"","COD","NOME","TERRITORIO","AREA","PCT"
+"1",12,"Acre","Arco do Desmatamento",1637871.26,9.98
+"2",12,"Acre","Cidades",10194.48,0.06
+"3",12,"Acre","Região Antropizada",1629507.9,9.93
+"4",12,"Acre","Região Conservada",13134472.71,80.03
+"5",27,"Alagoas","Arco do Desmatamento",25750.38,0.92
+"6",27,"Alagoas","Cidades",27537.73,0.99
+"7",27,"Alagoas","Outros",4595.17,0.17
+"8",27,"Alagoas","Região Antropizada",2726916.97,97.92
+"9",13,"Amazonas","Arco do Desmatamento",2541245.23,1.63
+"10",13,"Amazonas","Cidades",39896.64,0.03
+"11",13,"Amazonas","Outros",7453705.04,4.78
+"12",13,"Amazonas","Região Antropizada",546420.33,0.35
+"13",13,"Amazonas","Região Conservada",145333160.63,93.21
+"14",16,"Amapá","Arco do Desmatamento",180078.33,1.26
+"15",16,"Amapá","Cidades",19975.5,0.14
+"16",16,"Amapá","Outros",511522.61,3.58
+"17",16,"Amapá","Região Antropizada",41.74,0
+"18",16,"Amapá","Região Conservada",13568273.07,95.02
+"19",29,"Bahia","Arco do Desmatamento",16934588.38,29.99
+"20",29,"Bahia","Cidades",80780.04,0.14
+"21",29,"Bahia","Outros",764995.6,1.35
+"22",29,"Bahia","Região Antropizada",23114365.28,40.93
+"23",29,"Bahia","Região Conservada",15577047.96,27.58
+"24",23,"Ceará","Arco do Desmatamento",5550510.77,37.28
+"25",23,"Ceará","Cidades",60453.5,0.41
+"26",23,"Ceará","Outros",216014.59,1.45
+"27",23,"Ceará","Região Antropizada",2427035.08,16.3
+"28",23,"Ceará","Região Conservada",6634760.74,44.56
+"29",53,"Distrito Federal","Arco do Desmatamento",204392.17,35.36
+"30",53,"Distrito Federal","Cidades",81956.78,14.18
+"31",53,"Distrito Federal","Outros",9614.85,1.66
+"32",53,"Distrito Federal","Região Antropizada",272357.98,47.12
+"33",53,"Distrito Federal","Região Conservada",9705.74,1.68
+"34",32,"Espírito Santo","Arco do Desmatamento",553003.97,12
+"35",32,"Espírito Santo","Cidades",47221.76,1.02
+"36",32,"Espírito Santo","Outros",55059.39,1.19
+"37",32,"Espírito Santo","Região Antropizada",3914788.7,84.96
+"38",32,"Espírito Santo","Região Conservada",37587.18,0.82
+"39",52,"Goiás","Arco do Desmatamento",4599852.32,13.52
+"40",52,"Goiás","Cidades",81361.51,0.24
+"41",52,"Goiás","Outros",258802.97,0.76
+"42",52,"Goiás","Região Antropizada",27106885.04,79.7
+"43",52,"Goiás","Região Conservada",1963708.69,5.77
+"44",21,"Maranhão","Arco do Desmatamento",7823981.28,23.57
+"45",21,"Maranhão","Cidades",70179.89,0.21
+"46",21,"Maranhão","Outros",917990.21,2.77
+"47",21,"Maranhão","Região Antropizada",8673364.69,26.13
+"48",21,"Maranhão","Região Conservada",15708028.86,47.32
+"49",31,"Minas Gerais","Arco do Desmatamento",14644580.59,24.97
+"50",31,"Minas Gerais","Cidades",150997.56,0.26
+"51",31,"Minas Gerais","Outros",503307.71,0.86
+"52",31,"Minas Gerais","Região Antropizada",39286725.05,66.98
+"53",31,"Minas Gerais","Região Conservada",4066451.44,6.93
+"54",50,"Mato Grosso do Sul","Arco do Desmatamento",5287224.63,14.8
+"55",50,"Mato Grosso do Sul","Cidades",31489.98,0.09
+"56",50,"Mato Grosso do Sul","Outros",1695579.74,4.75
+"57",50,"Mato Grosso do Sul","Região Antropizada",24891048.15,69.69
+"58",50,"Mato Grosso do Sul","Região Conservada",3809261.51,10.67
+"59",51,"Mato Grosso","Arco do Desmatamento",27015660.33,29.91
+"60",51,"Mato Grosso","Cidades",28897.98,0.03
+"61",51,"Mato Grosso","Outros",1177839.27,1.3
+"62",51,"Mato Grosso","Região Antropizada",31964785.09,35.39
+"63",51,"Mato Grosso","Região Conservada",30133293.02,33.36
+"64",15,"Pará","Arco do Desmatamento",16981640.96,13.61
+"65",15,"Pará","Cidades",60323.4,0.05
+"66",15,"Pará","Outros",6511671.57,5.22
+"67",15,"Pará","Região Antropizada",19096872.16,15.3
+"68",15,"Pará","Região Conservada",82144958.86,65.82
+"69",25,"Paraíba","Arco do Desmatamento",2838922.98,50.27
+"70",25,"Paraíba","Cidades",27715.97,0.49
+"71",25,"Paraíba","Outros",6617.16,0.12
+"72",25,"Paraíba","Região Antropizada",1841615.4,32.61
+"73",25,"Paraíba","Região Conservada",931963.04,16.5
+"74",26,"Pernambuco","Arco do Desmatamento",3630425.1,37.02
+"75",26,"Pernambuco","Cidades",53074.6,0.54
+"76",26,"Pernambuco","Outros",49051.41,0.5
+"77",26,"Pernambuco","Região Antropizada",4260478.98,43.45
+"78",26,"Pernambuco","Região Conservada",1812864.97,18.49
+"79",22,"Piauí","Arco do Desmatamento",5217061.97,20.73
+"80",22,"Piauí","Cidades",21942.77,0.09
+"81",22,"Piauí","Outros",58150.29,0.23
+"82",22,"Piauí","Região Antropizada",1318443.39,5.24
+"83",22,"Piauí","Região Conservada",18545606.06,73.71
+"84",41,"Paraná","Arco do Desmatamento",2035397.01,10.21
+"85",41,"Paraná","Cidades",140988.71,0.71
+"86",41,"Paraná","Outros",395786.61,1.99
+"87",41,"Paraná","Região Antropizada",16599903.45,83.29
+"88",41,"Paraná","Região Conservada",758701.33,3.81
+"89",33,"Rio de Janeiro","Arco do Desmatamento",634193.05,14.49
+"90",33,"Rio de Janeiro","Cidades",252224.68,5.76
+"91",33,"Rio de Janeiro","Outros",62716.3,1.43
+"92",33,"Rio de Janeiro","Região Antropizada",3115878.63,71.17
+"93",33,"Rio de Janeiro","Região Conservada",313138.46,7.15
+"94",24,"Rio Grande do Norte","Arco do Desmatamento",2420545.78,45.83
+"95",24,"Rio Grande do Norte","Cidades",23949.51,0.45
+"96",24,"Rio Grande do Norte","Outros",169432.3,3.21
+"97",24,"Rio Grande do Norte","Região Antropizada",1948627.29,36.9
+"98",24,"Rio Grande do Norte","Região Conservada",718552.46,13.61
+"99",11,"Rondônia","Arco do Desmatamento",3730075.39,15.69
+"100",11,"Rondônia","Cidades",20777.21,0.09
+"101",11,"Rondônia","Outros",208131.76,0.88
+"102",11,"Rondônia","Região Antropizada",9529668.27,40.08
+"103",11,"Rondônia","Região Conservada",10287888.25,43.27
+"104",14,"Roraima","Arco do Desmatamento",1679968.1,7.5
+"105",14,"Roraima","Cidades",19981.7,0.09
+"106",14,"Roraima","Outros",79628.75,0.36
+"107",14,"Roraima","Região Antropizada",209712.9,0.94
+"108",14,"Roraima","Região Conservada",20417380.5,91.12
+"109",43,"Rio Grande do Sul","Arco do Desmatamento",8666008.51,30.76
+"110",43,"Rio Grande do Sul","Cidades",163940.64,0.58
+"111",43,"Rio Grande do Sul","Outros",2279655.77,8.09
+"112",43,"Rio Grande do Sul","Região Antropizada",13834839.46,49.11
+"113",43,"Rio Grande do Sul","Região Conservada",3229356.92,11.46
+"114",42,"Santa Catarina","Arco do Desmatamento",2507809.73,26.19
+"115",42,"Santa Catarina","Cidades",134407.71,1.4
+"116",42,"Santa Catarina","Outros",67228.15,0.7
+"117",42,"Santa Catarina","Região Antropizada",5803477.58,60.62
+"118",42,"Santa Catarina","Região Conservada",1060876.27,11.08
+"119",28,"Sergipe","Arco do Desmatamento",82126.05,3.75
+"120",28,"Sergipe","Cidades",18520.24,0.84
+"121",28,"Sergipe","Outros",18706.58,0.85
+"122",28,"Sergipe","Região Antropizada",2072495.4,94.55
+"123",35,"São Paulo","Arco do Desmatamento",1385569.48,5.58
+"124",35,"São Paulo","Cidades",632278.3,2.55
+"125",35,"São Paulo","Outros",408169.97,1.64
+"126",35,"São Paulo","Região Antropizada",20891764.44,84.17
+"127",35,"São Paulo","Região Conservada",1503978.4,6.06
+"128",17,"Tocantins","Arco do Desmatamento",9875317,35.56
+"129",17,"Tocantins","Cidades",9981.55,0.04
+"130",17,"Tocantins","Outros",265711.19,0.96
+"131",17,"Tocantins","Região Antropizada",7421433.34,26.72
+"132",17,"Tocantins","Região Conservada",10199630.66,36.73

@@ -1,0 +1,25 @@
+$corTextos: #495057;
+$corBotaoEnvio: #681139;
+$corTextBotaoEnvio: #ffffff;
+$corValorIndefinido: red;
+
+$tamanhoIcone: 20px;
+
+$tamanhoFonteTitulo: 19px;
+$tamanhoFonteBotao: 16px;
+$tamanhoFonteTexto: 14px;
+
+$margemCampos: 34px;
+$margemGruposDeCampos: 68px;
+
+$tamanhosTela: (
+    "phone-small":  320px,
+    "phone":        400px,
+    "phone-wide":   480px,
+    "phablet":      560px,
+    "tablet-small": 640px,
+    "tablet":       768px,
+    "tablet-wide":  1024px,
+    "desktop":      1248px,
+    "desktop-wide": 1440px
+);

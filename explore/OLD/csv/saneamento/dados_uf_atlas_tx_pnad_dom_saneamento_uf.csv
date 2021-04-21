@@ -1,0 +1,28 @@
+AREA,INDICADOR,REGIAO,COD_IBGE,MICROREGIAO,2016,2017,2018,2019
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,11,Rondônia,15.5,11,10.2,10.9
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,12,Acre,27.5,28.1,30.6,32.6
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,13,Amazonas,30.3,36.3,34,42
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,14,Roraima,30.3,30.9,41.3,37.8
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,15,Pará,14.4,15.2,17.3,17
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,16,Amapá,9.1,11.8,14.1,14.8
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,17,Tocantins,34.2,32.5,33.1,35.7
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,21,Maranhão,20.7,24.1,25.7,22
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,22,Piauí,12.2,13.6,13.3,12.4
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,23,Ceará,48.3,48.7,47.7,49.7
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,24,Rio Grande do Norte,31,33.4,30.5,27.3
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,25,Paraíba,52.5,51.1,51.9,49.3
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,26,Pernambuco,56.6,58.6,54,55.4
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,27,Alagoas,38.7,45.1,52.8,45.3
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,28,Sergipe,66.4,63.1,62,49.9
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,29,Bahia,61.1,60.7,63.8,60.4
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,31,Minas Gerais,82.5,84.6,84.1,82.2
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,32,Espírito Santo,82.1,81.3,81.9,80.5
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,33,Rio de Janeiro,83.9,84.1,85.7,84.3
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,35,São Paulo,95.7,94.9,94.5,93.6
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,41,Paraná,73.4,75,73.7,73.4
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,42,Santa Catarina,61.3,64,64,64.5
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,43,Rio Grande do Sul,72.5,72.5,76.1,73.2
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,50,Mato Grosso do Sul,44,41.8,49.7,50.9
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,51,Mato Grosso,39.7,32.1,36.7,38.6
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,52,Goiás,54.9,54.1,56.4,60.2
+Saneamento,TX_PNAD_DOM_SANEAMENTO_UF,Amazônia Legal,53,Distrito Federal,89,89.7,89.9,89.4

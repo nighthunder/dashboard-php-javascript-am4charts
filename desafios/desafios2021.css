@@ -1,0 +1,753 @@
+/************* AMAZONIA LEGAL (AML) GENERAL SPECIFICATIONS *****************/
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+  }
+  
+  a:hover:not(.linkEmailContato){
+    color: #681139;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  h6:not(.registerFormFieldTitle, .loginFormFieldTitle){
+    text-transform: uppercase;
+  }
+  
+  h2{
+    letter-spacing: 0.02em !important;
+  }
+  
+  .ul-card{
+    list-style: none;
+    padding: 0px;
+    text-align:center;
+    margin-bottom: 1px;
+  }
+  
+  .ul-card li{
+    font-size: 13px;
+    height: 40px;
+    padding:10px;
+    color: #495057;
+  }
+  
+  .card-area{
+    margin-bottom: 0px !important;
+  }
+  
+  .card-desafio:not(.card-area) .ul-card li:last-child{
+    border-bottom: none;
+  }
+  
+  .card-desafio:not(.card-area) .ul-card li:first-child{
+    background: #dfe0e1;
+    font-weight: 600;
+  }
+  
+  .card-area .card-header h6{
+    text-transform: none;
+    font-weight: 700;
+    margin: 25px 0px 20px 7px;
+    overflow: hidden;
+    margin-bottom: 25px;
+    line-height: 20px;
+    letter-spacing: 0.015em;
+  }
+  
+  .card-area .ul-card li{
+    height: 65px;
+    font-size: 12.8px;
+    text-align: left;
+    display: table-cell;
+    vertical-align: middle;
+  }
+  
+  .link-indicador{
+    display: block;
+    border-bottom: 2px solid #dcdee1;
+  }
+  
+  .link-indicador:last-child{
+    border-bottom: none;
+  }
+  
+  .card-area .ul-card li:first-child{
+    background: #fff;
+  }
+  
+  .card-desafio:not(.card-area) .ul-card li:first-child{
+    font-weight: 600;
+  }
+  
+  .ul-card li:nth-child(2){
+    padding-top: 1px;
+  }
+  
+  
+  .ul-card li a:hover, .card-area .ul-card li:hover{
+    color: #681139 !important;
+  }
+  
+  .area-icone{
+    width: 32px;
+  }
+  
+  .pdth-2{
+    padding-top:10px !important;
+  }
+  
+  .avatar{
+    border-radius: 50% !important;
+    background-color: #e1dcdc;
+    height: 40px;
+    width: 40px;
+    padding-top: 9px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .bg-green{
+    background: #3ac09a !important;
+  }
+  
+  .cl-green{
+    color: #3ac09a !important;
+  }
+  
+  .bg-bordo{
+    background: #681139 !important;
+  }
+  
+  .bg-marrom{
+    background: #7F5B5B;
+  }
+  
+  .bg-laranja{
+    background: #E94D21;
+  }
+  
+  .bg-laranja-claro{
+    background: #F7892F;
+  }
+  
+  .bg-azul{
+    background: #95D2D9;
+  }
+  
+  .bg-verde{
+    background: #3AC09A;
+  }
+  
+  .cl-bordo{
+    color: #681139 !important;
+  }
+  
+  .cl-orange{
+    color: #F7892F !important;;
+  }
+  
+  .bo-laranja{
+    border-color: #E94D21;
+  }
+  
+  .bo-laranja-claro{
+    border-color: #F7892F;
+  }
+  
+  .bo-azul{
+    border-color: #95D2D9;
+  }
+  
+  .bg-bordo-fraco{
+    background: #D9B8C8;
+  }
+  
+  .bg-marrom-fraco{
+    background: #CCBDBD;
+  }
+  
+  .bg-laranja-escuro-fraco{
+    background: #F7C1B2;
+  }
+  
+  .bg-laranja-claro-fraco{
+    background: #FCD0AC;
+  }
+  
+  .bg-azul-fraco{
+    background: #C5E6EA;
+  }
+  
+  .bg-verde-fraco{
+    background: #9CDFCC;
+  }
+  
+  .bo-bordo-fraco{
+    border-color: #811548;
+  }
+  
+  .bo-marrom-fraco{
+    border-color: #7F5B5B;
+  }
+  
+  .bo-laranja-escuro-fraco{
+    border-color: #E94D21;
+  }
+  
+  .bo-laranja-claro-fraco{
+    border-color: #F7892F;
+  }
+  
+  .bo-azul-fraco{
+    border-color: #95D2D9;
+  }
+  
+  .bo-verde-fraco{
+    border-color: #3AC09A;
+  }
+  
+  .bo-bordo{
+    border-color: #681139 !important;
+  }
+  
+  .bo-marrom{
+    border-color: #7F5B5B !important;
+  }
+  
+  .bo-verde{
+    border-color: #3AC09A !important;
+  }
+  
+  .bg-orange{
+    background: #F7892F !important;
+  }
+  
+  /************* AMAZONIA LEGAL OTHER SPECIFICATIONS *****************/
+  
+  .card-header > .nav .nav-link.active,.card-header > .nav .nav-link:hover{
+    color: #681139 !important;
+  }
+  
+  .card-header > .nav .nav-link::before{
+    background:  #681139 !important;
+  }
+  
+  .page-title-wrapper{
+    background: url("../assets/images/AML/header.png");
+    background-repeat: no-repeat;
+    color: #ffffff;
+    border-radius: 10px;
+    background-size: 100% 100%;
+  }
+  
+  .tab-pane-1{
+    display: initial !important;
+  }
+  
+  .btn-search, .btn-search:hover{
+    background-color: #f1f4f6;
+    border-color: #f1f4f6;
+  }
+  
+  .fas.fa-search{
+    color: gray;
+    font-size: 14px;
+  }
+  
+  .sub-destaque{
+    color: #000;
+    font-size: 13px;
+    font-weight: normal;
+    letter-spacing: normal;
+  }
+  
+  .destaque-texto{
+    font-size: 26px;
+    padding: 3px;
+    letter-spacing: 0.04em;
+  }
+  
+  .vertical-nav-menu li a{
+    font-weight: 700;
+  }
+  
+  .card-header{
+    border-bottom: none;
+    border-radius: 10px;
+  }
+  
+  .card-header-title{
+    font-weight: bold !important;
+    text-transform: none !important;
+    overflow: hidden;
+    letter-spacing: 0.05em;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .card-header-title h4{
+    font-weight: bold;
+    color: #495057;
+    line-height: 24px;
+  }
+  
+  .card-body p{
+    letter-spacing: 0.04em;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 24px;
+    color: #495057;
+    margin-bottom: 5px;
+    padding-top: 5px;
+  }
+  
+  .card-body span{
+    letter-spacing: 0.05em;
+    color: #7c7c7c;
+  }
+  
+  table.table-bordered.dataTable th, table.table-bordered.dataTable td{
+    vertical-align: middle !important;
+  }
+  
+  .app-sidebar.sidebar-text-light .vertical-nav-menu li a:hover{
+    background-color: #7f3457 !important;
+  }
+  
+  .menu-icon{
+    width: 25px;
+    height: 25px;
+    line-height: 34px;
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    margin-top: -17px;
+    font-size: 1.5rem;
+  }
+  
+  .dropdown-menu-header .menu-header-image{
+    opacity: 100% !important;
+  }
+  
+  a.nav-link{
+    padding: .5rem 0.2rem 0.9rem;
+  }
+  
+  a.nav-link-header{
+    color: #681139 !important;
+    font-weight: bold !important;
+    padding: .5rem 1rem;
+  }
+  
+  .vertical-nav-menu li a{
+    letter-spacing: 0.05em;
+    font-size: 13px !important;
+  }
+  
+  .card-header.card-header-tab .card-header-title{
+    white-space: normal;
+  }
+  
+  select option:disabled{
+    color: #495057;
+    line-height: 24px;
+    font-weight: bold;
+  }
+  
+  .btn-secondary:hover{
+    background-color: #7f3457 !important;
+  }
+  
+  .fonte{
+    font-size: 12px;
+  }
+  
+  .btn-secondary{
+    border-color: #923c64; 
+  }
+  
+  .card-body.destaque-texto{
+    background: rgba(255,255,255,0.1);
+  }
+  
+  .card.text-dark.text-white .card-footer, .card.text-dark.text-white .card-header, .card.text-white .card-footer, .card.text-white .card-header{
+    background: rgba(255,255,255,0);
+  }
+  
+  .app-sidebar.sidebar-text-light .vertical-nav-menu li a{
+    color: rgba(255,255,255,1) !important;
+  }
+  
+  .app-theme-white .app-page-title{
+    background: none;
+  }
+  
+  .table-hover tbody tr:hover{
+    background-color: #EADDE3;
+  }
+  
+  .card{
+    border-radius: 10px;
+  }
+  
+  .card-body-grande{
+    padding: 0px 20px 10px !important;
+  }
+  
+  .card-header-tab.card-header, .form-control-1, .form-control-2, .form-control-3{
+    color: #000 !important;
+  }
+  
+  .app-main__outer{
+    background-color: #f1f4f6;
+  }
+  
+  .opcy-30{
+    opacity: .3;
+  }
+  
+  .app-sidebar.sidebar-text-light .vertical-nav-menu li a:hover{
+    background-color: #7f3457 !important;
+  }
+  
+  .btn-focus{
+    background-color: #e94d21;
+  }
+  
+  .vertical-nav-menu li a{
+    letter-spacing: 0.05em;
+    font-size: 13.5px !important;
+  }
+  
+  .app-sidebar.sidebar-text-light .vertical-nav-menu li a:hover{
+    background-color: #7f3457 !important;
+    border-radius: 10px;
+  }
+  
+  .setas-hierarquia{
+    background: url('../assets/images/destaques/setas-hierarquia.svg');
+    background-repeat: no-repeat;
+    height: 145px;
+    box-shadow: none !important;
+    background-position: 50% -20px;
+    position: relative;
+    padding: 0px;
+  }
+  
+  .setas{
+    background-repeat: no-repeat !important;
+    background-position: 50% 0px !important;
+    position: relative !important;
+    height: 80px !important;
+    background-size: 27px !important;
+    margin-top: -4px;
+  }
+  
+  .seta-marrom{
+    background: url('../assets/images/destaques/seta-marrom.svg');
+  }  
+  
+  .seta-azul{
+    background: url('../assets/images/destaques/seta-azul.svg');
+  }  
+  
+  .seta-verde{
+    background: url('../assets/images/destaques/seta-verde.svg');
+  }  
+  
+  .seta-bordo{
+    background: url('../assets/images/destaques/seta-bordo.svg');
+  }  
+  
+  .seta-laranja-escuro{
+    background: url('../assets/images/destaques/seta-laranja-escuro.svg');
+  }  
+  
+  .seta-laranja-claro{
+    background: url('../assets/images/destaques/seta-laranja-claro.svg');
+  }  
+  
+  .row-desafios{
+    height: 61px ;
+  }
+  
+  .card-desafio{
+    margin-top: -65px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .card-desafio .card-body{
+    padding: 0px;
+  }
+  
+  .card-desafio .card-header{
+    color: #fff;
+    vertical-align: middle;
+    border-radius: 0px !important;
+  }
+  
+  .desafio-texto{
+    /*max-height: 600px;*/
+    height:135px;
+    margin-bottom: 24px !important;
+  }
+  
+  .card-area{
+    margin-top: -33px;
+  }
+  
+  .card-area .card-header{
+    color: #495057;
+    padding: 5px;
+  }
+  
+  .form-control{
+    border: none !important;
+  }
+  
+  option{
+    margin-left: 15px;
+  }
+  
+  option:first-child{
+    font-weight: bold;
+    color: #681139;
+  }
+  
+  @media (min-width: 768px) {
+  
+    .user-name{
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      line-height: 24pt;
+    }
+  
+    .page-title-wrapper{
+        size: 42px;
+        line-height: 48px;
+        height: 165px;
+    }  
+  
+    .card-destaque{
+        width: 30%;
+        float: left;
+        margin-left: 15px;
+        font-weight: 700;
+    }
+  
+    .app-page-title .page-title-heading{
+      padding: 15px;
+      padding-bottom: 25px;
+      padding-top: 0px;
+    }
+  
+    #form-search{
+      padding-left: 15px;
+    }
+  
+    .btn-pesquisar{
+      margin-top: -7px;
+    }
+  
+    .btn-search{
+      padding: 3px 6px;
+      margin-left: -10px;
+      margin-right: -1px !important;
+      margin-top: -40px;
+    }
+  
+    .card-destaque .card-header{
+      padding: 5px;
+      padding-left: 5px;
+      height: 90px;
+      padding-left: 25px;
+      font-size: 16px;
+    }
+  
+    .texto{
+      font-size: 16px;
+      line-height: 29px;
+      text-align: justify;
+      margin-bottom: 25px;
+    }
+  
+    .position-relative.form-group{
+      width: 260px;
+    }
+  
+    .card-header-title{
+      font-size: 16px !important;
+    }
+  
+    .card-header{
+      height: 45px;
+      border-radius: 10px !important;
+      padding-top: 3%;
+    }
+  
+    .td-wd-30{
+      width: 30% !important;
+    }
+  
+    #opt_indicador{
+      width: 300px;
+    }
+  
+    .filtro-ico{
+      position: absolute;
+      top: 14%;
+      font-size: 13px;
+      left: 1%;
+    }
+  
+    .form-control{
+      padding-left: 20px !important;
+    }
+  
+    .form-control-1{
+      width: 200px !important;
+    }
+  
+    .form-control-2{
+      padding-left: 30px !important;
+      width: 310px !important;
+    }
+  
+    .form-control-3{
+      width: 350px !important;
+      padding-left: 31px !important;
+    }
+  
+    .form-group-1{
+      margin-left: -35px;
+    }
+  
+    .btn-pesquisar-1{
+      margin-left: 41px;
+      width: 125px;
+      margin-top: -1px;
+      margin-right: 5px !important;
+    }
+  
+    .btn-email{
+      margin-right: -10px;
+      margin-top: -35px !important;
+    }
+   
+    .u-go-to{
+      z-index: 100;
+      width: 2.5rem;
+      height: 2.5rem;
+      background-color: #3ac09a;
+      color: #fff;
+      font-size: 0.75rem;
+      border-radius: 0.6rem;
+      opacity: 0.6;
+      transition: 0.3s ease-out;
+      padding-top: 10px;
+    }
+  
+    .u-go-to:hover{
+      color: #000;
+    }
+  
+    .btn-actions-pane-right.text-capitalize.actions-icon-btn{
+      width: 250px;
+    }
+  
+    .vertical-nav-menu.metismenu li{
+      /*padding-bottom: 25px;*/
+    }
+  
+    .row-especial{
+      width: 100%;
+      margin-left: 0px;
+      margin-left: -10px;
+    }
+  
+    .app-sidebar .app-sidebar__inner{
+      padding: 30px 1.5rem 1.5rem 0.75rem !important;
+    }
+  
+    .titulo{
+      font-weight: 700 !important;
+      margin-top: -25px !important;
+      margin: -45px 0px 15px 20px !important;
+    }
+    
+    .form-row{
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -5px;
+      margin-left: -5px;
+      background-color: white;
+      border-radius: 5px;
+      vertical-align: middle;
+      height: 39px;
+      box-shadow: 0 0.46875rem 2.1875rem rgba(4,9,20,0.03),0 0.9375rem 1.40625rem rgba(4,9,20,0.03),0 0.25rem 0.53125rem rgba(4,9,20,0.05),0 0.125rem 0.1875rem rgba(4,9,20,0.03);
+      max-width: 660px;
+      border: 2px solid #c8d0c7;
+      font-size: 0.95rem;
+      margin-top: 2px;
+    }
+  
+    .form-control{
+      height: 34px;
+    }
+  
+    #logo{
+      margin-bottom: -13px;
+    }
+  
+    .tabs-animation{
+      margin-top: -45px;
+    }
+  
+    .app-theme-white .app-footer .app-footer__inner, .app-theme-white .app-header{
+      background: none;
+    }
+  
+    .app-wrapper-footer .app-footer {
+      border-top: none;
+    }
+  }
+  
+  @media (min-width: 1900px){
+    .setas-hierarquia {
+      background-position: 10% -25px;
+      background-size: 100% 190px;
+    }
+  }
+  
+  @media (min-width: 2560px){
+    .setas-hierarquia {
+      background-position: 10% -80px;
+      background-size: 100% 265px;
+    }
+  }
+  
+  @media (width: 1024px){
+    h6{
+      font-size: 0.7rem;
+    }
+  
+    .card-desafio:not(.card-area){
+      margin-top: -75px;
+    }
+  
+    .card-desafio:not(.card-area) .ul-card li{
+      padding: 2px;
+      font-size: 10.5px;
+    }
+  }
+  
+  .app-footer{
+    margin-left: 0px !important;
+  }
+  
+  

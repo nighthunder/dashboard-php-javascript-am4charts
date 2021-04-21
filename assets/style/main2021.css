@@ -1,0 +1,204 @@
+
+
+/************* AMAZONIA LEGAL (AML) GENERAL SPECIFICATIONS *****************/
+
+body{
+    /* font-family: 'Open Sans', sans-serif !important; */
+}
+.avatar{
+    border-radius: 50% !important;
+    background-color: #e1dcdc;
+    height: 40px;
+    width: 40px;
+    padding-top: 9px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+}
+.bg-green{
+    background: #3ac09a !important;
+}
+.bg-bordo{
+    background: #681139 !important;
+}
+.btn-primary{
+    border-color: none !important;
+}
+.mr-4, .mx-4{
+    margin-right: 24px !important;
+}
+  
+/* .btn .btn-secondary:hover{
+    background: rgba(255,255,255,0.15) !important;
+}
+  
+  .menu-icon{
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    margin-top: -17px;
+    font-size: 1.5rem;
+  } */
+
+/************* AMAZONIA LEGAL OTHER SPECIFICATIONS *****************/
+  
+  .page-title-wrapper{
+    background: url("../assets/images/AML/header.png");
+    background-repeat: no-repeat;
+    color: #ffffff;
+  }
+
+  .desktop-hide{
+    display:none !important;
+  }
+
+  .mobile-hide{
+      display: initial;
+  }
+
+  @media (max-width: 768px){
+      .mobile-hide{
+          display:none !important;
+      }
+      .desktop-hide{
+          display: initial !important;
+      }
+      .row{
+          margin-left: -15px !important;
+      }
+      .card-header.card-header-tab .card-header-title p{
+          overflow: hidden;
+          word-wrap: break-word;
+          line-height: 16px;
+      }
+  }
+    
+  @media (min-width: 768px) {
+    .user-name{
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      line-height: 24pt;
+    }
+    .page-title-wrapper{
+        background: url(../images/AML/header.png);
+        /* background-repeat: no-repeat; */
+        /* color: #ffffff; */
+        border-radius: 7px;
+        background-size: 100% 100%;
+        size: 42px;
+        line-height: 48px;
+        height: 165px;
+    }  
+  }
+  
+@media (min-width: 1300px){
+    .contactSubmit{
+        position: relative;
+        top: 0;
+        right: -65%;
+    }
+}
+@media (min-width: 1900px){
+    .contactSubmit{
+        position: relative;
+        top: 0;
+        right: -50%;
+    }
+}
+@media (min-width: 2100px){
+    .contactSubmit{
+        position: relative;
+        top: 0;
+        right: -65%;
+    }
+}
+@media (min-width: 2100px){
+    .contactSubmit{
+        position: relative;
+        top: 0;
+        right: -65%;
+    }
+}
+/* =============== HEADER TEMPLATE ============== */
+.widget-heading.user-name form .form-group {
+    justify-content: center;
+}
+.widget-heading.user-name form .form-group .btn-primary{
+    margin-bottom: 5px;
+    font-weight: bold;
+    border: none !important;
+    width: 110px;
+}
+.widget-heading.user-name form .form-group{
+    height: 50px;
+    width: initial;
+}
+.widget-heading.user-name form .form-group p {
+    padding-toP: 7px;
+}
+.widget-heading.user-name form .form-group p a:link,
+.widget-heading.user-name form .form-group p a:hover,
+.widget-heading.user-name form .form-group p a:active,
+.widget-heading.user-name form .form-group p a:visited{
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+.widget-content .widget-content-left .widget-heading{
+    opacity: 0.9 !important;
+}
+/* =============== SIDEBAR ============== */
+@media (min-width: 768px){
+    .vertical-nav-menu li a{
+        width: 245px;
+    }
+}
+/* =============== LOGIN ============== */
+.app-login-box .mb-0{
+    margin-bottom: 25px !important;
+}
+.app-login-box h4 span{
+    font-size: 1.1rem;
+}
+.app-login-box h4{
+    font-weight: normal;
+}
+.slider-light .slider-content{
+    color: #fff;
+}
+.app-login-box .mb-0 span{
+    color: #fff;
+    margin-bottom: 25px;
+}
+.app-login-box .mb-0 .d-block{
+    color: #fff;
+    margin: 75px 0px 0px;
+}
+.slider-light .slider-content h3{
+    font-weight: bold;
+}
+/* =============== end login ============== */
+
+.registerLoginDiv
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.registerLoginDiv .openLoginDialog
+{
+    color: white;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.registerLoginDiv .openRegisterDialog, .registerLoginDiv .openLoginDialog
+{
+    margin: 0;
+    font-weight: bold;
+}
