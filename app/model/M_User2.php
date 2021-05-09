@@ -1,5 +1,7 @@
 <?php
 
+/* Esta classe é usada pela página de administração do usuário */
+
 namespace app\models;
 use app\core\Model;
 use PDO;
@@ -62,7 +64,7 @@ class M_User2{
 
 		session_start();
 
-		$sql = "SELECT state, address, fullname, sex, phone, email, zip_code, birth_date, state, county, activity, institution, office, newsletter, lgpd  FROM user where email = '".$_SESSION["email"]."';";
+		$sql = "SELECT *  FROM user where email = '".$_SESSION["email"]."';";
 
 		//echo $sql;
 		
@@ -128,7 +130,7 @@ class M_User2{
 		echo "</pre>";
 		session_start();
 		$birth_date = explode("/",$userdata["birth_date"]);
-		$birth_date = 	$birth_date[2]."-".$birth_date[0]."-".$birth_date[1];
+		$birth_date = 	$birth_date[2]."-".$birth_date[1]."-".$birth_date[0];
 		$sql = "UPDATE user set address =\"".$userdata["address"]."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
 		$sql = "UPDATE user set zip_code =\"".$userdata["zip"]."\" where email = '".$_SESSION["email"]."';";
@@ -143,17 +145,19 @@ class M_User2{
 		$qry = $this->db->query($sql);
 		$sql = "UPDATE user set activity = \"".utf8_decode($userdata["selectActivity"])."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
-		$sql = "UPDATE user set institution = \"".$userdata["institution"]."\" where email = '".$_SESSION["email"]."';";
+		$sql = "UPDATE user set institution = \"".utf8_decode($userdata["institution"])."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
-		$sql = "UPDATE user set county = \"".$userdata["county"]."\" where email = '".$_SESSION["email"]."';";
+		$sql = "UPDATE user set county = \"".utf8_decode($userdata["county"])."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
-		$sql = "UPDATE user set office = \"".$userdata["office"]."\" where email = '".$_SESSION["email"]."';";
-		$qry = $this->db->query($sql);
-		$sql = "UPDATE user set county = \"".$userdata["county"]."\" where email = '".$_SESSION["email"]."';";
+		$sql = "UPDATE user set office = \"".utf8_decode($userdata["office"])."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
 		$sql = "UPDATE user set state = \"".utf8_decode($userdata["selectState"])."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
-		$sql = "UPDATE user set newsletter = \"".$userdata["newsletter"]."\" where email = '".$_SESSION["email"]."';";
+		$sql = "UPDATE user set newsletter = \"".utf8_decode($userdata["newsletter"])."\" where email = '".$_SESSION["email"]."';";
+		$qry = $this->db->query($sql);
+		$sql = "UPDATE user set funcionalidade = \"".utf8_decode($userdata["funcionalidade"])."\" where email = '".$_SESSION["email"]."';";
+		$qry = $this->db->query($sql);
+		$sql = "UPDATE user set indicador = \"".utf8_decode($userdata["indicador"])."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
 		$sql = "Select name from state where id = ".$userdata["selectState"];
 		$qry = $this->db->query($sql);

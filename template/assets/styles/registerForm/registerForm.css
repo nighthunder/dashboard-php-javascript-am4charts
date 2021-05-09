@@ -57,7 +57,7 @@
 .registerModal .registerFormSendButton {
   padding:7px;
   color:  #681139;
-  background: #f6f6f6 !important;
+  background: #f6f6f6;
   border-radius: 5px;
   cursor: pointer;
   font-weighT: bold;
@@ -65,6 +65,13 @@
   letter-spacing: 0.04em;
   position: relative;
   right: -18px;
+  box-shadow: 1px 1px 1px #610d33;
+  border: 1px solid #6f123c;
+  background-color: #480625;
+  color: #fff;
+}
+.registerModal .registerFormSendButton:hover{
+  background-color: #7f3457;
 }
 .registerModalWrapper {
   position: fixed;
@@ -91,6 +98,8 @@
   font-size: 16px;
   color: #495057;
   transition: border 0.6s linear;
+  border-radius:5px;
+  background-color: #eee;
 }
 .fieldsGroup .registerFormField:not(:last-child) {
   margin-bottom: 5px;
@@ -126,4 +135,10 @@ input[type='checkbox']{
 }
 .politicaEmail{
   padding-top: 1%;
+}
+
+@media (min-width: 1200px){
+  .registerModal{
+    height:initial !important;
+  }
 }

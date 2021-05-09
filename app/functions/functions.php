@@ -3,6 +3,7 @@
 function configPHP(){
 	$producao = false;
 	$homologacao = false;
+	$desenvolvimento = false;
 
 	if($producao){
 
@@ -34,6 +35,21 @@ function configPHP(){
 		ini_set('display_errors', FALSE);
 		ini_set('display_startup_errors', FALSE);	
 		
+	}else if ($desenvolvimento){
+
+		define("CONTROLLER_PADRAO","index");
+		define("METODO_PADRAO","index");
+		define("NAMESPACE_CONTROLLER",	'app\\controllers\\');
+		define("URL_BASE",	"http://40.87.98.243/");
+		define("URL_LOGIN",	"http://40.87.98.243/app/views/login/");
+		define("URL_DASHBOARD",	"http://40.87.98.243/app/views/dashboard/");
+		define("URL_GRAPHICS",	"http://40.87.98.243/app/views/html/");
+
+		// PRODUCAO - OCULTA ERROS
+		error_reporting(0);
+		ini_set('display_errors', FALSE);
+		ini_set('display_startup_errors', FALSE);	
+		
 	}else{ // localhost
 		define("CONTROLLER_PADRAO","index");
 		define("METODO_PADRAO","index");
@@ -43,9 +59,14 @@ function configPHP(){
 		define("URL_DASHBOARD",	URL_BASE."app/views/dashboard/");
 		define("URL_GRAPHICS",	URL_BASE."app/views/html/");
 
-		error_reporting(E_ALL); // LOCALHOST - EXIBE ERROS
+		error_reporting(E_ALL & ~E_NOTICE); // LOCALHOST - EXIBE ERROS
 		ini_set('display_errors', TRUE);
 		ini_set('display_startup_errors', TRUE);
+		
+		// PRODUCAO - OCULTA ERROS
+		// error_reporting(0);
+		// ini_set('display_errors', FALSE);
+		// ini_set('display_startup_errors', FALSE);	
 
 		//PRODUCAO - OCULTA ERROS
 		// error_reporting(0);
@@ -88,7 +109,7 @@ function convertDateToBrazilDate($original_date){ //
 	// Creating timestamp from given date
 	$timestamp = strtotime($original_date);
 	// Creating new date format from that timestamp
-	$new_date = date("m/d/Y", $timestamp);
+	$new_date = date("d/m/Y", $timestamp);
 	return $new_date; // Outputs: 31-03-2019
 }
 

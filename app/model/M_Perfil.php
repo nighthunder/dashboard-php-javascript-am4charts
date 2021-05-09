@@ -115,7 +115,7 @@ class M_Perfil{
 
 	public function getIndicador2($regiao){ /* Pré-perfil */
 
-		$sql = "SELECT distinct(GRUPO), AREA, INDICADOR, TITULO, REGIAO, (SELECT id FROM filtro_consulta_cross_join as f where f.area = p.AREA and f.regiao = p.REGIAO ) AS id FROM perfil_graficos_dicionario_teste as p where SECAO like '%evolucao%' and REGIAO like '%".utf8_decode($regiao)."%'";
+		$sql = "SELECT distinct(GRUPO), AREA, INDICADOR, TITULO, REGIAO, (SELECT id FROM filtro_consulta_cross_join as f where f.area = p.AREA and f.regiao = p.REGIAO ) AS id FROM perfil_graficos_dicionario as p where SECAO like '%evolucao%' and REGIAO like '%".utf8_decode($regiao)."%'";
 
 		//echo $sql."ilaou";
 		

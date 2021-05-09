@@ -56,6 +56,7 @@ session_start();
     <link href="../template/assets/styles/loginForm/codigoSegurancaForm.css" rel="stylesheet">
     <link href="../template/assets/styles/registerForm/registerForm.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="../assets/style/slideshow.css"/>
 </head>
 <?php include_once("../template/app-header-includes.php"); ?>
 <body>
@@ -72,9 +73,9 @@ session_start();
                                 <div class="col-lg-12 text-center">
                                     <div class="col-lg-12">
                                         <div class="page-title-heading page-title-heading-pre-perfil" style="">
-                                            <h2 style="font-weight: bold">Amazônia Legal em Dados</h2> 
+                                            <h2 style="font-weight: bold;line-height:54px;margin-top: -10px;">Amazônia Legal em Dados</h2> 
                                         </div> 
-                                        <h5>Visão integrada do território formado pelos nove estados da Amazônia Legal</h5>     
+                                        <h4 style="margin-bottom: -15px">Visão integrada do território formado pelos nove estados da Amazônia Legal</h4>     
                                         <p  class="title-description" style="">Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, Roraima e Tocantins</p>                      
                                     </div>
                                 </div>
@@ -127,42 +128,72 @@ session_start();
                     <div class="tab-content" >
                         <div class="tabs-animation" id="tab-content-1" role="tabpanel" >
                            <div class="row">
-                                <div class="col-sm-12 col-lg-6">
+                                <div class="col-sm-12 col-lg-4 offset-lg-2 mb-lg-4">
                                         <div class="mb-3 card">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../dashboard/pre-perfil.php?<?php echo $_SESSION["state"]; ?>">Perfil</a></h3>
-                                                    <p>Análise evolutiva e comparativa de indicadores da<br/> Amazônia Legal e de seus estados</p>
+                                                    <p>Análise evolutiva e comparativa de indicadores<br/> da Amazônia Legal e de seus estados</p>
                                                 </div>
                                                 <div class="btn-actions-pane-right text-capitalize actions-icon-btn">
                                                 </div> 
                                             </div>
                                             <div class="card-body">
-                                                <a href="../dashboard/pre-perfil.php?<?php echo $_SESSION["state"]; ?>"><img class="img-slider" src="../assets/images/home/Print_Perfil.png"/></a>
+                                                <!-- <a href="../dashboard/pre-perfil.php?<?php //echo $_SESSION["state"]; ?>"><img class="img-slider" src="../assets/images/home/Print_Perfil.png"/></a> -->
+                                                
+                                                <div class="slideshow-container">
+
+                                                <div class="mySlides">
+                                                <div class="numbertext">1 / 3</div>
+                                                <img src="../assets/images/home/Perfil1.png" style="width:100%">
+                                                </div>
+
+                                                <div class="mySlides">
+                                                <div class="numbertext">2 / 3</div>
+                                                <img src="../assets/images/home/Perfil2.png" style="width:100%">
+                                                </div>
+
+                                                <div class="mySlides">
+                                                <div class="numbertext">3 / 3</div>
+                                                <img src="../assets/images/home/Perfil3.png" style="width:100%">
+                                                </div>
+
+                                                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                                                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                                                </div>
+                                                <br>
+
+                                                <div style="text-align:center; position:relative; z-index:999; margin:-45px auto;">
+                                                <span class="dot" onclick="currentSlide(1)"></span> 
+                                                <span class="dot" onclick="currentSlide(2)"></span> 
+                                                <span class="dot" onclick="currentSlide(3)"></span> 
+                                                </div>
                                             </div>
                                         </div>    
                                 </div>
-                                <div class="col-sm-12 col-lg-6">
+                                <div class="col-sm-12 col-lg-4">
                                         <div class="mb-3 card">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../compare/compare.php?regiao=Amazonas&regiao1=Roraima&area=Educação__485&indicador=TX_INEP_IDEB_AI_UF__485">Compare</a></h3>
-                                                    <p>Visualização simultânea da análise evolutiva e comparativa<br/> de indicadores de dois estados</p>
+                                                    <p>Visualização simultânea da análise evolutiva e<br/> comparativa de indicadores de dois estados</p>
                                                 </div>
                                                 <div class="btn-actions-pane-right text-capitalize actions-icon-btn">
                                                 </div> 
                                             </div>
                                             <div class="card-body">
                                             <a href="../compare/compare.php?regiao=Amazonas&regiao1=Roraima&area=Educação__485&indicador=TX_INEP_IDEB_AI_UF__485"><img class="img-slider" src="../assets/images/home/Print_Compare.png"/></a>
-                                            </div>
+                                            
+                                        </div>
                                         </div>    
                                 </div>
-                                <div class="col-sm-12 col-lg-6">
+                                <div class="col-sm-12 col-lg-4 offset-lg-2 mb-lg-4">
                                         <div class="mb-3 card">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../desafios/desafios.php?regiao=<?php echo $_SESSION["state"];?>&area=todas">Desafios</a></h3>
-                                                    <p> Classificação dos principais desafios a serem superados pela<br/> região e por seus estados </p>
+                                                    <p> Classificação dos principais desafios a serem<br/> superados pela região e por seus estados </p>
                                                 </div>
                                                 <div class="btn-actions-pane-right text-capitalize actions-icon-btn">
                                                 </div> 
@@ -172,12 +203,12 @@ session_start();
                                             </div>
                                         </div>    
                                 </div>
-                                <div class="col-sm-12 col-lg-6">
+                                <div class="col-sm-12 col-lg-4">
                                         <div class="mb-3 card">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../atlas/atlas.php">Atlas</a></h3>
-                                                    <p>Visualização de indicadores em mapas interativos por<br/> estado e por município</p> 
+                                                    <p>Visualização de indicadores em mapas interativos<br/> por estado e por município</p> 
                                                 </div>
                                                 <div class="btn-actions-pane-right text-capitalize actions-icon-btn">
                                                 </div> 
@@ -187,7 +218,7 @@ session_start();
                                             </div>
                                         </div>    
                                 </div>
-                                <div class="col-sm-12 col-lg-6 offset-3">
+                                <div class="col-sm-12 col-lg-4 offset-lg-4 mb-lg-4">
                                         <div class="mb-3 card">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
@@ -212,11 +243,11 @@ session_start();
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3>Notícias</h3>
-                                                    <p>Principais notícias da região relacionadas aos temas e indicadores da Amazônia Legal em Dados</p>
+                                                    <p class="noticias">Principais notícias da região relacionadas aos temas e indicadores da Amazônia Legal em Dados</p>
                                                 </div>
                                             </div>
                                             <div class="card-body">
-                                                <div class="news-carrousel mobile-hide">
+                                                <div class="news-carrousel mobile-hide" style="display:none">
                                                     <?php
                                                     $data_noticias = $noticias->getNoticias(); 
                                                     foreach ($data_noticias as $d){
@@ -284,6 +315,7 @@ session_start();
 <div class="app-drawer-overlay d-none animated fadeIn"></div><script type="text/javascript" src="./assets/scripts/main.87c0748b313a1dda75f5.js"></script><script type="text/javascript" src="./assets/scripts/main-perfil.js"></script><script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
               <script type="text/javascript" src="./assets/scripts/main-rodape.js"></script>
               <script type="text/javascript" src="../assets/scripts/main2021.js"></script>
+              <script type="text/javascript" src="../assets/scripts/slideshow.js"></script>
               <script type="text/javascript" src="../template/assets/scripts/loginForm/loginForm.js"></script>
               <script type="text/javascript" src="../template/assets/scripts/loginForm/recuperarSenhaForm.js"></script>
               <script type="text/javascript" src="../template/assets/scripts/loginForm/codigoSegurancaForm.js"></script>

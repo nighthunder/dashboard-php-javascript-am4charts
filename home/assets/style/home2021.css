@@ -5,7 +5,7 @@ body{
   }
   
   h2{
-    letter-spacing: 0.02em !important;
+    letter-spacing: 0.04em !important;
   }
   
   .avatar{
@@ -73,12 +73,7 @@ body{
   
   .input-group-text{
     background-color: #f7f7f7 !important;
-  }
-  
-  .btn-focus{
-    background-color: #e94d21;
-  }
-  
+  } 
   label{
     color: #4f5153;
   }
@@ -88,7 +83,7 @@ body{
   }
   
   h5{
-    letter-spacing: 0.05em;
+    letter-spacing: 0.02em;
   }
   
   h4{
@@ -229,12 +224,20 @@ body{
   .card-header.card-header-tab .card-header-title p{
     line-height: 24px;
     margin-top: 10px;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.01em;
+    margin: 20px auto 15px;
+    font-size: 1rem;
   }
+  .card-header.card-header-tab .card-header-title p.noticias{
+    line-height: 48px;
+    margin-top: 10px;
+  }  
   .card-header.card-header-tab .card-header-title h3{
     font-weight: 700;
     color: #495057;
-    margin-top: 5px;
+    margin: 0 auto;
+    letter-spacing: 0.04em;
+    line-height:1.3rem;
   }
   .card-header.card-header-tab, .card{
     border-radius: 5px;
@@ -271,6 +274,11 @@ body{
   
   .card-noticia p:first-child{
     font-size: 12px;
+    position: absolute;
+  }
+
+  .card-noticia h5:nth-child(2){
+    margin-top: 25px;
   }
   
   .card .data h6:first-child{
@@ -287,8 +295,10 @@ body{
     max-width: 1150px;
   }
   .card-noticia{
-    background: #f8f7f7 !important;
-    height: 320px !important;
+    background: #fff !important;
+    box-shadow: 1px 1px 1px #d0d0d0;
+    border: 1px solid #e7e7e7;
+    height: 340px !important;
     width: 317px;
     margin-right: 10px;
     margin-left: 10px;
@@ -322,9 +332,11 @@ body{
   }
   
   a:hover{
-    color: #495057;
+    color: #681139;
   }
-  
+  .card-noticia .read-more a:hover{
+    font-weight:bold;
+  }
   a:hover{
     text-decoration:none;
   }
@@ -388,7 +400,7 @@ body{
       background: #fff;
       border-radius: 20px;
       margin-top: -29px;
-      height: 480px;
+      height: 320px;
       text-align: center;
     }
     #tab-content-2 .card-body{
@@ -402,13 +414,15 @@ body{
     }
   
     .col-destaques .card{
-      background: #f8f7f7;
+      background: #fff;
+      box-shadow: 1px 1px 1px #d0d0d0;
+      border: 1px solid #e7e7e7;
     }
     .col-destaques .card:hover{
       cursor: pointer;
     }
     .card img {
-      width: 100px;
+      width: 85px;
       background: #dfc5d1;
       display: inline-block;   
       border-radius: 5px;
@@ -445,7 +459,7 @@ body{
     .data{
       position: absolute;
       left: 35%;
-      top: 19%;
+      top: 13.5%;
     }
     .col-lg-4.card{
       padding: 0px;
@@ -462,30 +476,24 @@ body{
     .title-description{
       font-style: italic;
       height: 30px;
-      margin-top: -10px;
-      font-size: 18px;
+      margin-top: 15px;
+      font-size: 1.2em;
       letter-spacing: 0.02em;
-      line-height: 18px;
+      line-height: 1.1em;
       color: #c8c8c8;
       padding-top: 15px;
     }
     .icon-d{
       background: linear-gradient(90deg, transparent 0%, transparent 35%, rgb(223, 197, 209) 100%);
-      width: 100px;
-      height: 100px;
+      width: 85px;
+      height: 85px;
     }
     #tab-content-2 {
       background: #fff;
       margin: 0px 0px 0px;
     }
-    .app-page-title{
-      /*margin: -30px -65px 30px -30px;*/
-    }
-    #tab-content-1{
-      /*margin-right: -45px;*/
-    } 
     .data-fonte{
-      margin-top: 7%;
+      margin-top: 5%;
       line-height: 10px;
       height: 45px;
     }
@@ -507,7 +515,7 @@ body{
   @media (min-width: 1900px){
 
     .card-body{
-        height: 640px;
+        height: 420px;
     }
 
   }
@@ -515,7 +523,7 @@ body{
   @media (min-width: 2000px){
 
     .card-body{
-        height: 850px;
+        height: 575px;
     }
 
   }

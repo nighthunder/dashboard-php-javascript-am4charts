@@ -15,16 +15,19 @@ function validaFormularioCadastro()
   const CLASSE_INPUT_INVALIDO = 'invalidInput';
   const VALORES = {};
   const CAMPOS_PREENCHIDOS = [...document.querySelectorAll('.required')]
+  .reduce((acc, field) => {
+    const CAMPO_PREENCHIDO = (field.value.length > 0);
+    if(!CAMPO_PREENCHIDO) field.classList.add(CLASSE_INPUT_INVALIDO);
+    else field.classList.remove(CLASSE_INPUT_INVALIDO);
+    VALORES[field.classList.item(0)] = field.value;
+    return acc & CAMPO_PREENCHIDO;
+  }, true);
+  const CAMPOS = [...document.querySelectorAll('.registerFormField')]
                             .reduce((acc, field) => {
                               const CAMPO_PREENCHIDO = (field.value.length > 0);
-                              if(!CAMPO_PREENCHIDO) field.classList.add(CLASSE_INPUT_INVALIDO);
-                              else field.classList.remove(CLASSE_INPUT_INVALIDO);
                               VALORES[field.classList.item(0)] = field.value;
                               return acc & CAMPO_PREENCHIDO;
-                            }, true);
-
-
- console.log("valores", VALORES);    
+                            }, true); 
 
   const CAMPO_SENHA = document.querySelector('.registerFormFields .senha'), CAMPO_CONFIRMACAO_SENHA = document.querySelector('.registerFormFields .confirmaSenha');
   const CAMPO_POLITICA_PRIVACIDADE = document.querySelector('.politicaPrivacidade .registerFormField ').checked;
@@ -45,8 +48,13 @@ function validaFormularioCadastro()
   if (!document.querySelector('.politicaEmail .registerFormField').checked){ VALORES["politicaEmail"] = "N" }else{
     VALORES["politicaEmail"] = "S"; 
   }
-  if (typeof VALORES["instituicao"] === 'undefined'){ VALORES["instituicao"] = ""; }
-  if (typeof VALORES["cargo"] === 'undefined'){ VALORES["cargo"] = ""; }
+  if (!document.querySelector('.politicaFuncionalidade .registerFormField').checked){ VALORES["politicaFuncionalidade"] = "N" }else{
+    VALORES["politicaFuncionalidade"] = "S"; 
+  }
+  if (!document.querySelector('.politicaIndicador .registerFormField').checked){ VALORES["politicaIndicador"] = "N" }else{
+    VALORES["politicaIndicador"] = "S"; 
+  }
+  console.log("VALORES", VALORES);
 
   if (!CAMPOS_PREENCHIDOS) {document.querySelector('.registerFormRequestResponse').textContent = "Preencha os campos"; }
   else if (!SENHAS_IGUAIS) {document.querySelector('.registerFormRequestResponse').textContent = "As senhas não são iguais"; }
@@ -137,20 +145,37 @@ function criarGrupoDeCamposCadastro(container, listaDeCampos)
           
         }   
       }else{
+
         let campo = document.createElement('select');
         campo.classList.add(c.class, 'registerFormField');
         if (c.required === "yes"){ campo.classList.add(c.class, 'required'); }
-
-        c.options.forEach( d =>{
-          let option = document.createElement('option');
-          option.value = option.textContent = d;
-          campo.appendChild( option );
-        });
-
-        fieldsGroup.appendChild(tituloCampo);
-        fieldsGroup.appendChild(campo);
+        if (c.optgroup !== 'true'){
+          c.options.forEach( d =>{
+            let option = document.createElement('option');
+            option.value = option.textContent = d;
+            campo.appendChild( option );
+          });
+          fieldsGroup.appendChild(tituloCampo);
+          fieldsGroup.appendChild(campo);
+        }else{
+          console.log("c.options", c.options);
+          console.log("c.options", typeof(c.options));
+          Object.keys(c.options).forEach( function(key,value) {
+            let optgroup = document.createElement('optgroup');
+            optgroup.setAttribute('label',key);
+            console.log("key", key);
+            console.log("value", value);
+            c.options[key].forEach( d =>{
+              let option = document.createElement('option');
+              option.value = option.textContent = d;
+              optgroup.appendChild( option );
+            });
+            campo.appendChild( optgroup );
+          });
+          fieldsGroup.appendChild(tituloCampo);
+          fieldsGroup.appendChild(campo);
+        }
       }
-
   });
 
   container.appendChild(fieldsGroup);
@@ -160,9 +185,16 @@ function criarCamposCadastro()
 {
   const CONTAINER = document.querySelector('.registerFormFields');
 
-    let atividades = [
-      'Academia', 'Agropecuária', 'Comércio',  'Gestão pública', 'Indústria', 'Serviços', 'Terceiro setor',
-    ];
+    let atividades = {};
+    atividades['Trabalho na Agropecuária'] = ['Agricultura','Pecuária','Produção florestal','Pesca','Aquicultura'];
+    atividades['Trabalho na indústria'] = ['Indústrias extrativas','Indústrias de transformação',
+    'Eletricidade e gás, água, esgoto, atividades de gestão de resíduos','Construção']; 
+    atividades['Trabalho em serviços'] = ['Comércio','Transporte e Armazenagem','Informação e comunicação',
+    'Atividades financeiras, de seguros e serviços relacionados','Atividades profissionais, científicas e técnicas',
+    'Administração pública, defesa e seguridade social','Educação','Saúde e serviços sociais',
+    'Artes, cultura, esporte e recreação','Outras atividades de serviços'];
+    atividades['Sou estudante'] = ['Estudante'];
+    atividades['Outro'] = ['Outro'];
 
     let estados = [
       'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Distrito Federal', 'Espírito Santo', 'Goiás',
@@ -173,9 +205,14 @@ function criarCamposCadastro()
     
     let gruposDeCampos = {
       'contato': [{title: 'Nome Completo', class: 'nomeCompleto', type: 'text', required: 'yes'}, {title: 'E-mail', class: 'email', type: 'email', required: 'yes'},],
-      'instituicao': [{title: 'Atividade', class: 'atividade', type: 'select', options: atividades, required: 'yes'}, {title: 'Instituição', class: 'instituicao', type: 'text', required: 'no'}, {title: 'Cargo', class: 'cargo', type: 'text', required: 'no'}],
+      'instituicao': [{title: 'Atividade principal', class: 'atividade', type: 'select', options: atividades, optgroup: 'true', required: 'yes'}, {title: 'Instituição', class: 'instituicao', type: 'text', required: 'no'}, {title: 'Cargo', class: 'cargo', type: 'text', required: 'no'}],
       'cidade': [{title: 'Estado', class: 'estado', type: 'select', options: estados, required: 'yes'}, {title: 'Município', class: 'municipio', type: 'text', required: 'yes'},],
-      'senha': [{title: 'Senha', class: 'senha', type: 'password', required: 'yes'}, {title: 'Confirmar Senha', class: 'confirmaSenha', type: 'password', required: 'yes'},{title: 'Aceito receber novidades por e-mail', class: 'politicaEmail', type: 'checkbox', required: 'no'},{title: 'Concordo com a política de Privacidade', class: 'politicaPrivacidade', type: 'checkbox', required: 'yes'}],
+      'senha': [{title: 'Senha', class: 'senha', type: 'password', required: 'yes'}, {title: 'Confirmar Senha', class: 'confirmaSenha', type: 'password', required: 'yes'}],
+      'atualizacao': [
+      {title: 'Aceito receber aviso de atualizações de indicadores', class: 'politicaIndicador', type: 'checkbox', required: 'no'},
+      {title: 'Aceito receber aviso de atualização de funcionalidades', class: 'politicaFuncionalidade', type: 'checkbox', required: 'no'},
+      {title: 'Aceito receber clipping de notícias', class: 'politicaEmail', type: 'checkbox', required: 'no'},
+      {title: 'Concordo com a política de Privacidade', class: 'politicaPrivacidade', type: 'checkbox', required: 'yes'}]
     }
 
  

@@ -168,7 +168,10 @@
 
    jQuery(document).ready(function($) {
 
-	    $(".app-container").addClass("closed-sidebar");
+      $(".app-container").addClass("closed-sidebar");
+      
+      $('.news-carrousel').hide();
+      $('.news-carrousel').show();
 
 	    var url_path = window.location;
         var url_parts = String(url_path).split("?");
@@ -271,7 +274,7 @@
 
         var index = $(this).index();
         $(this).html(conteudosCards[index]);
-        $(this).css({"background":"#f8f7f7", "color": "initial"});
+        $(this).css({"background":"#fff", "color": "initial"});
       });
 
       setTimeout(criaModalContato, 500);

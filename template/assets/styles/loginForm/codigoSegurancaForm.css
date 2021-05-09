@@ -57,8 +57,15 @@
   font-weight: 700;
   margin-right: -18px;
   margin-top: 15px;
+  box-shadow: 1px 1px 1px #610d33;
+  border: 1px solid #6f123c;
+  background-color: #480625;
+  color: #fff;
 }
-
+.codigoSegurancaModal .codigoSegurancaFormSendButton:hover, 
+.codigoSegurancaModal .enviarTokenFormSendButton:hover{
+  background-color: #7f3457;
+}
 .codigoSegurancaModalWrapper {
   position: fixed;
   top: 0;
@@ -84,6 +91,8 @@
   font-size: 24px;
   color: #495057;
   transition: border 0.6s linear;
+  border-radius: 5px;
+  background-color: #eee;
 }
 .fieldsGroup .codigoSegurancaFormField:not(:last-child) {
   margin-bottom: 34px;

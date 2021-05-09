@@ -28,7 +28,7 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
     <!-- Main Project Dashboard stylesheet -->
     <link href="../assets/style/main2021.css" rel="stylesheet"></link>
     <!-- Main stylesheet Dashboard -->
-    <link href="./dashboard2021.css" rel="stylesheet"></link>
+    <link href="./assets/style/dashboard2021.css" rel="stylesheet"></link>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <!-- <link href="./rodape.css" rel="stylesheet"></link> -->
     <link href="../assets/style/rodape.css" rel="stylesheet"></link>

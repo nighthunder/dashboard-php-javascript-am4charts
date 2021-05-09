@@ -30,7 +30,7 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
     <!-- Main Project Dashboard stylesheet -->
     <link href="../assets/style/main2021.css" rel="stylesheet"></link>
     <!-- Main stylesheet Dashboard -->
-    <link href="./dashboard2021.css" rel="stylesheet"></link>
+    <link href="./assets/style/dashboard2021.css" rel="stylesheet"></link>
     <!-- Download of folder with data -->
     <script src="../assets/js/js-zip/dist/jszip.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.8/FileSaver.js"></script>

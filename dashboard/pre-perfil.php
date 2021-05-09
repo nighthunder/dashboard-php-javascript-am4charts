@@ -38,7 +38,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
     <link href="../assets/style/main2021.css" rel="stylesheet"></link>
 
     <!-- Main stylesheet Dashboard -->
-    <link href="./dashboard2021.css" rel="stylesheet"></link>
+    <link href="./assets/style/dashboard2021.css" rel="stylesheet"></link>
 
     <?php include_once("../template/app-header-includes.php"); ?>
     <link href="../assets/style/rodape.css" rel="stylesheet"></link>
@@ -61,9 +61,11 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                             <div class="page-title-wrapper">
                                     <div class="col-lg-12 text-center">
                                         <div class="page-title-heading page-title-heading-pre-perfil" style="">
-                                            <h3 style="">Análise evolutiva e comparativa de indicadores da<br/> Amazônia Legal e de seus estados agrupados por tema</h3>
+                                            <h2 style="font-weight: bold;line-height:54px;margin-top: -25px;">Análise evolutiva e comparativa</h2><br/> 
+        
                                         </div> 
-                                        <p>Selecione uma área e um indicador para visualizar o conteúdo.</p>                      
+                                        <h5 style="margin-bottom: -15px"> Indicadores Amazônia Legal e de seus estados agrupados por tema</h5>
+                                        <p class="title-description">Selecione uma área e um indicador para visualizar o conteúdo.</p>                      
                                     </div>
                             </div>  
                     </div>            

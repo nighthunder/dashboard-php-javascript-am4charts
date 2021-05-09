@@ -81,7 +81,7 @@ $activities = $perfil->getActivities();
                                                             <i class="fa fa-calendar-alt"></i>
                                                         </div>
                                                     </div>
-                                                    <input class="form-control" data-toggle="datepicker-icon" value="<?php echo convertDateToBrazilDate($userdata[0]["birth_date"]); ?>" data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" im-insert="true" name="birth_date">
+                                                    <input class="form-control" data-toggle="datepicker-icon" value="<?php echo convertDateToBrazilDate($userdata[0]["birth_date"]); ?>" data-inputmask-alias="datetime" data-inputmask-inputformat="" im-insert="true" name="birth_date">
                                                 </div>
                                             </div>
                                         </div></div>
@@ -129,7 +129,7 @@ $activities = $perfil->getActivities();
                                                 </select></div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="position-relative form-group"><label for="municipio" class="">Município</label><input name="county" id="county" placeholder="Município" class="form-control" value="<?php echo $userdata[0]["county"]; ?>"></div>
+                                                <div class="position-relative form-group"><label for="municipio" class="">Município</label><input name="county" id="county" placeholder="Município" class="form-control" value="<?php echo utf8_encode($userdata[0]["county"]); ?>"></div>
                                             </div>
                                         </div>
                                         <div class="form-row">
@@ -137,9 +137,10 @@ $activities = $perfil->getActivities();
                                                 <div class="position-relative form-group"><label for="exampleState" class="">Atividade</label>
                                                 <select name="selectActivity" id="exampleSelect" class="form-control">
                                                     <?php 
+                                                    $optgroups = ['Trabalho na agropecuária','Trabalho na indústria','Trabalho em serviços'];
                                                     foreach ($activities as $st){
 
-                                                        if ($userdata[0]["activity"] == $st["activity"]){
+                                                        if (utf8_encode($userdata[0]["activity"]) == utf8_encode($st["activity"])){
                                                           echo "<option value='".utf8_encode($st["activity"])."' selected='selected'>".utf8_encode($st["activity"])."</option>";
                                                         }else{
                                                              echo "<option value='".utf8_encode($st["activity"])."'>".utf8_encode($st["activity"])."</option>";
@@ -150,15 +151,19 @@ $activities = $perfil->getActivities();
                                                 </select></div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="position-relative form-group"><label for="institution" class="">Instituição</label><input name="institution" id="institution" placeholder="Instituição" class="form-control" value="<?php echo $userdata[0]["institution"]; ?>"></div>
+                                                <div class="position-relative form-group"><label for="institution" class="">Instituição</label><input name="institution" id="institution" placeholder="Instituição" class="form-control" value="<?php echo utf8_encode($userdata[0]["institution"]); ?>"></div>
                                             </div>
                                         </div>
                                         <div class="form-row">
                                             <div class="col-md-6">
-                                                <div class="position-relative form-group"><label for="office" class="">Cargo</label><input name="office" id="office" placeholder="Cargo" class="form-control" value="<?php echo $userdata[0]["office"]; ?>"></div>
+                                                <div class="position-relative form-group"><label for="office" class="">Cargo</label><input name="office" id="office" placeholder="Cargo" class="form-control" value="<?php echo utf8_encode($userdata[0]["office"]); ?>"></div>
                                             </div>        
                                         </div>
-                                        <div class="position-relative form-check"><input name="newsletter" id="newsletter" type="checkbox" class="form-check-input" onclick=" if(document.getElementById('newsletter').checked != true){ this.value = 'N';} else {this.value = 'S';}" value="<?php echo $userdata[0]["newsletter"] ?>" <?php echo ($userdata[0]['newsletter']=='S' ? 'checked' : '');?>><label for="exampleCheck" class="form-check-label" style="font-weight: normal;font-size: 13px;">Aceito receber novidades por e-mail.</label></div>
+                                        <div class="position-relative form-check">
+                                            <input name="indicador" id="indicador" type="checkbox" class="form-check-input" onclick=" if(document.getElementById('indicador').checked != true){ this.value = 'N';} else {this.value = 'S';}" value="<?php echo $userdata[0][""] ?>" <?php echo ($userdata[0]['indicador']=='S' ? 'checked' : '');?>><label for="exampleCheck" class="form-check-label" style="font-weight: normal;font-size: 13px;">Aceito receber aviso de atualizações de indicadores.</label><br/>
+                                            <input name="funcionalidade" id="funcionalidade" type="checkbox" class="form-check-input" onclick=" if(document.getElementById('funcionalidade').checked != true){ this.value = 'N';} else {this.value = 'S';}" value="<?php echo $userdata[0]["funcionalidade"] ?>" <?php echo ($userdata[0]['funcionalidade']=='S' ? 'checked' : '');?>><label for="exampleCheck" class="form-check-label" style="font-weight: normal;font-size: 13px;">Aceito receber aviso de atualizações de funcionalidades.</label><br/>
+                                            <input name="newsletter" id="newsletter" type="checkbox" class="form-check-input" onclick=" if(document.getElementById('newsletter').checked != true){ this.value = 'N';} else {this.value = 'S';}" value="<?php echo $userdata[0]["newsletter"] ?>" <?php echo ($userdata[0]['newsletter']=='S' ? 'checked' : '');?>><label for="exampleCheck" class="form-check-label" style="font-weight: normal;font-size: 13px;">Aceito receber clipping de notícias.</label>
+                                        </div>
                                         <div class="form-row" style="margin-top: 15px">
                                             <button class="mt-2 btn btn-primary bg-bordo">Atualizar</button>
                                             <div class="container-success" style="margin-top: 14px">

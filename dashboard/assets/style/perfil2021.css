@@ -1,0 +1,13 @@
+@media (min-width: 768px){
+    .title-description{
+        font-style: italic;
+        height: 30px;
+        margin-top: 15px;
+        font-size: 1.2em;
+        letter-spacing: 0.02em;
+        line-height: 1.1em;
+        color: #c8c8c8;
+        padding-top: 15px;
+    }
+}
+
