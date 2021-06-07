@@ -28,9 +28,9 @@ session_start();
     <script src="https://unpkg.com/multiple-select@1.5.2/dist/multiple-select.min.js"></script>
     <!-- ================================================================================================================ -->
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"> -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script> -->
     <!-- ============================================ imports bibliotecas CSS ============================================ -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/css/ol.css">
     <link rel="stylesheet" href="https://unpkg.com/ol-layerswitcher@3.6.0/src/ol-layerswitcher.css" /> -->
@@ -95,6 +95,8 @@ session_start();
                             <div class="rpaHR"></div>
                             <div class="rqaHR"></div>
 
+                        
+
                             <div class="selects-header-indicadores">
                                 <img class="filtro-ico area-ico" src="../assets/images/svg/filtro-area.svg">
                                 <select class="area form-control" name="select">
@@ -116,7 +118,8 @@ session_start();
                                     <option value="" disabled selected>Indicador</option>
                                 </select>
                                 <img class="filtro-ico area1-ico" src="../assets/images/svg/filtro-area.svg">
-                                <select class="seletorArea area1 form-control" name="select">
+                                <select class="area1 form-control" name="select">
+                                    <option value="" disabled selected>Meio Ambiente</option>
                                     <option value="ciencia_e_tecnologia">Ciência e Tecnologia</option> 
                                     <option value="desenvolvimento_social">Desenvolvimento Social</option> 
                                     <option value="demografia">Demografia</option>
@@ -130,10 +133,12 @@ session_start();
                                     <option value="seguranca">Segurança</option>
                                 </select>
                                 <img class="filtro-ico indicador1-ico" src="../assets/images/svg/filtro-indicador.svg">
-                                <select class="seletorIndicador indicador1 form-control" name="select">
+                                <select class="indicador1 form-control" name="select">
+                                    <option value="" disabled selected>Desmatamento acumulado</option>
                                 </select>
                                 <img class="filtro-ico area2-ico" src="../assets/images/svg/filtro-area.svg">
-                                <select class="seletorArea area2 form-control" name="select">
+                                <select class="area2 form-control" name="select">
+                                    <option value="" disabled selected>Economia</option>
                                     <option value="ciencia_e_tecnologia">Ciência e Tecnologia</option> 
                                     <option value="desenvolvimento_social">Desenvolvimento Social</option> 
                                     <option value="demografia">Demografia</option>
@@ -147,8 +152,8 @@ session_start();
                                     <option value="seguranca">Segurança</option>
                                 </select>
                                 <img class="filtro-ico indicador2-ico" src="../assets/images/svg/filtro-indicador.svg">
-                                <select class="seletorIndicador indicador2 form-control" name="select">
-                                    <option value="" disabled selected>PIB per capita </option>
+                                <select class="indicador2 form-control" name="select">
+                                    <option value="" disabled selected>PIB</option>
                                 </select>
                                 <img class="filtro-ico territorio-ico" src="../assets/images/svg/filtro-quatro-amazonias.svg">
                                 <select class="territorio form-control" name="select">
@@ -311,8 +316,8 @@ session_start();
                                 
                                 <div class="card-body">
                                     <div class="tab-content">
-                                        <div id="coefi-person" class="offset-lg-4 offset-md-2"></div>
-                                        <div id="notePearson" class="notePearson">Não há uma relação significativa entre o <b>Desmatamento acumulado</b> e <b>PIB per capita (em R$ bilhões de 2018)</b>, considerando as observações selecionadas e apresentadas no gráfico.<br/></div>
+                                        <div id="coefi-person" class="offset-lg-4 offset-md-2">0,13</div>
+                                        <div id="notePearson" class="notePearson">Não há uma relação significativa entre <b>Desmatamento acumulado</b> e <b>PIB per capita (em R$ bilhões de 2018)</b>, considerando as observações selecionadas e apresentadas no gráfico.<br></div>
                                         <!-- <div id="map" class="map">
                                             <div id="map_tooltip"></div>
                                         </div> -->
@@ -329,7 +334,7 @@ session_start();
             <?php include_once("../template/app-footer.php"); ?>
         </div>   
     </div>
-
+    </div>
     <?php include_once("../template/app-form-cadastro.php"); ?>
     <?php include_once("../template/app-form-login.php"); ?>
     <!-- ============================================ imports JS ============================================ -->

@@ -39,9 +39,9 @@ session_start();
     
     <script src="https://d3js.org/d3.v4.min.js"></script>
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"> -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script> -->
     
 
     <!-- ============================================ imports bibliotecas CSS ============================================ -->
@@ -52,7 +52,7 @@ session_start();
     <!-- ============================================ imports CSS ============================================ -->
     <link rel="stylesheet" href="map.css">
     <link href="../assets/style/modal.css" rel="stylesheet">
-  <link href="../template/assets/styles/loginForm/loginForm.css" rel="stylesheet">
+    <link href="../template/assets/styles/loginForm/loginForm.css" rel="stylesheet">
     <link href="../template/assets/styles/loginForm/recuperarSenhaForm.css" rel="stylesheet">
     <link href="../template/assets/styles/loginForm/codigoSegurancaForm.css" rel="stylesheet">
     <link href="../template/assets/styles/registerForm/registerForm.css" rel="stylesheet">
@@ -62,10 +62,7 @@ session_start();
     <link rel="stylesheet" href="./assets/style/downloadMapa.css">
     <link rel="stylesheet" href="../assets/style/main2021.css">
     <!-- ===================================================================================================== -->    
-
-   
     <div class="app-drawer-overlay d-none animated fadeOut"></div><script type="text/javascript" src="./assets/scripts/main.87c0748b313a1dda75f5.js"></script>
-
     <link href="./rodape.css" rel="stylesheet"></link>
 </head>
 
@@ -207,7 +204,13 @@ session_start();
                                 </div>        
 
                                 <section class="mapDownloader">
-                                    <button class="mapDownloadButton">Salvar mapa</button>
+                                   <?php if (verify_login()){
+                                       echo " <button class=\"mapDownloadButton\"><img style=\"float: right\" src=\"../assets/images/svg/Download.svg\"/></button>";
+                                   }else{
+                                    echo "<img src=\"../assets/images/svg/Download.svg\" style=\"float: right; position: absolute; top: 126px; right: 30px;z-index:99;\" onclick=\"\" data-target=\"#alertaNaoCadastrado\" class=\"float:right\" data-toggle=\"modal\"/>";
+                                   } ?>
+                                  
+                                    
                                 </section>
                                 
                                 <div class="card-body">
@@ -228,7 +231,28 @@ session_start();
             <?php include_once("../template/app-footer.php"); ?>
         </div>   
     </div>
-    
+    </div>
+    <div class="modal fade" id="alertaNaoCadastrado" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title card-header-title" id="ex
+                ampleModalLongTitle">Amazônia Legal em Dados</h5>
+                <div class="btn-actions-pane-right actions-icon-btn">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button> 
+                </div>
+            </div>
+            <div class="modal-body">
+               <p> Cadastre-se para habilitar esta funcionalidade. </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+    </div>    
 <?php include_once("../template/app-form-cadastro.php"); ?>
 <?php include_once("../template/app-form-login.php"); ?>
 <?php include_once("../template/app-form-recuperar-senha.php"); ?>

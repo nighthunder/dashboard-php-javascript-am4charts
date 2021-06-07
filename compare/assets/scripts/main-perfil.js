@@ -304,15 +304,6 @@
           }, 50);
       });
 
-      // Solução para o problema dos gráficos do Plotly que expremem a lgenda quando estão em abas
-      $("a.nav-link").on("click",function(){ // esse é o link de uma aba
-        var $id_grafico_atual = $(this).attr("href").slice(1);
-        var $pai = $('#'+$id_grafico_atual).parent().clone();
-        $('#'+$id_grafico_atual).parent().html($pai);
-        console.log($id_grafico_atual+"sad2");
-        console.log($(this).attr("href")+"sad3");
-      });  
-
       $(".app-container").addClass("closed-sidebar");
 
       setTimeout(criaModalContato, 500);

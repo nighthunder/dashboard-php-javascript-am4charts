@@ -69,9 +69,11 @@
   border: 1px solid #6f123c;
   background-color: #480625;
   color: #fff;
+  font-weight: bold;
 }
 .registerModal .registerFormSendButton:hover{
   background-color: #7f3457;
+  color: #fff;
 }
 .registerModalWrapper {
   position: fixed;
@@ -109,7 +111,7 @@
 }
 .fieldsGroup .registerFormFieldTitle {
   font-family: "Open Sans";
-  font-size: 16px;
+  font-size: 1em;
   color: #fff;
 }
 .registerFormRequestResponse{

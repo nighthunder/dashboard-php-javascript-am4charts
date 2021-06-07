@@ -57,6 +57,7 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  border-radius: 5px;
 }
 .informacoesContato .cadastroEmailInput.invalidEmailInput {
   border: 1px solid red;
@@ -66,6 +67,7 @@
   flex: 2 1;
   margin: 0 auto;
   background-color: none;
+  padding-left:10px;
 }
 .informacoesContato .textoCadastroEmail:focus {
   outline: none;
@@ -74,9 +76,16 @@
   background-color: #681139;
   color: white;
   display: inline;
-  padding: 0.5rem 1.5rem;
+  padding: 0.5rem 2.5rem;
   border-radius: 0.1rem;
   cursor: pointer;
+  border-radius: 5px;
+  letter-spacing: 0.04em;
+  width:120px;
+  font-weight: bold;
+}
+.informacoesContato .envioCadastroEmail:hover{
+  background: #7f3457 !important;
 }
 .informacoesContato .retornoCadastro {
   color: #681139;
@@ -98,6 +107,7 @@
   color: #495057;
   padding-left: 2rem;
   padding-top: 2rem;
+  margin-right: 10px;
 }
 .informacoesContato .imagemLogo {
   width: 170.9259259259px;

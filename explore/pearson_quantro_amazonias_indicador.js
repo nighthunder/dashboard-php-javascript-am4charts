@@ -121,7 +121,7 @@ function pearsonQuatroAmazoniasIndicador(regiao, indicador, label1, area, territ
 		}
 
 		$('#notePearson').html("");
-		$('#notePearson').html("<p class='note text-center'>"+notePearson+"</p><br/>");
+		$('#notePearson').html(""+notePearson+"<br/>");
 	}
 
 	notePearson();	

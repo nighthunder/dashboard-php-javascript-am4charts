@@ -48,11 +48,8 @@ function validaFormularioCadastro()
   if (!document.querySelector('.politicaEmail .registerFormField').checked){ VALORES["politicaEmail"] = "N" }else{
     VALORES["politicaEmail"] = "S"; 
   }
-  if (!document.querySelector('.politicaFuncionalidade .registerFormField').checked){ VALORES["politicaFuncionalidade"] = "N" }else{
-    VALORES["politicaFuncionalidade"] = "S"; 
-  }
-  if (!document.querySelector('.politicaIndicador .registerFormField').checked){ VALORES["politicaIndicador"] = "N" }else{
-    VALORES["politicaIndicador"] = "S"; 
+  if (!document.querySelector('.politicaAtualizacao .registerFormField').checked){ VALORES["politicaAtualizacao"] = "N" }else{
+    VALORES["politicaAtualizacao"] = "S"; 
   }
   console.log("VALORES", VALORES);
 
@@ -102,6 +99,18 @@ function criarInteracoesCadastro()
 
     botaoAbrirModal
     .addEventListener('click', abreModalCadastro);
+
+    document.querySelectorAll(".hometopSlide").forEach(homeslider => 
+      homeslider.addEventListener("click", abreModalCadastro)
+    )
+
+    let prevslideAbrirModal = document.querySelector('.prev');
+    let nextslideAbrirModal = document.querySelector('.next');
+    nextslideAbrirModal
+    .removeEventListener('click', abreModalCadastro);
+    prevslideAbrirModal
+    .removeEventListener('click', abreModalCadastro);
+    
 }
 
 function criarGrupoDeCamposCadastro(container, listaDeCampos)
@@ -158,13 +167,13 @@ function criarGrupoDeCamposCadastro(container, listaDeCampos)
           fieldsGroup.appendChild(tituloCampo);
           fieldsGroup.appendChild(campo);
         }else{
-          console.log("c.options", c.options);
-          console.log("c.options", typeof(c.options));
+          // console.log("c.options", c.options);
+          // console.log("c.options", typeof(c.options));
           Object.keys(c.options).forEach( function(key,value) {
             let optgroup = document.createElement('optgroup');
             optgroup.setAttribute('label',key);
-            console.log("key", key);
-            console.log("value", value);
+            // console.log("key", key);
+            // console.log("value", value);
             c.options[key].forEach( d =>{
               let option = document.createElement('option');
               option.value = option.textContent = d;
@@ -209,8 +218,7 @@ function criarCamposCadastro()
       'cidade': [{title: 'Estado', class: 'estado', type: 'select', options: estados, required: 'yes'}, {title: 'Município', class: 'municipio', type: 'text', required: 'yes'},],
       'senha': [{title: 'Senha', class: 'senha', type: 'password', required: 'yes'}, {title: 'Confirmar Senha', class: 'confirmaSenha', type: 'password', required: 'yes'}],
       'atualizacao': [
-      {title: 'Aceito receber aviso de atualizações de indicadores', class: 'politicaIndicador', type: 'checkbox', required: 'no'},
-      {title: 'Aceito receber aviso de atualização de funcionalidades', class: 'politicaFuncionalidade', type: 'checkbox', required: 'no'},
+      {title: 'Aceito receber novidades por e-mail', class: 'politicaAtualizacao', type: 'checkbox', required: 'no'},
       {title: 'Aceito receber clipping de notícias', class: 'politicaEmail', type: 'checkbox', required: 'no'},
       {title: 'Concordo com a política de Privacidade', class: 'politicaPrivacidade', type: 'checkbox', required: 'yes'}]
     }

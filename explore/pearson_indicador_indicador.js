@@ -131,7 +131,7 @@ function pearsonIndicadorIndicador(regiao, area1, indicador1, label1, area2, ind
 		}
 
 		$('#notePearson').html("");
-		$('#notePearson').html("<p class='note text-center'>"+notePearson+"</p><br/>");
+		$('#notePearson').html(""+notePearson+"</p>");
 	}
 
 	notePearson();		

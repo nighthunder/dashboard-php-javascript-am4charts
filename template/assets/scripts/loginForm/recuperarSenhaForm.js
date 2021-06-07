@@ -67,7 +67,7 @@ function enviaFormularioRecuperarSenha()
 
     jQuery(document).ready(function($) {
       
-      $.get("../app/controllers/recuperarsenhacontroller.php",retornoValidacao, function( data){
+      $.post("../app/controllers/recuperarsenhacontroller.php",retornoValidacao, function( data){
         // if (data === "Senha alterada com sucesso"){
         //   //location.reload();
         // }else{
@@ -75,10 +75,9 @@ function enviaFormularioRecuperarSenha()
         // }
         document.querySelector('.recuperarSenhaFormRequestResponse').textContent = data;
       })
-      .done({type:"GET",url:"../app/controllers/recuperarsenhacontroller.php", data: retornoValidacao}).done(function (data) {  })
-      .fail(function (jqXHR, textStatus, errorThrown) {  });
+      .done({type:"POST",url:"../app/controllers/recuperarsenhacontroller.php", data: retornoValidacao}).done(function (data) {  })
+      .fail(function (jqXHR, textStatus, errorThrown) { console.log(jqXHR.status); console.log(errorThrown); });
       
-     
     });  
   }
 }

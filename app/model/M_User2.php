@@ -155,9 +155,7 @@ class M_User2{
 		$qry = $this->db->query($sql);
 		$sql = "UPDATE user set newsletter = \"".utf8_decode($userdata["newsletter"])."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
-		$sql = "UPDATE user set funcionalidade = \"".utf8_decode($userdata["funcionalidade"])."\" where email = '".$_SESSION["email"]."';";
-		$qry = $this->db->query($sql);
-		$sql = "UPDATE user set indicador = \"".utf8_decode($userdata["indicador"])."\" where email = '".$_SESSION["email"]."';";
+		$sql = "UPDATE user set atualizacao = \"".utf8_decode($userdata["atualizacao"])."\" where email = '".$_SESSION["email"]."';";
 		$qry = $this->db->query($sql);
 		$sql = "Select name from state where id = ".$userdata["selectState"];
 		$qry = $this->db->query($sql);

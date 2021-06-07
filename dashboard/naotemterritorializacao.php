@@ -37,6 +37,9 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
     <link href="../template/assets/styles/loginForm/recuperarSenhaForm.css" rel="stylesheet">
     <link href="../template/assets/styles/loginForm/codigoSegurancaForm.css" rel="stylesheet">
     <link href="../template/assets/styles/registerForm/registerForm.css" rel="stylesheet">
+      <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
 </head>    
 
 <body>
@@ -148,8 +151,8 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                                         </select>
                                                     </div>
                                                 </div>
-                                                <div class="col-md-3 col-lg-1 position-relative row form-check btn-pesquisar">
-                                                    <div class="col-sm-11 col-lg-11">
+                                                <div class="col-md-3 col-lg-1 position-relative row form-check btn-pesquisar ml-3">
+                                                    <div class="">
                                                         <button class="btn btn-secondary bg-bordo btn-pesquisar-2">Pesquisar</button>
                                                     </div>
                                                 </div>
@@ -224,7 +227,7 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                                 <div class="tab-content" id="content-tab-eg7">
                                                 <?php        
                                                 //var_dump($graficos_evolucao);
-                                                $i = 0;
+                                                $indice = 0;
                                                 foreach($graficos_evolucao as $grafico){
                                                     //echo "oi";
                                                     //require_once '../assets/plots/'.$grafico["arquivo"];
@@ -235,12 +238,13 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                                          echo "<div class=\"tab-pane active\" id=\"tab-eg7-0\" role=\"tabpanel\">";
                                                          
                                                      }else{
-                                                        echo "<div class=\"tab-pane\" id=\"tab-eg7-".$i."\" role=\"tabpanel\">";
+                                                        echo "<div class=\"tab-pane\" id=\"tab-eg7-".$indice."\" role=\"tabpanel\">";
                                                      }
-                                                     $i++;
-                                                   
+                                                     $secao = "evolucao";
                                                     //var_dump($grafico);
-                                                    echo "<iframe width=\"100%\" height=\"440\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
+                                                    include "../app/controllers/graphicgenerator.php";
+                                                    $indice++;
+                                                    // echo "<iframe width=\"100%\" height=\"440\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
                                                     echo "<p class='fonte'>".$grafico["fonte"].$grafico["OBS"]."</p>";
                                                     echo "</div>";
                                                 } 
@@ -815,6 +819,27 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                         </tfoot>
                         </table>
 
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="alertaNaoCadastrado" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title card-header-title" id="ex
+                ampleModalLongTitle">Amazônia Legal em Dados</h5>
+                <div class="btn-actions-pane-right actions-icon-btn">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button> 
+                </div>
+            </div>
+            <div class="modal-body">
+               <p> Cadastre-se para habilitar esta funcionalidade. </p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>

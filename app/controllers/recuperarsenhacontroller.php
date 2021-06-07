@@ -11,6 +11,6 @@ $user = new M_User;
 // var_dump($_GET);
 // echo "</pre>";
 
-echo $user->recuperarSenha($_GET["email"],$_GET["code"],$_GET["senha"]);
+echo $user->recuperarSenha($_POST["email"],$_POST["code"],$_POST["senha"]);
 
 ?>

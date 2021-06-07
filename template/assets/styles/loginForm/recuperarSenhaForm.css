@@ -62,10 +62,12 @@
   background-color: #480625;
   color: #fff;
   width: 120px;
+  font-weight: bold;
 }
 .recuperarSenhaModal .recuperarSenhaFormSendButton:hover,
 .recuperarSenhaModal .enviarTokenFormSendButton:hover{
   background-color: #7f3457;
+  color: #fff;
 }
 
 .recuperarSenhaModalWrapper {

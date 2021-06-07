@@ -70,53 +70,85 @@ session_start();
                 <div class="app-main__inner">
                     <div class="app-page-title">
                         <div class="page-title-wrapper">
-                                <div class="col-lg-12 text-center">
-                                    <div class="col-lg-12">
+                                <div class="row text-center">
+                                    <div class="row">
                                         <div class="page-title-heading page-title-heading-pre-perfil" style="">
-                                            <h2 style="font-weight: bold;line-height:54px;margin-top: -10px;">Amazônia Legal em Dados</h2> 
+                                            
                                         </div> 
-                                        <h4 style="margin-bottom: -15px">Visão integrada do território formado pelos nove estados da Amazônia Legal</h4>     
-                                        <p  class="title-description" style="">Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, Roraima e Tocantins</p>                      
+                                        <div class="slideshow-container hometopslider">
+
+                                            <div class="hometopSlide">
+                                            <div class="numbertext" style="color: #681139">1 / 3</div>
+                                            <img class="" src="../assets/images/home/banner_principal/1.png" style="width:100%" >
+                                            </div>
+
+                                            <div class="hometopSlide">
+                                            <div class="numbertext"  style="color: #681139">2 / 3</div>
+                                            <img class="" src="../assets/images/home/banner_principal/2.png" style="width:100%">
+                                            </div>
+
+                                            <div class="hometopSlide">
+                                            <div class="numbertext"  style="color: #681139">3 / 3</div>
+                                            <img class="" src="../assets/images/home/banner_principal/3.png" style="width:100%">
+                                            </div>
+
+                                            <div class="hometopSlide">
+                                            <div class="numbertext" style="color: #681139">4 / 4</div>
+                                            <img class="" src="../assets/images/home/banner_principal/4.png" style="width:100%">
+                                            </div>
+
+                                            <a class="prev prev5" onclick="plusSlides(-1, 'hometopSlide','dot5')">&#10094;</a>
+                                            <a class="next next5" onclick="plusSlides(1, 'hometopSlide', 'dot5')">&#10095;</a>
+
+                                            </div>
+                                            <br>
+
+                                            <div style="text-align:center; position:relative; z-index:999; margin:-45px auto;">
+                                            <span class="dot5 dota" onclick="currentSlide(1, 'hometopSlide', 'dot5')"></span> 
+                                            <span class="dot5 dota" onclick="currentSlide(2, 'hometopSlide', 'dot5')"></span> 
+                                            <span class="dot5 dota" onclick="currentSlide(3, 'hometopSlide', 'dot5')"></span> 
+                                            <span class="dot5 dota" onclick="currentSlide(4, 'hometopSlide', 'dot5')"></span> 
+                                            </div>
                                     </div>
                                 </div>
                          </div> 
                          <div class="col-lg-12 row col-destaques">
-                             <div class="col-lg-4 card">
+                             <div class="col-lg-3 card" style="margin-left: 6%; margin-right: 2%">
                                 <div class="icon-d"><img src="../assets/images/home/icones/destaque_municipios.svg"/></div> 
                                 <div class="data">
                                     <h6>808 municípios</h6>
                                     <p>14,5% dos muncipios do país</span>
                                 </div>
                              </div>
-                             <div class="col-lg-4 card">
+                             <div class="col-lg-3 card" style="margin-right: 2%">
                                 <div class="icon-d"><img src="../assets/images/home/icones/destaque_territorio.svg"/></div> 
                                  <div class="data">
                                     <h6>5,1 milhões de km²</h6>
                                     <p>60% do território brasileiro</span>
                                 </div>
                              </div>
-                             <div class="col-lg-4 card">
+                             <div class="col-lg-3 card" style="">
                                 <div class="icon-d"><img src="../assets/images/home/icones/destaque_habitantes.svg"/></div> 
                                 <div class="data">
                                     <h6>29,3 milhões de habitantes</h6>
                                     <p>14% do Brasil</span>
                                 </div>
                              </div>
-                             <div class="col-lg-4 card">
+                             <div class="col-lg-3 card offset-lg-1 mt-3" style="margin-right: 2%; margin-left: 6%">
                                 <div class="icon-d"><img src="../assets/images/home/icones/destaque_cobertura_natural.svg"/></div> 
                                 <div class="data">
                                     <h6>4,2 milhões de km² de área de cobertura natural</h6>
                                     <p>72% da área natural do país</span>
                                 </div>
                              </div>
-                             <div class="col-lg-4 card"> 
+                             <div class="col-lg-3 card mt-3" style="margin-right: 2%"> 
                                 <div class="icon-d"><img src="../assets/images/home/icones/destaque_pib.svg"/></div>                                
                                  <div class="data">
                                     <h6>PIB de R$ 623 bilhões</h6>
                                     <p>9% do nacional</span>
                                 </div>
                             </div>
-                             <div class="col-lg-4 card">
+                             <div class="col-lg-3 card mt-3" style="">
                                 <div class="icon-d"><img src="../assets/images/home/icones/destaque_ocupados.svg"/></div> 
                                 <div class="data">
                                     <h6>11,2 milhões de ocupados</h6>
@@ -128,8 +160,8 @@ session_start();
                     <div class="tab-content" >
                         <div class="tabs-animation" id="tab-content-1" role="tabpanel" >
                            <div class="row">
-                                <div class="col-sm-12 col-lg-4 offset-lg-2 mb-lg-4">
-                                        <div class="mb-3 card">
+                                <div class="col-sm-12 col-lg-5 offset-lg-1 mb-lg-1" style="margin-left: 9%">
+                                        <div class="mb-3 card card-secao">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../dashboard/pre-perfil.php?<?php echo $_SESSION["state"]; ?>">Perfil</a></h3>
@@ -143,37 +175,37 @@ session_start();
                                                 
                                                 <div class="slideshow-container">
 
-                                                <div class="mySlides">
+                                                <div class="perfilSlide">
                                                 <div class="numbertext">1 / 3</div>
-                                                <img src="../assets/images/home/Perfil1.png" style="width:100%">
+                                                <img class="slidepic" src="../assets/images/home/Perfil-1.png" style="width:100%">
                                                 </div>
 
-                                                <div class="mySlides">
+                                                <div class="perfilSlide">
                                                 <div class="numbertext">2 / 3</div>
-                                                <img src="../assets/images/home/Perfil2.png" style="width:100%">
+                                                <img class="slidepic" src="../assets/images/home/Perfil-2.png" style="width:100%">
                                                 </div>
 
-                                                <div class="mySlides">
+                                                <div class="perfilSlide">
                                                 <div class="numbertext">3 / 3</div>
-                                                <img src="../assets/images/home/Perfil3.png" style="width:100%">
+                                                <img class="slidepic" src="../assets/images/home/Perfil-3.png" style="width:100%">
                                                 </div>
 
-                                                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-                                                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                                                <a class="prev" onclick="plusSlides(-1, 'perfilSlide','dot')">&#10094;</a>
+                                                <a class="next" onclick="plusSlides(1, 'perfilSlide', 'dot')">&#10095;</a>
 
                                                 </div>
                                                 <br>
 
                                                 <div style="text-align:center; position:relative; z-index:999; margin:-45px auto;">
-                                                <span class="dot" onclick="currentSlide(1)"></span> 
-                                                <span class="dot" onclick="currentSlide(2)"></span> 
-                                                <span class="dot" onclick="currentSlide(3)"></span> 
+                                                <span class="dot dota" onclick="currentSlide(1, 'perfilSlide', 'dot')"></span> 
+                                                <span class="dot dota" onclick="currentSlide(2, 'perfilSlide', 'dot')"></span> 
+                                                <span class="dot dota" onclick="currentSlide(3, 'perfilSlide', 'dot')"></span> 
                                                 </div>
                                             </div>
                                         </div>    
                                 </div>
-                                <div class="col-sm-12 col-lg-4">
-                                        <div class="mb-3 card">
+                                <div class="col-sm-12 col-lg-5 mb-lg-1">
+                                        <div class="mb-3 card card-secao">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../compare/compare.php?regiao=Amazonas&regiao1=Roraima&area=Educação__485&indicador=TX_INEP_IDEB_AI_UF__485">Compare</a></h3>
@@ -183,13 +215,38 @@ session_start();
                                                 </div> 
                                             </div>
                                             <div class="card-body">
-                                            <a href="../compare/compare.php?regiao=Amazonas&regiao1=Roraima&area=Educação__485&indicador=TX_INEP_IDEB_AI_UF__485"><img class="img-slider" src="../assets/images/home/Print_Compare.png"/></a>
-                                            
+                                            <!-- <a href="../compare/compare.php?regiao=Amazonas&regiao1=Roraima&area=Educação__485&indicador=TX_INEP_IDEB_AI_UF__485"><img class="img-slider" src="../assets/images/home/Print_Compare.png"/></a> -->
+                                                <div class="slideshow-container">
+                                                    <div class="compareSlide">
+                                                    <div class="numbertext">1 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Compare-1.png" style="width:100%">
+                                                    </div>
+
+                                                    <div class="compareSlide">
+                                                    <div class="numbertext">2 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Compare-2.png" style="width:100%">
+                                                    </div>
+
+                                                    <div class="compareSlide">
+                                                    <div class="numbertext">3 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Compare-3.png" style="width:100%">
+                                                    </div>
+
+                                                    <a class="prev" onclick="plusSlides(-1, 'compareSlide','dot1')">&#10094;</a>
+                                                    <a class="next" onclick="plusSlides(1, 'compareSlide', 'dot1')">&#10095;</a>
+                                                </div>
+                                                <br>
+
+                                                <div style="text-align:center; position:relative; z-index:999; margin:-45px auto;">
+                                                <span class="dot1 dota" onclick="currentSlide(1, 'compareSlide', 'dot1')"></span> 
+                                                <span class="dot1 dota" onclick="currentSlide(2, 'compareSlide', 'dot1')"></span> 
+                                                <span class="dot1 dota" onclick="currentSlide(3, 'compareSlide', 'dot1')"></span> 
+                                                </div>
                                         </div>
                                         </div>    
                                 </div>
-                                <div class="col-sm-12 col-lg-4 offset-lg-2 mb-lg-4">
-                                        <div class="mb-3 card">
+                                <div class="col-sm-12 col-lg-5 offset-lg-1 mb-lg-4 mt-lg-5">
+                                        <div class="mb-3 card card-secao">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../desafios/desafios.php?regiao=<?php echo $_SESSION["state"];?>&area=todas">Desafios</a></h3>
@@ -199,13 +256,37 @@ session_start();
                                                 </div> 
                                             </div>
                                             <div class="card-body">
-                                            <a href="../desafios/desafios.php?regiao=<?php echo $_SESSION["state"];?>&area=todas"><img class="img-slider" src="../assets/images/home/Print_Desafios.png"/>
+                                                <div class="slideshow-container">
+                                                    <div class="desafiosSlide">
+                                                    <div class="numbertext">1 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Desafios-1.png" style="width:100%">
+                                                    </div>
+
+                                                    <div class="desafiosSlide">
+                                                    <div class="numbertext">2 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Desafios-2.png" style="width:100%">
+                                                    </div>
+
+                                                    <div class="desafiosSlide">
+                                                    <div class="numbertext">3 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Desafios-3.png" style="width:100%">
+                                                    </div>
+
+                                                    <a class="prev" onclick="plusSlides(-1, 'desafiosSlide','dot2')">&#10094;</a>
+                                                    <a class="next" onclick="plusSlides(1, 'desafiosSlide', 'dot2')">&#10095;</a>
+                                                </div>
+                                                <br>
+                                                <div style="text-align:center; position:relative; z-index:999; margin:-45px auto;">
+                                                <span class="dot2 dota" onclick="currentSlide(1, 'desafiosSlide', 'dot2')"></span> 
+                                                <span class="dot2 dota" onclick="currentSlide(2, 'desafiosSlide', 'dot2')"></span> 
+                                                <span class="dot2 dota" onclick="currentSlide(3, 'desafiosSlide', 'dot2')"></span> 
+                                                </div>    
                                             </div>
                                         </div>    
                                 </div>
-                                <div class="col-sm-12 col-lg-4">
-                                        <div class="mb-3 card">
-                                            <div class="card-header-tab card-header">
+                                <div class="col-sm-12 col-lg-5 mt-lg-5">
+                                        <div class="mb-3 card card-secao">
+                                            <div class="card-header-tab card-header card-secao">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../atlas/atlas.php">Atlas</a></h3>
                                                     <p>Visualização de indicadores em mapas interativos<br/> por estado e por município</p> 
@@ -214,12 +295,36 @@ session_start();
                                                 </div> 
                                             </div>
                                             <div class="card-body">
-                                            <a href="../atlas/atlas.php"><img class="img-slider" src="../assets/images/home/Print_Atlas.png"></a>
+                                                <div class="slideshow-container">
+                                                    <div class="atlasSlide">
+                                                    <div class="numbertext">1 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Atlas-1.png" style="width:100%">
+                                                    </div>
+
+                                                    <div class="atlasSlide">
+                                                    <div class="numbertext">2 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Atlas-2.png" style="width:100%">
+                                                    </div>
+
+                                                    <div class="atlasSlide">
+                                                    <div class="numbertext">3 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Atlas-3.png" style="width:100%">
+                                                    </div>
+
+                                                    <a class="prev" onclick="plusSlides(-1, 'atlasSlide','dot3')">&#10094;</a>
+                                                    <a class="next" onclick="plusSlides(1, 'atlasSlide', 'dot3')">&#10095;</a>
+                                                </div>
+                                                <br>
+                                                <div style="text-align:center; position:relative; z-index:999; margin:-45px auto;">
+                                                <span class="dot3 dota" onclick="currentSlide(1, 'atlasSlide', 'dot3')"></span> 
+                                                <span class="dot3 dota" onclick="currentSlide(2, 'atlasSlide', 'dot3')"></span> 
+                                                <span class="dot3 dota" onclick="currentSlide(3, 'atlasSlide', 'dot3')"></span> 
+                                                </div>
                                             </div>
                                         </div>    
                                 </div>
-                                <div class="col-sm-12 col-lg-4 offset-lg-4 mb-lg-4">
-                                        <div class="mb-3 card">
+                                <div class="col-sm-12 col-lg-5 offset-lg-4 mb-lg-4">
+                                        <div class="mb-3 card card-secao">
                                             <div class="card-header-tab card-header">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3><a href="../explore/explore.php">Explore</a></h3>
@@ -229,7 +334,32 @@ session_start();
                                                 </div> 
                                             </div>
                                             <div class="card-body">
-                                            <a href="../explore/explore.php"><img class="img-slider" src="../assets/images/home/Print_Explore.png"></a>
+                                                <div class="slideshow-container">
+                                                    <div class="exploreSlide">
+                                                    <div class="numbertext">1 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Explore-1.png" style="width:100%">
+                                                    </div>
+
+                                                    <div class="exploreSlide">
+                                                    <div class="numbertext">2 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Explore-2.png" style="width:100%">
+                                                    </div>
+
+                                                    <div class="exploreSlide">
+                                                    <div class="numbertext">3 / 3</div>
+                                                    <img class="slidepic" src="../assets/images/home/Explore-3.png" style="width:100%">
+                                                    </div>
+
+                                                    <a class="prev" onclick="plusSlides(-1, 'exploreSlide','dot4')">&#10094;</a>
+                                                    <a class="next" onclick="plusSlides(1, 'exploreSlide', 'dot4')">&#10095;</a>
+                                                </div>
+                                                <br>
+
+                                                <div style="text-align:center; position:relative; z-index:999; margin:-45px auto;">
+                                                <span class="dot4 dot4a" onclick="currentSlide(1, 'exploreSlide', 'dot4')"></span> 
+                                                <span class="dot4 dot4a" onclick="currentSlide(2, 'exploreSlide', 'dot4')"></span> 
+                                                <span class="dot4 dot4a" onclick="currentSlide(3, 'exploreSlide', 'dot4')"></span> 
+                                                </div>
                                             </div>
                                         </div>    
                                 </div>
@@ -240,7 +370,7 @@ session_start();
                     <div class="tabs-animation" id="tab-content-2" role="tabpanel" >  
                             <div class="row" style="background-color: #fff; margin-left: -45px; margin-right:0px;">  
                                 <div class="col-sm-6 col-lg-12 text-center" >
-                                            <div class="card-header-tab card-header">
+                                            <div class="card-header-tab card-header tab-noticia">
                                                 <div class="card-header-title font-size-lg font-weight-normal evolucao">
                                                     <h3>Notícias</h3>
                                                     <p class="noticias">Principais notícias da região relacionadas aos temas e indicadores da Amazônia Legal em Dados</p>

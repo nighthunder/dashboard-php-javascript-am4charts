@@ -48,7 +48,7 @@ body{
     opacity: .5;
   }
   .page-title-wrapper {
-      background: url("../assets/images/AML/header.png");
+      background: none !important;
       background-repeat: repeat;
       background-size: auto;
       background-repeat: no-repeat;
@@ -224,9 +224,8 @@ body{
   .card-header.card-header-tab .card-header-title p{
     line-height: 24px;
     margin-top: 10px;
-    letter-spacing: 0.01em;
-    margin: 20px auto 15px;
-    font-size: 1rem;
+    margin: 15px auto 5px;
+    font-size: 0.90rem;
   }
   .card-header.card-header-tab .card-header-title p.noticias{
     line-height: 48px;
@@ -238,6 +237,7 @@ body{
     margin: 0 auto;
     letter-spacing: 0.04em;
     line-height:1.3rem;
+    font-size: 1.4rem;
   }
   .card-header.card-header-tab, .card{
     border-radius: 5px;
@@ -245,7 +245,23 @@ body{
   .card-header.card-header-tab{
     border-bottom: 0px;
     border-top: 10px;
-    border-radius: 15px;
+    border-radius: 5px;
+  }
+  .card-secao .card-header.card-header-tab,
+  .card-secao .card-body{
+    border: 1px solid #d0d0d0;
+  }
+  .card-secao .card-body{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top: none;
+  }  
+  .hometopslider{
+    max-width: 100% !important;
+    cursor: pointer;
+  }
+  .prev5, .next5{
+    top: 70% !important;
   }
   .slider-light{
     max-width: 650px;
@@ -286,6 +302,7 @@ body{
     width: 200px;
     line-height: 18px;
     color: #495057;
+    font-size: 14px;
   }
   
   .app-theme-white .app-page-title{
@@ -393,14 +410,20 @@ body{
     .app-page-title .page-title-heading{
       padding-bottom: 0px !important;
     }
-    .card-header{
-      height: 12em;
+    .card-header {
+      height: 10em;
+    }
+    .card-secao .card-header{
+      height: 9.7em;
+    }
+    .tab-noticia{
+      height: 11em;
     }
     .card-body{
       background: #fff;
       border-radius: 20px;
       margin-top: -29px;
-      height: 320px;
+      height: 400px;
       text-align: center;
     }
     #tab-content-2 .card-body{
@@ -412,24 +435,35 @@ body{
     .card{
       display: inline;
     }
-  
+    .col-lg-3{
+      flex: 0 0 27.5% !important;
+      max-width: 27.5% !important;
+    }
     .col-destaques .card{
       background: #fff;
       box-shadow: 1px 1px 1px #d0d0d0;
       border: 1px solid #e7e7e7;
+      border-radius: 0px;
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+      height: 75px;
     }
     .col-destaques .card:hover{
       cursor: pointer;
     }
     .card img {
-      width: 85px;
+      width: 75px;
       background: #dfc5d1;
       display: inline-block;   
       border-radius: 5px;
       position: relative;
      } 
+     .card .icon-d img {
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+     } 
      .card-noticia img{
-        background: url("../assets/images/AML/defaultNoticia.png");
+        background: url("../../../assets/images/AML/defaultNoticia.png");
         width: 100px;
         height: 100px;
         border-radius: 10px;
@@ -447,7 +481,7 @@ body{
         line-height: 2;  
         text-align: center;
         content: "";
-        background: url("../assets/images/AML/defaultNoticia.png");
+        background: url("../../../assets/images/AML/defaultNoticia.png");
         border-radius: 10px;
     }
     .card .img-slider{
@@ -458,8 +492,8 @@ body{
     }
     .data{
       position: absolute;
-      left: 35%;
-      top: 13.5%;
+      left: 28%;
+      top: 10.5%;
     }
     .col-lg-4.card{
       padding: 0px;
@@ -467,11 +501,11 @@ body{
       max-width: 32%;
     }
     .col-destaques{
-      padding-left: 3%;
+      padding-left: 5%;
       margin-bottom: 0px;
-      margin-top: 40px;
-      width: 2000%;
+      margin-top: 145px;
       padding-right: 0px;
+      margin-bottom: -15px;
     }
     .title-description{
       font-style: italic;
@@ -485,8 +519,9 @@ body{
     }
     .icon-d{
       background: linear-gradient(90deg, transparent 0%, transparent 35%, rgb(223, 197, 209) 100%);
-      width: 85px;
-      height: 85px;
+      width: 75px;
+      height: 75px;
+      margin-left: -15px;
     }
     #tab-content-2 {
       background: #fff;
@@ -512,20 +547,51 @@ body{
   
   }
 
-  @media (min-width: 1900px){
+  @media (min-width: 1300px){
 
-    .card-body{
-        height: 420px;
+    .col-destaques{
+      margin-top: 85px;
     }
 
   }
+
+  @media (min-width: 1400px){
+    .hometopslider{
+      margin-top: 4.5% !important;
+    }
+    .col-destaques{
+      margin-top: 10%;
+    }
+  }
+
+  @media (width: 1440px){
+    .hometopslider{
+      margin-top: 3% !important;
+    }
+  }
+
+  @media (min-width: 1900px){
+    .card-body{
+        height: 500px;
+    }
+    .hometopslider{
+      margin-top: 8% !important;
+    }
+    .col-destaques{
+      margin-top: 13.3% !important;
+    }
+  }
     
   @media (min-width: 2000px){
-
     .card-body{
-        height: 575px;
+        height: 675px;
     }
-
+    .col-destaques{
+      margin-top: 16% !important;
+    }
+    .hometopSlide{
+      margin-top: 4.5% !important;
+    }
   }
 
   

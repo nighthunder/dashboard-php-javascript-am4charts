@@ -1,0 +1,14 @@
+Alterações novas:
+
+/app/views
+/app/model
+/app/core
+/app/controllers
+/dashboard
+/compare
+/assets/scripts
+/assets/images
+
+Atualizar o functions (atentar para a variação de seleção de ambiente $producao)
+
+OBS: Subir a banco de metadados tbm

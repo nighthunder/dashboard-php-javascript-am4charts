@@ -1,9 +1,19 @@
 .mapDownloadButton
 {
-    background-color: #681139;
+    background-color: transparent;
     padding: 0.5rem;
     color: white;
     border: none;
     border-radius: 5px;
     margin-top: 1rem;
+    cursor: pointer;
+    padding: 10px 0px 0px;
+    float: right;
+}
+.mapDownloadButton img{
+    float: right;
+    position: absolute;
+    right: 30px;
+    top: 126px;
+    z-index: 99;
 }

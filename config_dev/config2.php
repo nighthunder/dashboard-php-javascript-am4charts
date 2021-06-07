@@ -2,7 +2,7 @@
 
 /* Config do banco de dados de metadados */
 
-$producao = true;
+$producao = false;
 
 if ($producao){
 	// colocar senha usuário e servidor de seu banco de dados

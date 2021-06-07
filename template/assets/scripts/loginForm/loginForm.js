@@ -46,7 +46,7 @@ function enviaFormularioLogin()
 
     jQuery(document).ready(function($) {
       
-      $.post("../app/controllers/logincontroller.php",retornoValidacao, function( data){
+      $.post("../app/controllers/logincontroller.php",retornoValidacao, function(data){
         if (data === "Usuário logado"){
           location.reload();
         }else{

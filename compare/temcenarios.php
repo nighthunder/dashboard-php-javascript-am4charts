@@ -48,17 +48,20 @@
                                             <div class="card-body">
                                                 <div class="tab-content">
                                             <?php        
-                                                $i = 0;
+                                                $indice = 0;
                                                 foreach($graficos_cenarios as $grafico){
                                                     
                                                     if ($grafico["ativo"] == "1"){
                                                          echo "<div class=\"tab-pane active\" id=\"tab-eg8-0\" role=\"tabpanel\">";
-                                                     }else{
-                                                        echo "<div class=\"tab-pane\" id=\"tab-eg8-".$i."\" role=\"tabpanel\">";
-                                                     }
-                                                     $i++;
+                                                    }else{
+                                                        echo "<div class=\"tab-pane\" id=\"tab-eg8-".$indice."\" role=\"tabpanel\">";
+                                                    }
                                                     //var_dump($grafico);
-                                                    echo "<iframe width=\"100%\" height=\"380\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
+                                                    $secao = "cenarios";
+                                                    //var_dump($grafico);
+                                                    include "../app/controllers/graphicgenerator.php";
+                                                    $indice++;
+                                                    // echo "<iframe width=\"100%\" height=\"380\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
                                                     echo "<p class='fonte'>".$grafico["fonte"].$grafico["OBS"]."</p>";
                                                     echo "</div>";
 

@@ -24,22 +24,6 @@ function listenerBotaoEmailNewsletter()
 
         var codigoSucesso = 200;
 
-
-        //var ajaxurl = 'http://localhost/aml/app/controllers/contactformcontroller.php?email='+email;
-
-        // $.post(ajaxurl, data, function (response) {
-                    
-        //     emailInputContainer.classList.remove('invalidEmailInput');
-        //     containerMensagemRetorno.classList.remove('semRetorno');
-        //     containerMensagemRetorno.textContent = 'Email cadastrado com sucesso!';
-
-        //     setTimeout(() => {
-        //          containerMensagemRetorno.classList.add('semRetorno');
-        //     }, 3000);
-        //             //alert("action performed successfully");
-        
-        // });
-
         fetch(URL, {method: 'post'})
         .then(res => res.status)
         .then(codigoResposta => {
@@ -53,8 +37,7 @@ function listenerBotaoEmailNewsletter()
             setTimeout(() => {
                  containerMensagemRetorno.classList.add('semRetorno');
             }, 3000);
-                    //alert("action performed successfully");
-
+                
             }
             else
             {

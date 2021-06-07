@@ -168,10 +168,10 @@
 
    jQuery(document).ready(function($) {
 
-      $(".app-container").addClass("closed-sidebar");
-      
       $('.news-carrousel').hide();
       $('.news-carrousel').show();
+      $('.hometopslider').hide();
+      setTimeout(function(){$('.hometopslider').show(); }, 1200);
 
 	    var url_path = window.location;
         var url_parts = String(url_path).split("?");
@@ -296,5 +296,9 @@
         $(this).attr("src", "../assets/images/AML/defaultNoticia.png");
         // $(this).prop('src',"./assets/images/AML/defaultNoticia.png");
       });
+     
+      setTimeout(() => {
+        $(".app-container").addClass("closed-sidebar");
+      }, 100);
 
  	});       

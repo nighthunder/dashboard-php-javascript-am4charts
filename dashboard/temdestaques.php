@@ -2,9 +2,13 @@
                                     <div class="card-header-tab card-header">
                                         <div class="card-header-title font-size-lg font-weight-normal">Destaques positivos </div>
                                         <div class="btn-actions-pane-right actions-icon-btn">
+                                            <?php if (verify_login()){ ?>
                                             <a class="text-right float-right" href="#" onclick="javascript: download3Resources('<?php echo $_GET['indicador'].'_DESTAQUES';?>','destaques','csv_destaques_externo1','csv_destaques_externo2','csv_destaques_externo3')" download>
                                                 <img class="" src="../assets/images/svg/Download.svg"/>
                                             </a>
+                                            <?php }else {?>
+                                                <img src="../assets/images/svg/Download.svg" style="float:right;" onclick="" data-target="#alertaNaoCadastrado" class="float:right" data-toggle="modal"/>
+                                            <?php } ?>
                                         </div>
                                     </div>
                                      <div class="card-body text-center card-body-destaques" >

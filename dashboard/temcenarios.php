@@ -54,7 +54,7 @@
                                                 <div class="tab-content" id="content-tab-eg8">
                                             <?php        
                                                 //var_dump($graficos_evolucao);
-                                                $i = 0;
+                                                $indice = 0;
                                                 foreach($graficos_cenarios as $grafico){
                                                     //echo "oi";
                                                     //require_once '../assets/plots/'.$grafico["arquivo"];
@@ -64,12 +64,17 @@
                                                     if ($grafico["ativo"] == "1"){
                                                          echo "<div class=\"tab-pane active\" id=\"tab-eg8-0\" role=\"tabpanel\">";
                                                      }else{
-                                                        echo "<div class=\"tab-pane\" id=\"tab-eg8-".$i."\" role=\"tabpanel\">";
+                                                        echo "<div class=\"tab-pane\" id=\"tab-eg8-".$indice."\" role=\"tabpanel\">";
                                                         
                                                      }
                                                      $i++;
                                                     //var_dump($grafico);
-                                                    echo "<iframe width=\"100%\" height=\"450\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
+                                                    $secao = "cenarios";
+                                                    // echo "indice:".$indice;
+                                                    include("../app/controllers/graphicgenerator.php");
+                                                    $indice++;
+                                                    
+                                                    // echo "<iframe width=\"100%\" height=\"450\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
                                                     echo "<p class='fonte'>".$grafico["fonte"].$grafico["OBS"]."</p>";
                                                     echo "</div>";
 

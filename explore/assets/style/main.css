@@ -144,7 +144,7 @@
 
 @media (min-width: 1200px){
   .registerModal, .loginModal{
-    margin: 4rem auto !important;
+    /* margin: 4rem auto !important; */
   }
 }
 

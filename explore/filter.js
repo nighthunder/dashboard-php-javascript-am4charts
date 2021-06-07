@@ -6,33 +6,15 @@ for (let index = 2007; index <= 2020; index++){
     $("li.multiple." + index).hide();
 }
 
-const VALORES_INICIAIS = {
-    regiao: ["Amazonas", "Acre", "Amapá", "Roraima", "Rondônia", "Pará", "Maranhão", "Mato Grosso", "Tocantins"], 
-    area1: 'area1', 
-    indicador1: 'indicador1', 
-    label1: "PIB", 
-    unidade1: "(em R$ de 2018)", 
-    area2: 'area2', 
-    indicador2: 'indicador2', 
-    label2: "Desmatamento acumulado",
-    unidade2: "(ha)", 
-    anoIndicador: ["2010","2011","2012",'2013','2014','2015','2016','2017','2018', '2019', '2020'],
-
-    valoresCampos:
-    {
-        'area1': 'meio_ambiente',
-        'indicador1': 'dados_uf_atlas_tx_inpe_desmatamento_uf',
-        'area2': 'economia',
-        'indicador2': 'dados_uf_atlas_tx_ibge_pib_constante_uf',
-    }
-};
-
 // Preenchendo os selects dos indicadores com relação as areas escolhidas 
 d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
+    
     $("select.area").change(function () {
         //limpando selects quando mudar area
         $('.indicador').find('option').remove();
         $('.indicador').append('<option value="" disabled selected>Indicador</option>');
+        // $('.ano').find('option').remove();
+        // $('.ano').append('<option value="" disabled selected>Ano</option>');
         $('#btn-rqa').attr('disabled','disabled');
 
         //pegando a regiao selecionada
@@ -62,7 +44,7 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
                         var dictPos = dict.filter(function (i,n) {
                             if (dataL.attr("href").replace(/.csv/g, '').toUpperCase().includes(i.Nome)) {
                                 return i.Nome;
-                                }
+                            }
                         })
                          
                         if($(this).attr("href").replace(/.csv/g, '').includes("mun")){
@@ -71,6 +53,8 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
                             }else{
                                 unidade = " (" + dictPos[0]['Unidade'] + ")"; 
                             }
+
+                            console.log("unidade", unidade);
                              
                             $('.indicador').append('<option value="'+ $(this).attr("href").replace(/.csv/g, '') +'">'+ dictPos[0]['Descricao'] +'</option>');
                             $('.indicador').append('<option value="" disabled="">'+ unidade + '</option>');
@@ -81,15 +65,16 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
             }
         });
     });
-    
-    let mudarPrimeiraArea = () =>
-    {        
+    $("select.area1").change(function () {
         //limpando selects quando mudar area
         $('.indicador1').find('option').remove();
         $('.indicador1').append('<option value="" disabled selected>Indicador 1</option>');
+        // $('.ano').find('option').remove();
+        // $('.ano').append('<option value="" disabled selected>Ano</option>');
+        $('#btn-rpa').attr('disabled','disabled');
 
         //pegando a regiao selecionada
-        var area = $('.seletorArea.area1').children("option:selected").val() || VALORES_INICIAIS.valoresCampos.area1;
+        var area = $(this).children("option:selected").val();
 
         function openFile(file) {
             var extension = file.substr( (file.lastIndexOf('.') +1) );
@@ -103,8 +88,7 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
         };
         //populando select dos indicadores
         var fileNames = new Array();
-        
-        $.ajax({            
+        $.ajax({
             url: "../explore/csv/" + area,
             success: function(data){
                 $(data).find("td > a").each(function(){
@@ -130,16 +114,18 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
                 });
             }
         });
-    }
 
-    let mudarSegundaArea = () =>
-    {
+    });
+    $("select.area2").change(function () {
         //limpando selects quando mudar area
         $('.indicador2').find('option').remove();
         $('.indicador2').append('<option value="" disabled selected>Indicador 2</option>');
+        // $('.ano').find('option').remove();
+        // $('.ano').append('<option value="" disabled selected>Ano</option>');
+        $('#btn-rpa').attr('disabled','disabled');
 
         //pegando a regiao selecionada
-        var area = $('.seletorArea.area2').children("option:selected").val() || VALORES_INICIAIS.valoresCampos.area2;
+        var area = $(this).children("option:selected").val();
 
         function openFile(file) {
             var extension = file.substr( (file.lastIndexOf('.') +1) );
@@ -155,7 +141,6 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
         //populando select dos indicadores
         var fileNames = new Array();
         var unidade;
-        //console.log('---->', area);
         $.ajax({
             url: "../explore/csv/" + area,
             success: function(data){
@@ -176,7 +161,7 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
                             }else{
                                 unidade = " (" + dictPos[0]['Unidade'] + ")"; 
                             }
-                             console.log(dictPos[0])
+                             
                             $('.indicador2').append('<option value="'+ $(this).attr("href").replace(/.csv/g, '') +'">'+ dictPos[0]['Descricao'] + '</option>');
                             $('.indicador2').append('<option value="" disabled="">'+ unidade + '</option>');
                         }
@@ -184,19 +169,21 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
                 });
             }
         });
-    }
+    });
+    
+    // Liberando botões rpa e rqa
+    $("select.ano").change(function () {        
 
-    let mudarAno = () => 
-    {
         if($( ".regiao" ).val().length != 0 && $( ".indicador1" ).val() && $( ".indicador1" ).val() && $( ".ano" ).val().length != 0){
             $('#btn-rpa').removeAttr('disabled');
         }
         if($( ".ano" ).val().length == 0){
+            $('#btn-rpa').attr('disabled','disabled');
         }
-    }
 
-    let mudarRegiao = () =>
-    {
+    });
+
+    $("select.regiao").change(function () {
         if($( ".regiao" ).val().length == 0){
             $('#btn-rpa').attr('disabled','disabled');
             $('#btn-rqa').attr('disabled','disabled');
@@ -207,14 +194,19 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
         if($( ".indicador" ).val() && $( ".territorio" ).val() && $( ".regiao" ).val().length != 0){
             $('#btn-rqa').removeAttr('disabled');
         }
-    }
-
-    let mudarIndicador1 = () => 
-    {
+    });
+    $("select.indicador").change(function () {
+        if($( ".regiao" ).val().length != 0 && $( ".territorio" ).val()){
+            $('#btn-rqa').removeAttr('disabled');
+        }
+    });
+    $("select.indicador1").change(function (){
         if($( ".ano" ).val().length != 0 && $( ".regiao" ).val().length != 0 && $( ".indicador2" ).val()){
             $('#btn-rpa').removeAttr('disabled');
         }
         if($( ".indicador2" ).val()){
+            // let ind1 = $( ".indicador1" ).val().replace("dados_uf_atlas_", "").toUpperCase();
+            // let ind2 = $( ".indicador2" ).val().replace("dados_uf_atlas_", "").toUpperCase();
 
             d3.csv("../explore/csv/" + $( ".area2" ).val() +"/" + $( ".indicador2" ).val()+ ".csv", function (error, data1) {
                 d3.csv("../explore/csv/" + $( ".area1" ).val() +"/" + $( ".indicador1" ).val()+ ".csv", function (error, data2) {
@@ -244,23 +236,23 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
                             // console.log("index", index, dataInicio, dataFim);
                             if (index == dataInicio || index == dataFim){
                                 $("li.multiple." + index).show();
-                                $("li.multiple." + index).addClass('showCheckbox');
                             }else{
                                 $("li.multiple." + index).hide();
-                                $("li.multiple." + index).removeClass('showCheckbox');
                                 $("li.multiple." + index + " input")[0].checked = false;
                             }
                         }
                 });
             });
         }
-    }
-
-    let mudarIndicador2 = () => 
-    {
+    });
+    
+    $("select.indicador2").change(function () {
         if($( ".ano" ).val().length != 0 && $( ".regiao" ).val().length != 0 && $( ".indicador1" ).val()){
+            $('#btn-rpa').removeAttr('disabled');
         }
         if($( ".indicador1" ).val()){
+            // let ind1 = $( ".indicador1" ).val().replace("dados_uf_atlas_", "").toUpperCase();
+            // let ind2 = $( ".indicador2" ).val().replace("dados_uf_atlas_", "").toUpperCase();
 
             d3.csv("../explore/csv/" + $( ".area1" ).val() +"/" + $( ".indicador1" ).val()+ ".csv", function (error, data1) {
                 d3.csv("../explore/csv/" + $( ".area2" ).val() +"/" + $( ".indicador2" ).val()+ ".csv", function (error, data2) {
@@ -281,41 +273,48 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
                         delete obj2.MICROREGIAO;
 
                         let anosCross = intersection(obj1, obj2);
+                        //console.log("anosCross2", anosCross);
                         anosCross1 = anosCross;
                         dataInicio = $(anosCross).first()[0];
                         dataFim = $(anosCross).last()[0];
                         var showed = false;
                         for (let index = 2007; index <= 2020; index++){
                             $("li.multiple." + index).hide(); 
-                            $("li.multiple." + index).removeClass('showCheckbox');
+                            // $("select.ano").value(index).hide();
                             for( let i = 0; i < anosCross.length; i++){
                                 if ( index == anosCross[i]){
                                     $("li.multiple." + index).show();
-                                    $("li.multiple." + index).addClass('showCheckbox');
+                                    // $("select.ano").value(index).show();
                                     showed = true;
                                 }
                             }
+                            // if (showed == false){
+                            //     $("li.multiple." + index).remove();
+                            //     // $("select.ano").value(index).remove();
+                                
+                            // }else{ showed = false; }
+                            // console.log("index", index, dataInicio, dataFim);
+                            // if (index == dataInicio || index == dataFim){
+                            //     $("li.multiple." + index).show();
+                            // }else{
+                            //     $("li.multiple." + index).show();
+                            //     $("li.multiple." + index + " input")[0].checked = false;
+                            // }
                         }
+
+                        // for (let index = 2007; index <= 2020; index++){
+                        //     console.log("index", index, dataInicio, dataFim);
+                        //     if (index == dataInicio || index == dataFim){
+                        //         $("li.multiple." + index).show();
+                        //     }else{
+                        //         $("li.multiple." + index).show();
+                        //         $("li.multiple." + index + " input")[0].checked = false;
+                        //     }
+                        // }
                 });
             });
         }
-    }
-
-    $("select.area1").change(mudarPrimeiraArea);
-    $("select.area2").change(mudarSegundaArea);
-    
-    // Liberando botões rpa e rqa
-    $("select.ano").change(mudarAno);
-
-    $("select.regiao").change(mudarRegiao);
-    $("select.indicador").change(function () {
-        if($( ".regiao" ).val().length != 0 && $( ".territorio" ).val()){
-            $('#btn-rqa').removeAttr('disabled');
-        }
     });
-    $("select.indicador1").change(mudarIndicador1);
-    
-    $("select.indicador2").change(mudarIndicador2);
     $("select.territorio").change(function () {
         if($( ".regiao" ).val().length != 0 && $( ".indicador" ).val()){
             $('#btn-rqa').removeAttr('disabled');
@@ -325,56 +324,48 @@ d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
 });
 
 
-$( "#btn-rpa" ).click(function() {   
-    const VALORES_EXCLUSAO_SELECT = ['on', ]
-    let metadadosCampos = [{nome: 'regiao', query: '.regiao', getValue: () => [...$('.regiao [type=checkbox]')].filter(e => e.checked)
-                                                                               .filter(e => e.value.length > 0 && VALORES_EXCLUSAO_SELECT.indexOf(e.value) == -1)
-                                                                               .map(e => e.value)},
-    {nome: 'area1', query: '.area1', getValue: () => $('.area1').val()},
-    {nome: 'indicador1', query: '.indicador1', getValue: () => $('.indicador1').val()},
-    {nome: 'label1', query: '.indicador1 option:selected', getValue: () => $('.indicador1 option:selected').text()},
-    {nome: 'unidade1', query: '.indicador1 option:selected', getValue: () => $(".indicador1 option:selected" ).next().text()},
-    {nome: 'area2', query: '.area2', getValue: () => $( ".area2" ).val()},
-    {nome: 'indicador2', query: '.indicador2', getValue: () => $(".indicador2" ).val()},
-    {nome: 'label2', query: '.indicador2 option:selected', getValue: () => $(".indicador2 option:selected" ).text()},
-    {nome: 'unidade2', query: '.indicador2 option:selected', getValue: () => $(".indicador2 option:selected" ).next().text()},
-    {nome: 'anoIndicador', query: '.ano', getValue: () => [...$(".ano .showCheckbox [type=checkbox]")].filter(e => e.checked)
-                                                            .filter(e => e.value.length > 0 && VALORES_EXCLUSAO_SELECT.indexOf(e.value) == -1)
-                                                            .map(e => e.value)}]
-    let campos = {};
-    const CLASSE_CAMPO_INVALIDO = 'exploreInvalidInput';
+$( "#btn-rpa" ).click(function() {
+    //deletando antigo mapa
+    // $(".ol-viewport").removeData();
+    // $(".ol-viewport").remove();
+    // $("#map_tooltip > svg").remove();
 
-    let camposPreenchidos = true;
-    metadadosCampos.forEach(metadadosCampo => {
-        campos[metadadosCampo.nome] = metadadosCampo.getValue();
-        if(!campos[metadadosCampo.nome]) 
-        {
-            console.log($(metadadosCampo.query), metadadosCampo.query);
-            $(metadadosCampo.query).addClass(CLASSE_CAMPO_INVALIDO);
-            camposPreenchidos = false
-        }
-        else
-        {
-            $(metadadosCampo.query).removeClass(CLASSE_CAMPO_INVALIDO);
-        }
-    })
+    // $("#canvas").clear();
+    //valores dos selects
+    var regiao = $( ".regiao" ).val()
+    
+    var area1 = $( ".area1" ).val()
+    var indicador1 = $( ".indicador1" ).val()
+    var label1 = $( ".indicador1 option:selected" ).text()
+    var unidade1 = $( ".indicador1 option:selected" ).next().text();
 
-    if (JSON.stringify(campos['anoIndicador']) == JSON.stringify(["2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020"])){
-     //   campos['anoIndicador'] = anosCross1;
+    var area2 = $( ".area2" ).val()
+    var indicador2 = $( ".indicador2" ).val()
+    var label2 = $( ".indicador2 option:selected" ).text()
+    var unidade2 = $( ".indicador2 option:selected" ).next().text();
+
+    var anoIndicador = $(".ano").val(); 
+    var anoIndicador1 = anoIndicador;
+    if (JSON.stringify(anoIndicador) == JSON.stringify(["2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020"])){
+        anoIndicador = anosCross1;
     }
+    // var i = 0;
+    // for (let index = 2007; index <= 2020; index++){
+    //    if ( typeof anosCross1[index] === 'null' || typeof anosCross1[index] === 'undefined'){
+    //         i = 1;
+    //    }
+    // }    
+    // if (i == 0){
+    //     anoIndicador = anosCross1;
+    // }
+    // console.log("anoscross1", anosCross1);
+    // console.log("ANO indicador", anoIndicador);
 
-    if(!camposPreenchidos)
-    {
-        console.log('OOPLA');
-        return;
-    }
-
-    console.log(campos['indicador1'], campos['indicador2']);
-    d3.csv("../explore/csv/" + campos['area1'] +"/" + campos['indicador1']+ ".csv", function (error, data1) {
-        d3.csv("../explore/csv/" + campos['area2'] +"/" + campos['indicador2']+ ".csv", function (error, data2) {
+    d3.csv("../explore/csv/" + area1 +"/" + indicador1+ ".csv", function (error, data1) {
+        d3.csv("../explore/csv/" + area2 +"/" + indicador2+ ".csv", function (error, data2) {
             d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
-                graficoIndicadorIndicador(campos['regiao'], campos['area1'], campos['indicador1'], campos['label1'], campos['unidade1'], campos['area2'], campos['indicador2'], campos['label2'], campos['unidade2'], campos['anoIndicador'], data1, data2, dict);
-                pearsonIndicadorIndicador(campos['regiao'], campos['area1'], campos['indicador1'], campos['label1'], campos['area2'], campos['indicador2'], campos['label2'], campos['anoIndicador'], data2, data1, dict);
+                graficoIndicadorIndicador(regiao, area1, indicador1, label1, unidade1, area2, indicador2, label2, unidade2, anoIndicador, data1, data2, dict);
+                pearsonIndicadorIndicador(regiao, area1, indicador1, label1, area2, indicador2, label2, anoIndicador, data1, data2, dict);
             });
 
         });
@@ -383,6 +374,10 @@ $( "#btn-rpa" ).click(function() {
 });
 
 $( "#btn-rqa" ).click(function() {
+    //deletando antigo mapa
+    // $(".ol-viewport").removeData();
+    // $(".ol-viewport").remove();
+    // $("#map_tooltip > svg").remove();
 
     //valores dos selects
     var regiao = $( ".regiao" ).val()
@@ -408,40 +403,20 @@ $( "#btn-rqa" ).click(function() {
 });
 
 // iniciando com dois indicadores selecionados
-let {area1, indicador1, area2, indicador2} = VALORES_INICIAIS.valoresCampos;
-d3.csv(`../explore/csv/economia/${indicador2}.csv`, function (error, data2) {
-        d3.csv(`../explore/csv/meio_ambiente/${indicador1}.csv`, function (error, data1) {
+d3.csv("../explore/csv/economia/dados_uf_atlas_tx_ibge_pib_pc_uf.csv", function (error, data1) {
+
+        d3.csv("../explore/csv/meio_ambiente/dados_uf_atlas_tx_inpe_desmatamento_uf.csv", function (error, data2) {
             d3.csv("../explore/csv/data_dict.csv", function (error, dict) {
-
-
-                $("li.multiple").removeClass('showCheckbox');
-                for(let ano of VALORES_INICIAIS.anoIndicador)
-                {
-                    $("li.multiple." + ano).addClass('showCheckbox');
-                }
-
-                $(".seletorArea.area1").val(area1);
-                $(".seletorArea.area1").trigger('change');
-
-                $(".seletorArea.area2").val(area2);
-                $(".seletorArea.area2").trigger('change');
-
-                $('.seletorIndicador.indicador1').val(indicador1);
-                $('.seletorIndicador.indicador1').trigger('change');
-                $('.seletorIndicador.indicador2').val(indicador2);
-                $('.seletorIndicador.indicador2').trigger('change');
-
-                /*console.log(area1, indicador1, area2, indicador2, 
-                    $('.seletorIndicador.indicador1'), 
-                    $('.seletorIndicador.indicador2'));*/
-
-                const CAMPOS_GRAFICO = ['regiao', 'area1', 'indicador1', 'label1', 'unidade1', 'area2', 'indicador2', 'label2', 'unidade2', 'anoIndicador'];
-                const CAMPOS_PEARSON = ['regiao', 'area1', 'indicador1', 'label1', 'area2', 'indicador2', 'label2', 'anoIndicador'];
-                graficoIndicadorIndicador(...CAMPOS_GRAFICO.map(c => VALORES_INICIAIS[c]), data1, data2, dict);
-                pearsonIndicadorIndicador(...CAMPOS_PEARSON.map(c => VALORES_INICIAIS[c]), data1, data2, dict);
-            }); 
+                graficoIndicadorIndicador(["Amazonas", "Acre", "Amapá", "Roraima", "Rondônia", "Pará", "Maranhão", "Mato Grosso", "Tocantins"], 'area1', 'indicador1', "PIB", "(em R$ de 2018)", 'area2', 'indicador2', "Desmatamento acumulado","(ha)", ["2010","2011","2012",'2013','2014','2015','2016','2017','2018'], data1, data2, dict);
+                pearsonIndicadorIndicador(["Amazonas", "Acre", "Amapá", "Roraima", "Rondônia", "Pará", "Maranhão", "Mato Grosso", "Tocantins"], 'area1', 'indicador1', "PIB per capita", 'area2', 'indicador2', "Desmatamento acumulado", ["2010","2011","2012",'2013','2014','2015','2016','2017','2018'], data1, data2, dict);
+            });
 
         });
+        //$("select.area1").val("meio_ambiente_1");
+
+        //$("select.indicador1").val("dados_uf_atlas_tx_inpe_desmatamento_uf");
+        // $("select.area1").val("economia");
+        //$("select.indicador2").val("dados_uf_atlas_tx_ibge_pib_pc_uf");
     });
     
 

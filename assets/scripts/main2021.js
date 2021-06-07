@@ -1,8 +1,7 @@
 jQuery.noConflict();
 
 jQuery(document).ready(function($) {
-    // $( ".envioCadastroEmail" ).click(function() {
-    //     $( "#contactForm" ).submit();
-    // });
-
+    $(".hamburger.close-sidebar-btn.hamburger--elastic").on("click", function(){
+        console.log("hamburguer");
+    });
 });    

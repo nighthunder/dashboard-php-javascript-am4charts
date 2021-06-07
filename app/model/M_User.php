@@ -103,9 +103,8 @@ class M_User{
 			$userdata["politicaPrivacidade"] = 'S';
 		}
 
-		$sql = "INSERT INTO user (`id`, `office_id`, `rule_id`, `state_id`, `position_id`, `email`, `fullname`, `passwd`, `address`, `zip_code`, `phone`, `birth_date`, `sex`, `nick`, `activity`, `institution`, `office`, `state`, `county`, `indicador`, `funcionalidade`,`newsletter`,`lgpd`,`create_date`)
-		 VALUES (DEFAULT, '1', '2', '1', '1','".utf8_decode($userdata["email"])."','".utf8_decode($userdata["nomeCompleto"])."',md5(".$userdata["senha"]."),NULL,NULL,NULL,NOW(),'feminino',NULL,'".utf8_decode($userdata["atividade"])."','".utf8_decode($userdata["instituicao"])."','".utf8_decode($userdata["cargo"])."','".utf8_decode($userdata["estado"])."','".utf8_decode($userdata["municipio"])."','".utf8_decode($userdata["politicaIndicador"])."','"
-		 .utf8_decode($userdata["politicaFuncionalidade"])."','".utf8_decode($userdata["politicaEmail"])."','".utf8_decode($userdata["politicaPrivacidade"])."', now())";
+		$sql = "INSERT INTO user (`id`, `office_id`, `rule_id`, `state_id`, `position_id`, `email`, `fullname`, `passwd`, `address`, `zip_code`, `phone`, `birth_date`, `sex`, `nick`, `activity`, `institution`, `office`, `state`, `county`, `atualizacao`,`newsletter`,`lgpd`,`create_date`)
+		 VALUES (DEFAULT, '1', '2', '1', '1','".utf8_decode($userdata["email"])."','".utf8_decode($userdata["nomeCompleto"])."',md5(".$userdata["senha"]."),NULL,NULL,NULL,NOW(),'feminino',NULL,'".utf8_decode($userdata["atividade"])."','".utf8_decode($userdata["instituicao"])."','".utf8_decode($userdata["cargo"])."','".utf8_decode($userdata["estado"])."','".utf8_decode($userdata["municipio"])."','".utf8_decode($userdata["politicaAtualizacao"])."','".utf8_decode($userdata["politicaEmail"])."','".utf8_decode($userdata["politicaPrivacidade"])."', now())";
 		//echo $sql;
 		$qry = $this->db->query($sql);
 
@@ -199,7 +198,7 @@ class M_User{
 
 	function recuperarSenha($email, $code, $senha){
 
-		$sql = "Select * from user where email = '".$email."';";
+		$sql = "Select * from user where email = '".utf8_decode($email)."';";
 		//echo $sql;
 		$qry = $this->db->query($sql);
 		// var_dump($qry);
@@ -217,6 +216,7 @@ class M_User{
 					if (!$qry->rowCount() > 0 ){
 						$sql = "INSERT INTO user_emailtoken (id, email, token, code, create_date) VALUES (DEFAULT,'".$email."', '".$this->generateRandomString(25)."','".$this->generateRandomString(5)."', NOW());";
 						$qry = $this->db->query($sql);
+
 						$emailsender = new M_Email();
 
 						$sql = "Select * from user_emailtoken where email = '".$email."';";
@@ -228,12 +228,12 @@ class M_User{
 					}else{
 						$sql = "Select * from user_emailtoken where email = '".$email."' and code ='".$code."';";
 						//echo $sql;
-						$qry = $this->db->query($sql);
+						//$qry = $this->db->query($sql);
 						if ($qry){
 							
 							if ($qry->rowCount() > 0 ){
 								
-								$sql = "Update user set passwd = md5(".$senha.") where email = '".$email."';";
+								$sql = "Update user set passwd = md5(".utf8_decode(strval($senha)).") where email = '".utf8_decode($email)."';";
 								//echo $sql;
 								$qry = $this->db->query($sql);
 								if ($qry){
@@ -249,7 +249,7 @@ class M_User{
 				}
 			}
 		}else{
-			return "sdfsdf";
+			return "Erro na query";
 		}
 	}
 

@@ -46,15 +46,15 @@ function configPHP(){
 		define("URL_GRAPHICS",	"http://40.87.98.243/app/views/html/");
 
 		// PRODUCAO - OCULTA ERROS
-		error_reporting(0);
-		ini_set('display_errors', FALSE);
-		ini_set('display_startup_errors', FALSE);	
+		error_reporting(E_ALL & ~E_NOTICE);
+		ini_set('display_errors', TRUE);
+		ini_set('display_startup_errors', TRUE);	
 		
 	}else{ // localhost
 		define("CONTROLLER_PADRAO","index");
 		define("METODO_PADRAO","index");
 		define("NAMESPACE_CONTROLLER",	'app\\controllers\\');
-		define("URL_BASE",	"http://localhost/amazonia-legal/");
+		define("URL_BASE",	"http://localhost/amazonia-legal-am4chart/");
 		define("URL_LOGIN",	URL_BASE."app/views/login/");
 		define("URL_DASHBOARD",	URL_BASE."app/views/dashboard/");
 		define("URL_GRAPHICS",	URL_BASE."app/views/html/");

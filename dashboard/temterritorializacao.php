@@ -3,7 +3,9 @@
 require_once "../app/functions/functions.php";
 require_once "../config/config2.php";
 require_once '../app/model/M_Perfil.php';
+// require_once '../app/model/graphics/M_Chart.php';
 use app\models\M_Perfil;
+// use app\models\M_Chart;
 $perfil= new M_Perfil;
 $filtro_areas = $perfil->getArea(); // Area filtro 
 $filtro_indicadores = $perfil->getIndicador(); // Indicador em evolucao
@@ -42,6 +44,10 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
     <!-- <link href="./rodape.css" rel="stylesheet"></link> -->
     <link href="../assets/style/rodape.css" rel="stylesheet"></link>
     <link href="../assets/style/modal.css" rel="stylesheet">
+    <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+    <script src="//www.amcharts.com/lib/4/lang/pt_BR.js"></script>
 </head>
 <body>
 <div class="app-container app-theme-white body-tabs-shadow fixed-header fixed-sidebar" >
@@ -162,8 +168,8 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                                         </select>
                                                     </div>
                                                 </div>
-                                                <div class="col-md-3 col-lg-1 position-relative row form-check btn-pesquisar">
-                                                    <div class="col-sm-11 col-lg-11">
+                                                <div class="col-md-3 col-lg-1 position-relative row form-check btn-pesquisar ml-3">
+                                                    <div class="">
                                                         <button class="btn btn-secondary bg-bordo btn-pesquisar btn-pesquisar-2">Pesquisar</button>
                                                     </div>
                                                 </div>
@@ -191,68 +197,70 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                     </div>
                                     <div class="card-body col-lg-12 row">
                                         <div class="col-lg-9">                        
-                                        <?php 
-                                            $perfil->getTextoEvolucao($_GET["indicador"]);
-                                            $graficos_evolucao = $perfil->getGraficosEvolucao($_GET["indicador"],$_GET["regiao"], $_GET["area"]);
-                                        ?>    
-                                        <?php 
-                                            $vez = 0;
-                                            foreach($graficos_evolucao as $grafico){
-                                                if ($vez == 0 and $grafico["unico"] != 1){
-                                                    echo  "<div class=\"card-header\""."><ul class=\"nav nav-justified\">"; 
-                                                    $vez = 1;
-                                                }
-                                            } 
-                                        ?>   
-                                        <?php
-                                            $i = 0;
-                                            foreach($graficos_evolucao as $grafico){
-                                                   if ($grafico["ativo"] == "1" and $grafico["unico"] != 1){
-                                                        echo "<li class=\"nav-item active\">";     
-                                                        echo "<a data-toggle=\"tab\" href=\"#tab-eg7-0\" class=\"nav-link active\">".$grafico["titulo"]."</a></li>";
-                                                        
-                                                   } else if ($grafico["unico"] != 1){
-                                                        echo "<li class=\"nav-item\">"; 
-                                                        echo "<a data-toggle=\"tab\" href=\"#tab-eg7-".$i."\" class=\"nav-link\">".$grafico["titulo"]."</a></li>";
-                                                   }
-                                                   $i++;
-                                            }
-                                        ?>
-                                        <?php 
-                                            $vez = 0;
-                                            foreach($graficos_evolucao as $grafico){
-                                                if ($vez == 0 and $grafico["unico"] != 1){
-                                                    echo  "</ul></div>"; 
-                                                    $vez = 1;
-                                                }
-                                            }  
-                                        ?>      
-                                        <div class="card-body">
-                                            <div class="tab-content">
-                                            <?php        
+                                            <?php 
+                                                $perfil->getTextoEvolucao($_GET["indicador"]);
+                                                $graficos_evolucao = $perfil->getGraficosEvolucao($_GET["indicador"],$_GET["regiao"], $_GET["area"]);
+                                            ?>    
+                                            <?php 
+                                                $vez = 0;
+                                                foreach($graficos_evolucao as $grafico){
+                                                    if ($vez == 0 and $grafico["unico"] != 1){
+                                                        echo  "<div class=\"card-header\""."><ul class=\"nav nav-justified\">"; 
+                                                        $vez = 1;
+                                                    }
+                                                } 
+                                            ?>   
+                                            <?php
                                                 $i = 0;
                                                 foreach($graficos_evolucao as $grafico){
-                                                    if ($grafico["ativo"] == "1"){
-                                                        echo "<div class=\"tab-pane active\" id=\"tab-eg7-0\" role=\"tabpanel\">";
-                                                    }else{
-                                                        echo "<div class=\"tab-pane\" id=\"tab-eg7-".$i."\" role=\"tabpanel\">";  
+                                                    if ($grafico["ativo"] == "1" and $grafico["unico"] != 1){
+                                                            echo "<li class=\"nav-item active\">";     
+                                                            echo "<a data-toggle=\"tab\" href=\"#tab-eg7-0\" class=\"nav-link active\">".$grafico["titulo"]."</a></li>";
+                                                            
+                                                    } else if ($grafico["unico"] != 1){
+                                                            echo "<li class=\"nav-item\">"; 
+                                                            echo "<a data-toggle=\"tab\" href=\"#tab-eg7-".$i."\" class=\"nav-link\">".$grafico["titulo"]."</a></li>";
                                                     }
                                                     $i++;
-                                                    //var_dump($grafico);
-                                                    echo "<iframe width=\"100%\" height=\"400\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
-                                                    echo "<p class=\"fonte\">".$grafico["fonte"].$grafico["OBS"]."</p>";
-                                                    echo "</div>";
-                                                } 
+                                                }
                                             ?>
+                                            <?php 
+                                                $vez = 0;
+                                                foreach($graficos_evolucao as $grafico){
+                                                    if ($vez == 0 and $grafico["unico"] != 1){
+                                                        echo  "</ul></div>"; 
+                                                        $vez = 1;
+                                                    }
+                                                }  
+                                            ?>      
+                                            <div class="card-body">
+                                                <div class="tab-content">
+                                                <?php        
+                                                    $indice = 0;
+                                                    foreach($graficos_evolucao as $grafico){
+                                                        if ($grafico["ativo"] == "1"){
+                                                            echo "<div class=\"tab-pane active\" id=\"tab-eg7-0\" role=\"tabpanel\">";
+                                                        }else{
+                                                            echo "<div class=\"tab-pane\" id=\"tab-eg7-".$indice."\" role=\"tabpanel\">";  
+                                                        }
+                                                        $secao = "evolucao";
+                                                        // echo "indice:".$indice;
+                                                        include("../app/controllers/graphicgenerator.php");
+                                                        $indice++;
+    
+                                                        echo "<p class=\"fonte\">".$grafico["fonte"].$grafico["OBS"]."</p>";
+                                                        echo "</div>";
+                                                    } 
+                                                ?>
+                                                </div>
                                             </div>
-                                        </div>
-                                        </div>
-                                        <div class="col-lg-3">
-                                            <h4 class="texto"><?php    
-                                                echo $perfil->getTextoIndicadorEvolucao($_GET["indicador"],$_GET["regiao"]);
-                                            ?></h4>  
-                                        </div> 
                                     </div>
+                                    <div class="col-lg-3">
+                                        <h4 class="texto"><?php    
+                                            echo $perfil->getTextoIndicadorEvolucao($_GET["indicador"],$_GET["regiao"]);
+                                        ?></h4>  
+                                    </div> 
+                                </div>
                                 </div>
                                 <div class="card-hover-shadow-2x mb-3 card">
                                     <div class="card-header-tab card-header">
@@ -288,9 +296,12 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                              }
                                        </script>
                                         <div class="btn-actions-pane-right text-capitalize actions-icon-btn">
-                                            <a class="text-right float-right" href="#" onclick="javascript: downloadResources('<?php echo $_GET['indicador'].'_TERRITORIALIZACAO';?>','territorializacao', 'csv_territorializacao')" download>
-                                                <img class="" src="../assets/images/svg/Download.svg"/>
-                                            </a>
+                                            <?php if (verify_login()){ ?>
+                                                <a class="text-right float-right" href="#" onclick="javascript: downloadResources('<?php echo $_GET['indicador'].'_TERRITORIALIZACAO';?>','territorializacao', 'csv_territorializacao')" download>
+                                                <img class="" src="../assets/images/svg/Download.svg"/></a>
+                                            <?php    }else{ ?>
+                                                        <img src="../assets/images/svg/Download.svg" style="float:right;" onclick="" data-target="#alertaNaoCadastrado" class="float:right" data-toggle="modal"/>
+                                            <?php    }    ?>              
                                         </div>
                                         </a>
                                     </div>
@@ -385,6 +396,7 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                         </div>
                                     </div>
                                 </div>
+                               
                                 <?php
                                 if( !empty($perfil->temDestaques($_GET["indicador"])) ){      
                                     include("temdestaques.php");
@@ -647,7 +659,7 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                             <label class="custom-control-label" for="exampleCustomCheckbox2444">&nbsp;</label></div>
                                     </div>
                                     <div class="widget-content-left mr-3">
-                                        <div class="widget-content-left"><img width="42" class="rounded" src="assets/images/avatars/1.jpg" alt=""/></div>
+                                        <div class="widget-content-left"></div>
                                     </div>
                                     <div class="widget-content-left">
                                         <div class="widget-heading">Go grocery shopping</div>
@@ -725,44 +737,28 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                     <h4 class="timeline-title">Something not important
                                         <div class="avatar-wrapper mt-2 avatar-wrapper-overlap">
                                             <div class="avatar-icon-wrapper avatar-icon-sm">
-                                                <div class="avatar-icon"><img
-                                                        src="assets/images/avatars/1.jpg"
-                                                        alt=""></div>
+                                                <div class="avatar-icon"></div>
                                             </div>
                                             <div class="avatar-icon-wrapper avatar-icon-sm">
-                                                <div class="avatar-icon"><img
-                                                        src="assets/images/avatars/2.jpg"
-                                                        alt=""></div>
+                                                <div class="avatar-icon"></div>
                                             </div>
                                             <div class="avatar-icon-wrapper avatar-icon-sm">
-                                                <div class="avatar-icon"><img
-                                                        src="assets/images/avatars/3.jpg"
-                                                        alt=""></div>
+                                                <div class="avatar-icon"></div>
                                             </div>
                                             <div class="avatar-icon-wrapper avatar-icon-sm">
-                                                <div class="avatar-icon"><img
-                                                        src="assets/images/avatars/4.jpg"
-                                                        alt=""></div>
+                                                <div class="avatar-icon"></div>
                                             </div>
                                             <div class="avatar-icon-wrapper avatar-icon-sm">
-                                                <div class="avatar-icon"><img
-                                                        src="assets/images/avatars/5.jpg"
-                                                        alt=""></div>
+                                                <div class="avatar-icon"></div>
                                             </div>
                                             <div class="avatar-icon-wrapper avatar-icon-sm">
-                                                <div class="avatar-icon"><img
-                                                        src="assets/images/avatars/6.jpg"
-                                                        alt=""></div>
+                                                <div class="avatar-icon"></div>
                                             </div>
                                             <div class="avatar-icon-wrapper avatar-icon-sm">
-                                                <div class="avatar-icon"><img
-                                                        src="assets/images/avatars/7.jpg"
-                                                        alt=""></div>
+                                                <div class="avatar-icon"></div>
                                             </div>
                                             <div class="avatar-icon-wrapper avatar-icon-sm">
-                                                <div class="avatar-icon"><img
-                                                        src="assets/images/avatars/8.jpg"
-                                                        alt=""></div>
+                                                <div class="avatar-icon"></div>
                                             </div>
                                             <div class="avatar-icon-wrapper avatar-icon-sm avatar-icon-add">
                                                 <div class="avatar-icon"><i>+</i></div>
@@ -942,6 +938,27 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                         </tfoot>
                         </table>
 
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="alertaNaoCadastrado" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title card-header-title" id="ex
+                ampleModalLongTitle">Amazônia Legal em Dados</h5>
+                <div class="btn-actions-pane-right actions-icon-btn">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button> 
+                </div>
+            </div>
+            <div class="modal-body">
+               <p> Cadastre-se para habilitar esta funcionalidade. </p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>

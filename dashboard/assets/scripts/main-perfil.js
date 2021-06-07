@@ -323,15 +323,16 @@ function salvarCookie(chave, valor, duracaoEmDias)
       // Solução para o problema dos gráficos do Plotly que expremem a lgenda quando estão em abas
       $("a.nav-link").on("click",function(){ // esse é o link de uma aba
 
-        var $id_grafico_atual = $(this).attr("href").slice(1);
+        // var $id_grafico_atual = $(this).attr("href").slice(1);
 
-        var $pai = $('#'+$id_grafico_atual).parent().clone();
+        // var $pai = $('#'+$id_grafico_atual).parent().clone();
 
-        $('#'+$id_grafico_atual).parent().html($pai);
+        // $('#'+$id_grafico_atual).parent().html($pai);
 
-        console.log($id_grafico_atual+"sad2");
-        console.log($(this).attr("href")+"sad3");
-     
+        // console.log($id_grafico_atual+"sad2");
+        // console.log($(this).attr("href")+"sad3");
+        $('.nav-item').removeClass('active');
+        $(this).parent().addClass('active');
       });  
 
       $(".app-container").addClass("closed-sidebar");
@@ -349,4 +350,14 @@ function salvarCookie(chave, valor, duracaoEmDias)
       $('.hideOptions').click(esconderOpcoes);
       $('.showOptions').click(mostrarOpcoes);
       $('.option').click(selecionaOpcao);
+
+      if ( $( ".closed-sidebar" ).length ) {
+ 
+        $( "btn-pesquisar-2" ).removeClass("ml-3");
+     
+     }
+
+     $(".closed-sidebar-btn").on("click", function(){
+      $( "btn-pesquisar-2" ).toggleClass("ml-3");
+     });
    });       

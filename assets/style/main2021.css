@@ -27,22 +27,15 @@ body{
 .mr-4, .mx-4{
     margin-right: 24px !important;
 }
-  
-/* .btn .btn-secondary:hover{
-    background: rgba(255,255,255,0.15) !important;
+
+.btn-pesquisar, .btn-pesquisar-1, .btn-pesquisar-2{
+    font-weight: bold;
+}
+
+.app-sidebar.sidebar-text-light .vertical-nav-menu li a:hover{
+    font-weight: bold;
 }
   
-  .menu-icon{
-    width: 34px;
-    height: 34px;
-    line-height: 34px;
-    position: absolute;
-    left: 5px;
-    top: 50%;
-    margin-top: -17px;
-    font-size: 1.5rem;
-  } */
-
 /************* AMAZONIA LEGAL OTHER SPECIFICATIONS *****************/
   
   .page-title-wrapper{
@@ -201,4 +194,84 @@ body{
 {
     margin: 0;
     font-weight: bold;
+}
+
+.slidepic:hover{
+    filter: brightness(1);
+    cursor: pointer;
+    animation: inhoverpic 0.4s forwards ease-in-out;
+}
+
+.slidepic{
+    filter: brightness(0.25);
+    -webkit-filter: brightness(0.25);
+    -moz-filter: brightness(0.25);
+    border-bottom-left-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+    height: 340px;
+}
+
+@keyframes inhoverpic {
+    from {filter: brightness(0.35);
+        -webkit-filter: brightness(0.35);
+        -moz-filter: brightness(0.35);}
+    to {filter: brightness(1);
+        -webkit-filter: brightness(1);
+        -moz-filter: brightness(1);}
+}
+  
+.btn-focus{
+    background-color: #681139 !important;
+    font-weight: bold !important;
+    border-radius: 10px !important;
+    width: 95px !important;
+}
+.btn-focus:hover{
+    background-color: #7f3457 !important;
+    border-color: transparent !important;
+}
+
+.fa-angle-down::before{
+    color: #681139;
+}
+
+.btn-secondary{
+    background-color: #681139;
+    font-weight: bold;
+    letter-spacing: 0.04em;
+}
+
+.btn-secondary:hover{
+    border-color:  #7f3457 ;
+}
+
+.btn-primary{
+    border-color: #681139;
+    background: #681139;
+}
+
+.btn-primary:hover{
+    background: #7f3457 !important;
+    border-color:  #7f3457 ;
+}
+
+.card-header > .nav .nav-item{
+    padding: 30px;
+}
+
+.btn{
+    border-radius: 5px;
+    height: 2.8em;
+}
+
+@media (max-width: 1320px){
+    .header-user-info{
+        display: initial !important;
+    }
+}
+
+@media (min-width: 1024px){
+    .vertical-nav-menu li a{
+        padding: 0 1.5rem 2.75rem 45px !important;
+    }
 }

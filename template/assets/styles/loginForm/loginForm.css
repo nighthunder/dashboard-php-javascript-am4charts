@@ -62,10 +62,12 @@
   background-color: #480625;
   color: #fff;
   width: 120px;
+  font-weight: bold;
 }
 
 .loginModal .loginFormSendButton:hover {
   background-color: #7f3457;
+  color: #fff;
 }
 
 .loginModalWrapper {
@@ -94,7 +96,11 @@
   color: #495057;
   transition: border 0.6s linear;
   border-radius:5px;
-  background-color: #eee;
+  background-color: #fff;
+  padding: 20px;
+  height: 20px;
+  letter-spacing: 0.02em;
+
 }
 .fieldsGroup .loginFormField:not(:last-child) {
   margin-bottom: 34px;

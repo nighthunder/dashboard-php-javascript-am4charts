@@ -28,9 +28,13 @@
                                              }
                                        </script>
                                         <div class="btn-actions-pane-right text-capitalize actions-icon-btn">
+                                            <?php if (verify_login()){ ?>
                                             <a class="text-right float-right" href="#" onclick="javascript: downloadResources('<?php echo $_GET['indicador'].'_TERRITORIALIZACAO';?>')" download>
                                                 <img class="" src="../assets/images/svg/Download.svg"/>
                                             </a>
+                                            <?php } else {?> 
+                                                <img src="../assets/images/svg/Download.svg" style="float:right;" onclick="" data-target="#alertaNaoCadastrado" class="float:right" data-toggle="modal"/>
+                                            <?php } ?>   
                                         </div>
                                     </div>
                                     <div class="card-body">

@@ -1,0 +1,11 @@
+_line
+_bar_line
+_bar
+_bar_cat
+_radar
+_line_pred
+_pyramid
+
+
+Extremely useful query:
+SELECT (Select REGIAO from perfil_graficos_dicionario as pro where p.chart = pro.TABELA ) as regiao, (Select AREA from perfil_graficos_dicionario as pro where p.chart = pro.TABELA ) as area, (Select INDICADOR from perfil_graficos_dicionario as pro where p.chart = pro.TABELA ) as indicador, chart, serie, serie_label, opening, opening_label, stacked, category, category_label FROM amazoniadevdata.profile_chart_data as p where chart like '%bar%' and OPENING is null and stacked = 0 and chart IN (Select TABELA from perfil_graficos_dicionario as pro where p.chart = pro.TABELA );

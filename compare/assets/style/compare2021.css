@@ -1,0 +1,369 @@
+/************* AMAZONIA LEGAL (AML) GENERAL SPECIFICATIONS *****************/
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+  }
+  
+  .avatar{
+    border-radius: 50% !important;
+    background-color: #e1dcdc;
+    height: 40px;
+    width: 40px;
+    padding-top: 9px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .bg-green{
+    background: #3ac09a !important;
+  }
+  
+  .cl-green{
+    color: #3ac09a !important;
+  }
+  
+  .bg-bordo{
+    background: #681139 !important;
+  }
+  
+  .cl-bordo{
+    color: #681139 !important;
+  }
+  
+  .cl-orange{
+    color: #F7892F !important;;
+  }
+  
+  .bg-orange{
+    background: #F7892F !important;
+  }
+  
+  /************* AMAZONIA LEGAL OTHER SPECIFICATIONS *****************/
+  
+  .card-header > .nav .nav-link.active,.card-header > .nav .nav-link:hover{
+    color: #681139 !important;
+    font-weight: 600;
+  }
+  .card-header > .nav .nav-link.active{
+    font-weight: 600;
+  }
+  h2{
+    letter-spacing: 0.02em !important;
+  }
+  .card-header > .nav .nav-link::before{
+    background:  #681139 !important;
+  }
+  .page-title-wrapper{
+    background: url("../../../assets/images/AML/header.png");
+    background-repeat: no-repeat;
+    color: #ffffff;
+    border-radius: 10px;
+    background-size: 100% 100%;
+  }
+  .tab-pane-1{
+    display: initial !important;
+  }
+  .btn-search, .btn-search:hover{
+    background-color: #f1f4f6;
+    border-color: #f1f4f6;
+  }
+  .fas.fa-search{
+    color: gray;
+    font-size: 14px;
+  }
+  .sub-destaque{
+    color: #000;
+    font-size: 13px;
+    font-weight: normal;
+    letter-spacing: normal;
+  }
+  .destaque-texto{
+    font-size: 26px;
+    padding: 3px;
+    letter-spacing: 0.04em;
+  }
+  .vertical-nav-menu li a{
+    font-weight: 700;
+  }
+  .card-header-title{
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    overflow: hidden;
+    letter-spacing: 0.05em;
+  }
+  table.table-bordered.dataTable th, table.table-bordered.dataTable td{
+    vertical-align: middle !important;
+  }
+  .app-sidebar.sidebar-text-light .vertical-nav-menu li a:hover{
+    background-color: #7f3457 !important;
+  }
+  .menu-icon{
+    width: 25px;
+    height: 25px;
+    line-height: 34px;
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    margin-top: -17px;
+    font-size: 1.5rem;
+  }
+  .dropdown-menu-header .menu-header-image{
+    opacity: 100% !important;
+  }
+  a.nav-link{
+    padding: .5rem 0.2rem 0.9rem;
+  }
+  a.nav-link-header{
+    color: #681139 !important;
+    font-weight: bold !important;
+    padding: .5rem 1rem;
+  }
+  .vertical-nav-menu li a{
+    letter-spacing: 0.05em;
+    font-size: 13.5px !important;
+  }
+  .card-header.card-header-tab .card-header-title{
+    white-space: normal;
+  }
+  select option:disabled{
+    color: #495057;
+    line-height: 24px;
+    font-weight: bold;
+  }
+  .btn-secondary:hover{
+    background-color: #7f3457 !important;
+  }
+  .fonte{
+    font-size: 12px;
+  }
+  .btn-secondary{
+    border-color: #923c64; 
+  }
+  .card{
+    box-shadow: 0 0.46875rem 2.1875rem rgba(4,9,20,0.05),0 0.9375rem 1.40625rem rgba(4,9,20,0.05),0 0.25rem 0.53125rem rgba(4,9,20,0.05),0 0.125rem 0.1875rem rgba(4,9,20,0.05);
+  }
+  .card-body.destaque-texto{
+    background: rgba(255,255,255,0.1);
+  }
+  .card.text-dark.text-white .card-footer, .card.text-dark.text-white .card-header, .card.text-white .card-footer, .card.text-white .card-header{
+    background: rgba(255,255,255,0);
+  }
+  .app-sidebar.sidebar-text-light .vertical-nav-menu li a{
+    color: rgba(255,255,255,1) !important;
+  }
+  .app-theme-white .app-page-title{
+    background: none;
+  }
+  .table-hover tbody tr:hover{
+    background-color: #EADDE3;
+  }
+  .card-header-tab.card-header, .form-control-1, .form-control-2, .form-control-3{
+    color: #000 !important;
+  }
+  .app-main__outer{
+    background-color: #f1f4f6;
+  }
+  .opcy-30{
+    opacity: .3;
+  }
+  .app-sidebar.sidebar-text-light .vertical-nav-menu li a:hover{
+    background-color: #7f3457 !important;
+  }
+  .btn-focus, .btn-focus:active, .btn-focus:visited, .btn-focus:hover{
+    background-color: #3ac09a;
+  }
+  .vertical-nav-menu li a{
+    letter-spacing: 0.05em;
+    font-size: 13px !important;
+  }
+  .app-sidebar.sidebar-text-light .vertical-nav-menu li a:hover{
+    background-color: #7f3457 !important;
+    border-radius: 10px;
+  }
+  .form-control{
+    border: none !important;
+    margin-top: 1.5px;
+    height: 34px;
+  }
+  .table thead th{
+    vertical-align: middle;
+  }
+  .td-total{
+    color: #681139;
+  }
+  @media (min-width: 768px) {
+    .user-name{
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      line-height: 24pt;
+    }
+    .page-title-wrapper{
+        size: 42px;
+        line-height: 48px;
+        height: 165px;
+    }  
+    .card-destaque{
+        width: 30%;
+        float: left;
+        margin-left: 15px;
+        font-weight: 700;
+    }
+    .app-page-title .page-title-heading{
+      padding: 15px;
+      padding-bottom: 25px;
+      padding-top: 10px;
+    }
+    #form-search{
+      padding-left: 15px;
+    }
+    .btn-pesquisar{
+      margin-top: -7px;
+    }
+    .btn-search{
+      padding: 3px 6px;
+      margin-left: -10px;
+      margin-right: -1px !important;
+      margin-top: -40px;
+    }
+    .card-destaque .card-header{
+      padding: 5px;
+      padding-left: 5px;
+      height: 90px;
+      padding-left: 25px;
+      font-size: 16px;
+    }
+    .texto{
+      font-size: 16px;
+      line-height: 29px;
+      margin-bottom: 25px;
+    }
+    .position-relative.form-group{
+      width: 260px;
+    }
+    .card-header-title{
+      font-size: 16px !important;
+    }
+    .card-header{
+      height: 60px;
+    }
+    .td-wd-30{
+      width: 30% !important;
+    }
+    .td-wd-15{
+      width: 15% !important;
+    }
+    #opt_indicador{
+      width: 300px;
+    }
+    .filtro-ico{
+      position: absolute;
+      top: 14%;
+      font-size: 13px;
+      left: 1%;
+    }
+    .form-control{
+      padding-left: 20px !important;
+      margin-top: 3px;
+      font-size: 15px;
+    }
+    .form-control-1{
+      width: 200px !important;
+    }
+    .form-control-2{
+      padding-left: 30px !important;
+      width: 250px !important;
+    }
+    .form-control-3{
+      width: 350px !important;
+      padding-left: 31px !important;
+    }
+    .form-group-1{
+      margin-left: -35px;
+    }
+    .btn-pesquisar-1{
+      margin-left: 31px;
+      width: 120px;
+      margin-top:3px;
+    }
+    .btn-email{
+      margin-right: -10px;
+      margin-top: -35px !important;
+    }
+     .u-go-to{
+      z-index: 100;
+      width: 2.5rem;
+      height: 2.5rem;
+      background-color: #3ac09a;
+      color: #fff;
+      font-size: 0.75rem;
+      border-radius: 0.6rem;
+      opacity: 0.6;
+      transition: 0.3s ease-out;
+      padding-top: 10px;
+    }
+    .u-go-to:hover{
+      color: #000;
+    }
+    .btn-actions-pane-right.text-capitalize.actions-icon-btn{
+      width: 250px;
+    }
+    .row-especial{
+      width: 100%;
+      margin-left: 0px;
+      margin-left: -10px;
+    }
+    .app-sidebar .app-sidebar__inner{
+      padding: 30px 1.5rem 1.5rem 0.75rem !important;
+    }
+    .titulo{
+      font-weight: 700 !important;
+      margin-top: -25px !important;
+      margin: -30px 0px 30px 20px !important;
+      letter-spacing: 0.04em;
+    }
+    .form-row{
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -5px;
+      margin-left: -5px;
+      background-color: white;
+      border-radius: 5px;
+      vertical-align: middle;
+      height: 45px;
+      box-shadow: 0 0.46875rem 2.1875rem rgba(4,9,20,0.03),0 0.9375rem 1.40625rem rgba(4,9,20,0.03),0 0.25rem 0.53125rem rgba(4,9,20,0.05),0 0.125rem 0.1875rem rgba(4,9,20,0.03);
+      max-width: 1130px;
+      border: 2px solid #c8d0c7;
+      font-size: 0.95rem;
+    }
+    #logo{
+      margin-bottom: -13px;
+    }
+    .app-theme-white .app-footer .app-footer__inner, .app-theme-white .app-header{
+      background: none;
+    }
+    .app-wrapper-footer .app-footer {
+      border-top: none;
+    }
+  }
+  
+  @media (width: 1024px){
+    .btn-pesquisar-1{
+      margin-left: -16px;
+    }
+  }
+  
+  
+  .app-footer{
+    margin-left: 0px !important;
+  }
+  
+  .informacoesContato .textoCadastroEmail{
+    width: 265px !important;
+  }
+  
+  h2{
+    letter-spacing: 0.04em !important;
+  }
+  

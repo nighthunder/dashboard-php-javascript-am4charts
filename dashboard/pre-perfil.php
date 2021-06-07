@@ -85,7 +85,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if($f["AREA"] == "Demografia" and !in_array(utf8_encode($f["GRUPO"]), $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                             array_push($indicadores, utf8_encode($f["GRUPO"]));
                                         } 
 
@@ -110,7 +110,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if(utf8_encode(strtolower($f["AREA"])) == strtolower("Educação") and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                             array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -133,7 +133,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if(utf8_encode(strtolower($f["AREA"])) == strtolower("Saúde") and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                             array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -156,7 +156,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if(utf8_encode(strtolower($f["AREA"])) == strtolower("Segurança") and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                             array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -179,7 +179,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if($f["AREA"] == "Desenvolvimento Social" and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                             array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -202,7 +202,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if($f["AREA"] == "Economia" and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                             array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -225,7 +225,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if(utf8_encode(strtolower($f["AREA"])) == strtolower("Ciência e Tecnologia") and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                              array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -248,7 +248,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if($f["AREA"] == "Infraestrutura" and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                             array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -271,7 +271,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if($f["AREA"] == "Saneamento" and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                             array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -294,7 +294,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
                                     
                                     foreach($filtro_indicadores as $f){
                                         if($f["AREA"] == "Meio Ambiente" and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                              array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }
@@ -317,7 +317,7 @@ $filtro_indicadores = $perfil->getIndicador2($_GET["regiao"]);
 
                                     foreach($filtro_indicadores as $f){
                                         if($f["AREA"] == "Institucional" and !in_array($f["GRUPO"], $indicadores)){
-                                            echo "<a href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
+                                            echo "<a class='link1' href='perfil.php?regiao=".utf8_encode($f["REGIAO"])."&area=".utf8_encode($f["AREA"])."__".$f["id"]."&indicador=".$f["INDICADOR"]."__".$f["id"]."&primeiro'><p>".utf8_encode($f["GRUPO"])."</p></a>";
                                              array_push($indicadores, $f["GRUPO"]);
                                         } 
                                     }

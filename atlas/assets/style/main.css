@@ -120,9 +120,7 @@
   }
 
   @media (min-width: 1200px){
-    .registerModal, .loginModal{
-      margin: 4rem auto !important;
-    }
+
   }
   
   @media (min-width: 1300px){

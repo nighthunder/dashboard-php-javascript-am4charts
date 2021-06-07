@@ -12,6 +12,7 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
 // echo "<pre>ola";
 // var_dump($filtro_indicadores);
 // echo "</pre>";
+$pagina = "compare";
 ?>
 <!doctype html>
 <html lang="en">
@@ -31,6 +32,7 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
     <?php include_once("../template/app-header-includes.php"); ?>
     <link href="../assets/style/rodape.css" rel="stylesheet"></link>
     <link href="../assets/style/main2021.css" rel="stylesheet"></link>
+    <link href="./assets/style/compare2021.css" rel="stylesheet"></link>
     <link href="../template/assets/styles/loginForm/loginForm.css" rel="stylesheet">
     <link href="../template/assets/styles/loginForm/recuperarSenhaForm.css" rel="stylesheet">
     <link href="../template/assets/styles/loginForm/codigoSegurancaForm.css" rel="stylesheet">
@@ -38,6 +40,10 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
     <!-- Download of folder with data -->
     <script src="../assets/js/js-zip/dist/jszip.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.8/FileSaver.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+    <script src="//www.amcharts.com/lib/4/lang/pt_BR.js"></script>
 </head>
 <body>
 <div class="app-container app-theme-white body-tabs-shadow fixed-header fixed-sidebar" >
@@ -220,7 +226,7 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                         <div class="card-body">
                                             <div class="tab-content">
                                             <?php        
-                                                $i = 0;
+                                                $indice = 0;
                                                 foreach($graficos_evolucao as $grafico){
                                                     //require_once '../assets/plots/'.$grafico["arquivo"];
                                                     //$pieces = explode(".", $grafico["arquivo"]);
@@ -228,11 +234,15 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                                     if ($grafico["ativo"] == "1"){
                                                         echo "<div class=\"tab-pane active\" id=\"tab-eg7-0\" role=\"tabpanel\">";
                                                     }else{
-                                                        echo "<div class=\"tab-pane\" id=\"tab-eg7-".$i."\" role=\"tabpanel\">";
+                                                        echo "<div class=\"tab-pane\" id=\"tab-eg7-".$indice."\" role=\"tabpanel\">";
                                                     }
-                                                    $i++;
+                                                    $regiao = $_GET["regiao"];
+                                                    $secao = "evolucao";
+                                                    // echo "indice:".$indice;
+                                                    include("../app/controllers/graphicgenerator.php");
+                                                    $indice++;
                                                     //var_dump($grafico);
-                                                    echo "<iframe width=\"100%\" height=\"370\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
+                                                    // echo "<iframe width=\"100%\" height=\"370\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
                                                     echo "<p class=\"fonte\">".$grafico["fonte"].$grafico["OBS"]."</p>";
                                                     echo "</div>";
                                                 } 
@@ -310,7 +320,8 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                             <div class="tab-content">
                                             <?php        
                                                 //var_dump($graficos_evolucao);
-                                                $i = 0;
+                                                $indice = 0;
+                                                
                                                 foreach($graficos_evolucao as $grafico){
                                                     //echo "oi";
                                                     //require_once '../assets/plots/'.$grafico["arquivo"];
@@ -319,10 +330,14 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                                                     if ($grafico["ativo"] == "1"){
                                                          echo "<div class=\"tab-pane active\" id=\"tab-eg8-0\" role=\"tabpanel\">";
                                                      }else{
-                                                        echo "<div class=\"tab-pane\" id=\"tab-eg8-".$i."\" role=\"tabpanel\">";                                                        
+                                                        echo "<div class=\"tab-pane\" id=\"tab-eg8-".$indice."\" role=\"tabpanel\">";                                                        
                                                      }
-                                                    $i++;
-                                                    echo "<iframe width=\"100%\" height=\"370\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
+                                                    $regiao = $_GET["regiao1"];
+                                                    $secao = "evolucao";
+                                                    // echo "indice:".$indice;
+                                                    include("../app/controllers/graphicgenerator.php");
+                                                    $indice++;
+                                                    // echo "<iframe width=\"100%\" height=\"370\" src=\"../assets/plots/".$grafico["arquivo"]."\" frameborder=\"0\" allowfullscreen></iframe>";
                                                     echo "<p class=\"fonte\">".$grafico["fonte"].$grafico["OBS"]."</p>";
                                                     echo "</div>";
                                                 } 
@@ -879,6 +894,27 @@ $filtro_regioes = $perfil->getRecorteGeografico(); // Regiao filtro
                         ?>
                         </tfoot>
                         </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="alertaNaoCadastrado" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title card-header-title" id="ex
+                ampleModalLongTitle">Amazônia Legal em Dados</h5>
+                <div class="btn-actions-pane-right actions-icon-btn">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button> 
+                </div>
+            </div>
+            <div class="modal-body">
+               <p> Cadastre-se para habilitar esta funcionalidade. </p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
